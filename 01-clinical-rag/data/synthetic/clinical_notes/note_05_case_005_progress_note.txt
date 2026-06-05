@@ -1,0 +1,70 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Ashley R. Patel
+**DATE OF VISIT:** 2025-06-13
+**DATE OF BIRTH:** 1984-02-17 (Age: 41)
+**SEX:** Female
+**MRN:** [REDACTED]
+**PROVIDER:** [Attending Physician, MD]
+**CLINIC:** [Primary Care / Internal Medicine]
+**INSURANCE:** Humana
+**PRIOR AUTH #:** [PA-CASE_005]
+
+---
+
+## CHIEF COMPLAINT
+
+"I need help losing weight. My other medications aren't working and my PCOS is getting worse."
+
+---
+
+## SUBJECTIVE
+
+Ms. Patel is a 41-year-old female with a well-established history of polycystic ovary syndrome (PCOS; E28.2) and morbid (severe) obesity (E66.01) presenting today for follow-up in the context of a prior authorization denial for semaglutide (Wegovy) by Humana on the basis that "alternative covered medications" are available. The purpose of this note is to document the clinical rationale for why those alternatives are medically inferior or have already failed for this patient.
+
+**History of Present Illness:**
+Ms. Patel has struggled with obesity for more than 15 years, with progressive weight gain worsened by her PCOS-related hyperandrogenism and insulin dysregulation. She reports persistent difficulty with weight loss despite multiple structured, supervised interventions. She endorses fatigue, irregular menses, hirsutism, acne, and persistent hunger/satiety dysregulation that she describes as "uncontrollable cravings," consistent with the hormonal milieu of PCOS. Her current BMI is 37 kg/m² (Class II/Severe Obesity), placing her at elevated risk for type 2 diabetes, cardiovascular disease, obstructive sleep apnea, and worsening reproductive dysfunction.
+
+**Prior Weight Loss Interventions Attempted and Failed:**
+
+1. **Structured caloric restriction and lifestyle modification program** — Patient was enrolled in a supervised medical weight management program from **January 2022 through July 2022** (6 months), targeting a 500–750 kcal/day deficit with weekly check-ins and nutritional counseling. Maximum weight loss achieved: 8 lbs. Weight was regained within 4 months of program completion due to hormonal-driven hunger and insulin resistance intrinsic to her PCOS.
+
+2. **Orlistat 120 mg TID with meals** — Prescribed **August 2022**, continued through **February 2023** (6 months). Patient experienced significant GI side effects including oily stools, fecal urgency, and flatus, with minimal clinically meaningful weight reduction (net loss of approximately 4 lbs). Discontinued due to poor tolerability and inadequate efficacy. This is a Humana-covered alternative that was tried and failed.
+
+3. **Phentermine/topiramate ER (Qsymia) 3.75 mg/23 mg titrated to 7.5 mg/46 mg** — Initiated **April 2023**, uptitrated at 8 weeks, continued through **October 2023** (6 months total). Patient achieved initial weight loss of approximately 6 lbs but experienced intolerable side effects including paresthesias, cognitive slowing ("brain fog"), and dry mouth. Discontinued at month 6. Net sustained weight loss was not maintained. This represents another covered alternative that was trialed and failed.
+
+4. **Naltrexone/bupropion ER (Contrave) 8 mg/90 mg**, titrated to goal dose of **32 mg/360 mg daily** — Initiated **January 2024**, titrated per standard 4-week protocol. Continued through **July 2024** (6 months). Patient reported nausea and headaches during titration, which partially resolved, but weight loss was subtherapeutic (approximately 5 lbs over 6 months, representing <3% total body weight). Additionally, patient had increased anxiety symptoms that she attributed to the bupropion component. Discontinued July 2024 after shared decision-making. This represents a third covered alternative that was trialed and failed.
+
+5. **Metformin 1000 mg BID** — Prescribed primarily for PCOS and insulin resistance management since **March 2021**, ongoing. Has not produced meaningful weight loss despite 4+ years of use. Patient remains on this medication. While valuable for metabolic parameters, metformin alone is inadequate for the degree of obesity-driven PCOS pathophysiology this patient exhibits.
+
+**Review of Systems:**
+- Positive: weight gain, fatigue, irregular menses (cycles every 45–90 days), hirsutism, acne, carbohydrate cravings, low energy
+- Negative: chest pain, dyspnea at rest, syncope, severe depression (PHQ-9 score: 7 — mild), active suicidal ideation (denies)
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Weight: 214 lbs (97.1 kg)
+- Height: 5'4" (162.6 cm)
+- BMI: **37.0 kg/m²** (Class II Obesity)
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 78 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- SpO₂: 98% on room air
+- Temperature: 98.4°F
+
+**Physical Examination:**
+- **General:** Well-appearing female in no acute distress; obese habitus
+- **Skin:** Facial and chin hirsutism noted; acne on jaw line and upper back; no acanthosis nigricans noted on current exam (previously documented)
+- **Abdomen:** Obese, soft, non-tender; no hepatosplenomegaly appreciated; central adiposity prominent
+- **Cardiovascular:** Regular rate and rhythm; no murmurs
+- **Respiratory:** Clear to auscultation bilaterally
+- **Neurologic:** Alert and oriented x4; no focal deficits
+
+**Recent Laboratory Data (drawn 2025-05-28):**
+- Fasting glucose: 104 mg/dL (borderline impaired fasting glucose)
+- HbA1c: 5.8% (prediabetes range)

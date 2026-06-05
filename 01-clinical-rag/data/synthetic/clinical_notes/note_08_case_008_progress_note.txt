@@ -1,0 +1,60 @@
+# PRIOR AUTHORIZATION SUPPORT — CLINICAL PROGRESS NOTE
+
+---
+
+**PATIENT:** Rachel M. Chen | **DOB:** 03/14/1991 | **Age:** 33 | **Sex:** Female
+**MRN:** 008-RMC-2024
+**DATE OF VISIT:** 2024-11-14
+**PROVIDER:** [Attending Physician Name, MD] | Primary Care Medicine
+**CLINIC:** [Clinic Name and Address]
+**NPI:** [Provider NPI]
+
+---
+
+## CHIEF COMPLAINT
+
+*"I've been struggling with my weight for years and my blood sugars are getting worse despite doing everything my doctor has told me."*
+
+Patient presents for follow-up of polycystic ovary syndrome (PCOS), type 2 diabetes mellitus with hyperglycemia, and morbid (class II) obesity. Visit is also conducted to document clinical justification for prior authorization of tirzepatide (Zepbound) following payer denial citing insufficient documentation.
+
+---
+
+## SUBJECTIVE
+
+**History of Present Illness:**
+Ms. Rachel Chen is a 33-year-old female with a longstanding history of PCOS (diagnosed age 19), progressive insulin resistance, and morbid obesity (class II, BMI 39 kg/m²). She presents today reporting continued difficulty with weight management, persistent hyperglycemia, irregular menstrual cycles, and fatigue. She endorses increased hunger, carbohydrate cravings consistent with insulin-driven hunger signaling, and difficulty with satiety — all well-documented features of her underlying neuroendocrine dysregulation in the context of PCOS and insulin resistance.
+
+**Diabetes History:**
+Ms. Chen was formally diagnosed with type 2 diabetes mellitus with hyperglycemia (E11.65) approximately 18 months ago (May 2023) with an initial HbA1c of 8.2%. She has consistently followed up with our clinic and has undergone progressive pharmacologic management. Despite treatment optimization, her most recent HbA1c (October 2024) remains at 7.9%, representing suboptimal glycemic control.
+
+**Prior Pharmacologic Treatment — Detailed Chronology:**
+
+1. **Metformin ER 500 mg daily** (initiated May 2023): Titrated over 4 weeks. Dose increased to **metformin ER 1000 mg twice daily** (2000 mg/day) by July 2023. Patient tolerated moderately but reported persistent GI discomfort. Maintained on this dose through present. HbA1c at 3-month mark (August 2023): 8.0% — minimal improvement. Weight at initiation: 107 kg; weight at 6 months: 105 kg. Inadequate glycemic and weight response documented.
+
+2. **Structured Medical Nutrition Therapy (MNT):** Patient formally referred to a registered dietitian in June 2023. Attended **12 individual sessions** over 6 months (June 2023 – December 2023) focusing on low-glycemic index dietary patterns, caloric deficit targeting, and carbohydrate counting. Documented adherence was good per dietitian records. Weight change over MNT course: -2.1 kg. Glycemic response: HbA1c 7.9% at completion of MNT program — insufficient improvement.
+
+3. **Supervised Exercise Program:** Patient enrolled in a structured exercise program through our clinic's lifestyle medicine department (August 2023 – February 2024) — 150 minutes per week of moderate-intensity aerobic exercise as per ADA guidelines, supplemented with resistance training twice weekly. Despite consistent participation, weight loss over 6 months was approximately 2.8 kg with no sustained maintenance. Patient reports exercise capacity has improved but notes weight loss plateau likely driven by hormonal dysregulation from PCOS.
+
+4. **Spironolactone 100 mg daily** (initiated January 2024 for PCOS/hyperandrogenism): Ongoing. Provides partial benefit for androgenic symptoms but no significant metabolic or weight benefit observed.
+
+5. **Oral contraceptive pill (combined ethinyl estradiol/norgestimate)** (initiated February 2024): Ongoing for PCOS cycle regulation. No significant metabolic impact on insulin resistance or weight.
+
+6. **Liraglutide (Victoza) 1.2 mg subcutaneous daily** (initiated March 2024): Prescribed as adjunctive agent for glycemic control given inadequate HbA1c response to metformin and lifestyle. Titrated from 0.6 mg over 2 weeks. Patient tolerated 1.2 mg dose but experienced dose-limiting nausea preventing titration to 1.8 mg. After **5 months of therapy (March 2024 – August 2024)**, HbA1c improved only marginally to 7.8% (from 7.9%), and weight change was -1.9 kg — clinically insufficient response. Liraglutide was discontinued in August 2024 given inadequate efficacy at maximum tolerated dose, and the patient's persistent suboptimal glycemic and weight outcomes.
+
+**Current Active Medications (as of November 2024):**
+- Metformin ER 1000 mg PO BID
+- Spironolactone 100 mg PO daily
+- Ethinyl estradiol/norgestimate (Lo Estrin equivalent) — one tablet daily
+- No current GLP-1 or GIP/GLP-1 agonist therapy
+
+**Allergies:** NKDA
+
+**Review of Systems:**
+- **Endocrine/Metabolic:** Fatigue, persistent carbohydrate cravings, difficulty with satiety, heat intolerance
+- **GYN:** Irregular menses despite OCP (breakthrough bleeding), hirsutism, acne
+- **Cardiovascular:** No chest pain; endorses mild dyspnea on exertion — under evaluation
+- **GI:** Intermittent bloating; prior GI intolerance with metformin now stable on ER formulation
+- **Psychiatric:** Reports low mood and frustration related to weight gain and failed treatment attempts; no formal depression diagnosis; PHQ-9 = 6 (mild)
+- **Musculoskeletal:** Bilateral knee discomfort with prolonged standing, attributed to BMI-related mechanical load
+
+**Social History:** Non-smoker. Occasional alcohol (1–2

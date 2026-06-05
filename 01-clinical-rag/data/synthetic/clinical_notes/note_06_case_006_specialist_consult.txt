@@ -1,0 +1,52 @@
+# SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Sandra K. Williams **DOB:** 03/14/1975 **Age:** 49 **Sex:** Female
+**MRN:** SKW-2024-0061
+**Referring Provider:** Dr. Michael T. Abrams, MD — Primary Care, Riverside Family Medicine
+**Consulting Provider:** Dr. Evelyn R. Castillo, MD, FACE — Endocrinology & Metabolism, Summit Endocrine Associates
+**Consult Date:** October 17, 2024
+**Insurance:** Cigna — Prior Authorization Case Reference #PA-CG-2024-88342 (Denied: Step Therapy Not Completed)
+
+---
+
+## REASON FOR CONSULTATION
+
+Ms. Williams is a 49-year-old female with established diagnoses of Class II obesity (E66.01) and primary hypothyroidism (E03.9) referred by her primary care physician for endocrinology evaluation and management of medically complex obesity. This consultation note is submitted in direct response to Cigna's denial of prior authorization for tirzepatide (Zepbound) on the basis of incomplete step therapy. The purpose of this note is to provide comprehensive documentation of prior pharmacological treatments attempted, treatment failures, and clinical rationale supporting initiation of tirzepatide as the most appropriate next therapeutic step.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Ms. Sandra K. Williams presents as a 49-year-old female with a 12-year history of obesity and a concurrent diagnosis of hypothyroidism managed on levothyroxine. Her current BMI is 36 kg/m², meeting criteria for Class II obesity per ICD-10 E66.01. She reports a longstanding pattern of weight gain that has been refractory to multiple structured interventions. Her obesity is compounded by the metabolic effects of hypothyroidism, which — despite her thyroid-stimulating hormone (TSH) currently being within therapeutic range on levothyroxine 88 mcg daily — contributes to a baseline metabolic disadvantage including reduced resting energy expenditure, fatigue, and limited exercise tolerance. She has been under the care of her PCP, Dr. Abrams, for the past seven years, during which time weight management has been a consistent and documented focus of her care.
+
+With respect to prior step therapy, Ms. Williams completed a medically supervised low-calorie diet and structured exercise program through Riverside Family Medicine's integrated wellness program from January 2022 through July 2022 (6 months). Despite adherence, she achieved only a 4% total body weight loss (approximately 8 lbs), which was subsequently regained in full by January 2023. In August 2022, Dr. Abrams initiated orlistat 120 mg three times daily with meals. Ms. Williams trialed this agent for a period of five months (August 2022 through December 2022). She experienced persistent and limiting gastrointestinal adverse effects — specifically fecal urgency, oily spotting, and frequent loose stools — that significantly impaired her quality of life and occupational functioning. The medication was discontinued in December 2022 due to intolerance, with a net weight change of less than 3 lbs over the course of the trial. In March 2023, phentermine/topiramate extended-release (Qsymia) 3.75 mg/23 mg was initiated and titrated to 7.5 mg/46 mg by six weeks per protocol. Ms. Williams tolerated the medication for approximately four months (March 2023 through June 2023), at which time the trial was discontinued due to inadequate efficacy — she achieved less than 3% weight loss at the target dose — as well as emerging cognitive side effects including word-finding difficulties and short-term memory impairment, which she found to be intolerable and which are a well-documented class effect of topiramate. Neuropsychological symptoms resolved upon discontinuation.
+
+Following the failure of phentermine/topiramate, Dr. Abrams initiated bupropion/naltrexone extended-release (Contrave) in September 2023, titrated over four weeks to the maintenance dose of naltrexone 32 mg/bupropion 360 mg daily. Ms. Williams completed a full six-month course through March 2024. Total weight loss achieved was approximately 5 lbs (approximately 2.5% total body weight), which did not meet the clinically meaningful threshold of ≥5% weight loss expected at six months. She did not experience significant adverse effects but derived no clinically meaningful or sustained benefit. She is therefore presenting to this consultation following documented, adequate trials of three separate FDA-approved weight management pharmacotherapies, each of which failed due to either intolerance or inadequate efficacy. No incretin-based therapy has yet been prescribed. Based on this documented step therapy history, the clinical indication for advancement to a GLP-1/GIP dual agonist — specifically tirzepatide (Zepbound) — is well-supported by both clinical evidence and guideline-based practice.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Class II Obesity (E66.01) — onset approximately age 37, progressive course
+2. Primary Hypothyroidism (E03.9) — diagnosed 2011, stable on levothyroxine
+3. No prior bariatric surgery
+4. No personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2 (MEN2)
+5. No history of pancreatitis
+6. No history of gallbladder disease
+7. No personal history of cardiovascular disease, diabetes mellitus, or hyperlipidemia (most recent fasting lipid panel within normal limits, July 2024)
+8. No known drug allergies
+
+---
+
+## CURRENT MEDICATIONS
+
+1. Levothyroxine 88 mcg orally once daily (thyroid replacement therapy)
+2. Vitamin D3 2,000 IU orally once daily (supplementation)
+3. Calcium carbonate 500 mg orally twice daily (supplementation)
+4. Ibuprofen 400–600 mg as needed (occasional use; discussed NSAID risk counseling)
+
+**Prior Weight Management Pharmacotherapy (Discontinued):**
+- Orlistat 120 mg TID with meals — August 2022 to December 2022 (discontinued: GI intolerance)
+- Phentermine/topiramate ER 7.5 mg/46 mg daily — March 2023

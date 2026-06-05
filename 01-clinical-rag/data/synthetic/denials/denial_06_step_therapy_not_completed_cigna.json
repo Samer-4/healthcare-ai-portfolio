@@ -1,0 +1,8 @@
+{
+  "filename": "denial_06_step_therapy_not_completed_cigna.txt",
+  "denial_reason": "step_therapy_not_completed",
+  "payer": "Cigna",
+  "drug": "tirzepatide (Zepbound)",
+  "patient": "49-year-old female, BMI 36, hypothyroidism",
+  "format": "portal_message"
+}

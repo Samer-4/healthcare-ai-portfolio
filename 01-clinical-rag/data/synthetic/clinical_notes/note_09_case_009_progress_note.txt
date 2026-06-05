@@ -1,0 +1,75 @@
+**PRIMARY CARE PROGRESS NOTE**
+**Prior Authorization Support Documentation – GLP-1 Receptor Agonist**
+
+---
+
+**PATIENT:** Thomas B. Jackson
+**DOB:** [On file] | **Age:** 61 | **Sex:** Male
+**MRN:** [On file]
+**DATE OF SERVICE:** 2025-01-30
+**PROVIDER:** [Attending Physician, MD] | **CLINIC:** [Primary Care Clinic]
+**INSURANCE:** Humana
+**RE:** Medical Necessity Appeal – Liraglutide (Saxenda) Prior Authorization Denial
+
+---
+
+## CHIEF COMPLAINT
+
+Patient presents for follow-up regarding ongoing management of obesity (BMI 33 kg/m²) and right primary osteoarthritis of the knee, with review of denied prior authorization for liraglutide (Saxenda) 3.0 mg subcutaneous daily. Patient and provider are requesting formal reconsideration based on documented medical necessity and obesity-related comorbidity burden.
+
+---
+
+## SUBJECTIVE
+
+Mr. Jackson is a 61-year-old male with a longstanding history of obesity (E66.09) and primary osteoarthritis of the right knee (M17.11) who presents today for a dedicated visit to address the denial of his prior authorization for liraglutide (Saxenda). The patient reports a chronic, progressive struggle with weight management spanning more than a decade, during which multiple structured interventions have been attempted and have yielded insufficient or unsustained results.
+
+**Weight History and Prior Treatment Attempts:**
+
+- **Structured caloric restriction and behavioral counseling (2021–2022):** Patient was referred to a registered dietitian and completed a 6-month low-calorie dietary program (1,400–1,600 kcal/day) with accompanying nutritional education. He achieved an initial weight loss of approximately 8 lbs but regained the full amount within 4 months of program completion. Adherence was documented as good throughout the active program period.
+
+- **Medically supervised exercise program (2022–2023):** Given limitations imposed by right knee osteoarthritis, patient was referred to a physical therapist-supervised aquatic and low-impact exercise program from approximately March 2022 through September 2022 (6 months). Patient participated consistently but reported significant pain with weight-bearing activity, limiting exercise intensity. Net weight change over this period was less than 3 lbs of loss. Ongoing knee pain continues to serve as a significant barrier to sustained aerobic exercise.
+
+- **Orlistat (Xenical/generic) 120 mg three times daily with meals (October 2022 – April 2023, 6 months):** Prescribed as adjunct pharmacotherapy to further dietary modification. Patient experienced modest initial weight loss of approximately 5 lbs but discontinued due to gastrointestinal adverse effects (steatorrhea, fecal urgency) that were functionally limiting. No clinically meaningful or sustained weight reduction was achieved.
+
+- **Phentermine/topiramate (Qsymia) 3.75 mg/23 mg titrating to 7.5 mg/46 mg daily (June 2023 – December 2023, 6 months):** Patient trialed this combination agent with dose titration per standard protocol. He reported palpitations, dry mouth, and mood irritability that impaired daily functioning. Additionally, inadequate weight loss response was noted (net loss < 4 lbs at 6-month mark). Medication was discontinued due to tolerability and insufficient efficacy.
+
+- **Continued dietary and lifestyle modification (2024–present):** Patient has maintained ongoing engagement with dietary counseling on a quarterly basis and continues modified low-impact physical activity within pain tolerance. Despite these sustained efforts, current weight remains largely unchanged from prior year, and BMI remains at 33 kg/m².
+
+**Functional Impact of Obesity and Osteoarthritis Interaction:**
+
+The patient's obesity and right knee osteoarthritis represent a clinically synergistic and mutually reinforcing disease burden. Excess body weight directly increases mechanical load across the knee joint, exacerbating cartilage degradation and inflammatory burden, and worsening osteoarthritic pain. Conversely, knee pain severely limits the patient's ability to engage in the weight-bearing aerobic exercise most effective for weight reduction, creating a well-documented vicious cycle. Orthopedic colleagues have noted that meaningful weight loss prior to any potential surgical intervention (right total knee arthroplasty is under consideration) would significantly reduce perioperative risk, improve surgical outcomes, and may delay or obviate the need for surgery altogether.
+
+Mr. Jackson endorses persistent bilateral knee discomfort (predominantly right > left), pain with ambulation beyond one to two city blocks, difficulty with stair climbing, and morning stiffness lasting approximately 20–30 minutes. He denies chest pain, dyspnea at rest, or other acute cardiopulmonary complaints. He reports no current symptoms of hypoglycemia.
+
+**Additional History:**
+- No personal or family history of medullary thyroid carcinoma or Multiple Endocrine Neoplasia type 2 (MEN2); liraglutide is not contraindicated
+- No history of pancreatitis
+- No current use of other weight loss agents
+- Non-smoker; occasional alcohol use (1–2 drinks per week)
+- No diabetes mellitus; fasting glucose and HbA1c within normal limits on most recent labs
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Weight: 218 lbs (98.9 kg)
+- Height: 5'9" (175.3 cm)
+- BMI: 33.0 kg/m²
+- Blood Pressure: 134/82 mmHg
+- Heart Rate: 76 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+- SpO₂: 98% on room air
+
+**Physical Examination:**
+
+*General:* Well-appearing male, in no acute distress, appropriately oriented.
+
+*Cardiovascular:* Regular rate and rhythm; no murmurs, rubs, or gallops appreciated.
+
+*Pulmonary:* Clear to auscultation bilaterally; no wheezes or crackles.
+
+*Abdomen:* Soft, non-tender, non-distended; increased central adiposity appreciated on inspection; no organomegaly.
+
+*Musculoskeletal:* Right knee with mild-to-moderate joint line tenderness on palp

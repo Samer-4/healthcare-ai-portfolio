@@ -3,5 +3,6 @@
   "denial_reason": "off_label",
   "payer": "BlueCross BlueShield",
   "drug": "liraglutide (Saxenda)",
-  "patient": "60-year-old male, BMI 30, sleep apnea"
+  "patient": "60-year-old male, BMI 30, sleep apnea",
+  "format": "formal_letter"
 }

@@ -3,5 +3,6 @@
   "denial_reason": "alternative_covered",
   "payer": "Humana",
   "drug": "semaglutide (Wegovy)",
-  "patient": "41-year-old female, BMI 37, PCOS"
+  "patient": "41-year-old female, BMI 37, PCOS",
+  "format": "formal_letter"
 }

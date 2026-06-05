@@ -1,72 +1,66 @@
 ---
 
-**HUMANA**
-Humana Inc. | P.O. Box 14601 | Lexington, KY 40512-4601
-Member Services: 1-800-457-4708 | Provider Services: 1-800-448-6262
-Fax: 1-800-379-1094 | www.humana.com
+# HUMANA INSURANCE COMPANY
+**Utilization Management Division**
+500 West Main Street | Louisville, Kentucky 40202
+**Phone:** 1-800-444-9137 | **Fax:** 1-800-288-6032
+**TTY/TDD:** 711
+**HumanaOne.com**
 
 ---
 
-**DATE:** June 12, 2025
+**DATE:** January 14, 2025
 
-**REFERENCE NUMBER:** HUM-PA-2025-0612-884471
+**Reference Number:** HUM-UM-2025-0114-487293
 
-**RE: Notice of Prior Authorization Decision – Adverse Determination**
+**RE: Notice of Adverse Benefit Determination – Prior Authorization Denial**
 
 ---
 
-**MEMBER INFORMATION**
+**Member Information:**
 **Member Name:** Sarah M. Caldwell
-**Member ID:** H00427839154
-**Date of Birth:** March 3, 1984
-**Plan Name:** Humana Choice PPO (Group #: 00772-HMO-TX)
+**Member ID:** H782034561
+**Date of Birth:** March 3, 1983
+**Plan:** Humana Choice PPO (Group #: 00478821)
 
-**PRESCRIBING PHYSICIAN**
-**Physician Name:** Dr. Raymond T. Okafor, MD
-**NPI:** 1427830954
-**Practice:** Westbrook Internal Medicine & Endocrinology
-**Address:** 4821 Greenway Blvd., Suite 210, Dallas, TX 75204
-**Phone:** (214) 555-0193
+**Prescribing Physician:**
+**Name:** Dr. Amanda J. Fiorello, MD
+**NPI:** 1487230956
+**Practice:** Lakewood Women's Health Associates
+**Address:** 4210 Meridian Blvd., Suite 310, Atlanta, GA 30342
+
+**Drug Requested:** Semaglutide 2.4 mg subcutaneous injection (Wegovy®)
+**Requested Quantity:** 4 pens/28-day supply
+**Diagnosis Codes:** E66.09 (Morbid obesity due to excess calories); E28.2 (Polycystic ovarian syndrome)
 
 ---
 
 ## NOTICE OF ADVERSE BENEFIT DETERMINATION
 
-Dear Ms. Caldwell and Dr. Okafor,
+Dear Ms. Caldwell and Dr. Fiorello,
 
-Humana has completed its review of the prior authorization request submitted on behalf of the above-referenced member for the drug identified below. After careful review, Humana has made the following determination:
+Humana has completed its review of the prior authorization request submitted on **January 10, 2025**, for **semaglutide 2.4 mg/dose subcutaneous injection (Wegovy®)**. After careful review of the submitted clinical documentation and applicable benefit plan guidelines, Humana has made the following determination:
 
-**DECISION: DENIED**
-
----
-
-### DRUG REQUESTED
-
-| Field | Detail |
-|---|---|
-| **Drug Name:** | Semaglutide 2.4 mg/dose subcutaneous injection (Wegovy®) |
-| **Requested Dose/Frequency:** | 2.4 mg subcutaneously once weekly (following titration) |
-| **Diagnosis Code(s):** | E66.09 – Other obesity due to excess calories; E28.2 – Polycystic ovarian syndrome |
-| **Requested Duration:** | 12 months |
-| **Date Request Received:** | June 9, 2025 |
-| **Date of Determination:** | June 12, 2025 |
+> **THIS REQUEST HAS BEEN DENIED.**
 
 ---
 
 ### BASIS FOR DENIAL
 
-**Denial Reason: Alternative Covered Therapy Available (Step Therapy Requirement Not Met)**
+**Clinical Policy Bulletin Reference:** Humana Clinical Policy Bulletin (CPB) **HUM-PHARM-0742**: *Anti-Obesity Pharmacotherapy: GLP-1 Receptor Agonists and Adjunctive Weight Management Agents* (Effective Date: July 1, 2024; Last Reviewed: October 15, 2024)
 
-This request has been reviewed in accordance with **Humana Clinical Policy Bulletin No. CPB-0580: Anti-Obesity Agents and GLP-1 Receptor Agonists for Chronic Weight Management (Revised: February 1, 2025)**, as well as applicable state and federal coverage guidelines and evidence-based clinical criteria.
+**Denial Reason:** Not Medically Necessary as Requested — **Preferred Alternative Agent Available and Not Adequately Trialed**
 
-Based on the clinical information submitted and available in the member's records, Humana is unable to authorize Wegovy® (semaglutide 2.4 mg) at this time. The denial is based on the following:
+---
 
-**1. Step Therapy Requirement Has Not Been Satisfied**
+### CLINICAL RATIONALE
 
-Humana's Clinical Policy Bulletin CPB-0580 requires that members requesting coverage for Wegovy® (semaglutide 2.4 mg injection) for the indication of chronic weight management (obesity, BMI ≥ 30 kg/m² or ≥ 27 kg/m² with at least one weight-related comorbidity) must first demonstrate an adequate trial and documented therapeutic failure, intolerance, or contraindication to **at least one (1) Humana-preferred formulary-covered anti-obesity pharmacotherapy**, which currently includes:
+Humana's review of the submitted clinical documentation indicates that the request for **Wegovy® (semaglutide 2.4 mg subcutaneous injection)** does not meet the criteria outlined in **Humana Clinical Policy Bulletin HUM-PHARM-0742**, specifically **Section IV.B.2**, which requires documented trial and failure of, or documented clinical contraindication to, **at least one Tier 1 preferred formulary agent** prior to authorization of a Tier 2 non-preferred anti-obesity medication.
 
-- **Orlistat 120 mg** (generic; Tier 2, covered under applicable pharmacy benefit)
-- **Phentermine/topiramate ER** (Qsymia®; Tier 3, covered with prior authorization)
-- **Bupropion/naltrexone ER** (Contrave®; Tier 3, covered with prior authorization)
+Based on the information provided, the following determination was made:
 
-A review of the documentation submitted with the prior authorization request, as well as the member's available pharmacy and medical claims history, does not reflect a prior trial of any of the above-referenced preferred covered alternatives for a clinically adequate duration (defined under CPB-0580 as a minimum of **twelve (12) consecutive weeks** at the maximum
+1. **Preferred Formulary Alternative Available:** The member's current **Humana Choice PPO** formulary includes **orlistat 120 mg (Xenical®/generic)** and **phentermine/topiramate extended-release (Qsymia®)** as Tier 1 preferred agents indicated for chronic weight management in adults with an initial BMI ≥30 kg/m² or ≥27 kg/m² with at least one weight-related comorbidity. The member's documented BMI of **37 kg/m²** and diagnosis of **polycystic ovarian syndrome (PCOS)** qualify her for these alternatives.
+
+2. **Absence of Documented Adequate Trial:** The clinical documentation submitted does not reflect an adequate trial (defined under CPB HUM-PHARM-0742, Section IV.B.2 as **a minimum of 12 consecutive weeks at the maximally tolerated therapeutic dose**) of any Tier 1 preferred anti-obesity agent. Failure is defined as less than 5% total body weight loss at 12 weeks of consistent use at a therapeutic dose.
+
+3. **No Documented Contraindication to Preferred Alternatives:** The submitted

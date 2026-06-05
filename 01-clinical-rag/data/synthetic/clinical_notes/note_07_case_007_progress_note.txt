@@ -1,0 +1,63 @@
+**PRIMARY CARE PROGRESS NOTE**
+**Prior Authorization Support Documentation – GLP-1 Agonist Therapy**
+
+---
+
+**PATIENT:** James T. Morrison
+**DOB:** [Calculated Age: 55 years]
+**MRN:** [On File]
+**DATE OF SERVICE:** 2025-01-27
+**PROVIDER:** [Attending Physician Name, MD]
+**FACILITY / PRACTICE:** [Practice Name and Address]
+**INSURANCE:** BlueCross BlueShield
+**RE:** Prior Authorization Appeal – Semaglutide (Wegovy) – Denial Reason: Not Medically Necessary
+
+---
+
+## CHIEF COMPLAINT
+
+Patient presents for follow-up visit and prior authorization appeal documentation regarding initiation of semaglutide (Wegovy) for the management of chronic obesity with associated cardiometabolic risk. Patient expresses frustration with prior denial and continues to seek evidence-based pharmacologic intervention.
+
+---
+
+## SUBJECTIVE
+
+Mr. Morrison is a 55-year-old male with a documented history of chronic obesity (BMI 31.2 kg/m²) presenting for ongoing management of weight-related illness and cardiovascular risk optimization. He reports a longstanding struggle with weight management spanning greater than 10 years, during which he has made multiple structured, supervised attempts at weight reduction without sustained success.
+
+**Prior Conservative and Structured Treatment Attempts:**
+
+- **Supervised Low-Calorie Diet Program (January 2022 – July 2022, 6 months):** Patient was enrolled in a physician-supervised reduced-calorie dietary program targeting a 500–750 kcal/day deficit. He achieved an initial weight loss of approximately 8 lbs (3.6 kg) but experienced weight regain to baseline within 3 months of program completion. Adherence was documented as good throughout the program duration.
+
+- **Structured Exercise Program (March 2022 – December 2022, 9 months):** Patient engaged in a formal exercise regimen consisting of 150 minutes per week of moderate-intensity aerobic activity, as recommended per AHA/ACC guidelines. He reported consistent participation; however, weight loss was minimal (approximately 4 lbs total), and long-term maintenance was unsuccessful. He cites progressive fatigue and work schedule demands as barriers to sustaining this regimen independently.
+
+- **Behavioral / Lifestyle Modification Counseling (June 2022 – February 2023, 8 months):** Patient was referred to and completed a structured behavioral weight loss program including individual nutritional counseling (registered dietitian, biweekly visits), motivational interviewing, and behavioral modification strategies. Documentation from the program is available upon request. Net weight change at program conclusion: –5 lbs with subsequent regain of 7 lbs over the following 4 months.
+
+- **Pharmacologic Therapy – Orlistat 120 mg TID with meals (April 2023 – October 2023, 6 months):** Patient was trialed on orlistat 120 mg three times daily with meals as initial-line pharmacotherapy for chronic obesity. He was counseled on concurrent low-fat dietary adherence. Patient tolerated the medication poorly, reporting significant gastrointestinal adverse effects including oily stools, fecal urgency, and flatus with oily spotting, which substantially impaired quality of life and workplace function. Weight loss achieved was approximately 3 lbs over 6 months, falling well below the clinically meaningful threshold of ≥5% body weight reduction. Therapy was discontinued in October 2023 due to intolerable side effects and inadequate efficacy.
+
+- **Pharmacologic Therapy – Phentermine/topiramate ER (Qsymia) 3.75 mg/23 mg titrated to 7.5 mg/46 mg daily (December 2023 – May 2024, 6 months):** Patient was initiated on phentermine/topiramate ER at the lowest dose with planned titration. He reported transient benefit in appetite suppression for the first 8 weeks; however, he subsequently experienced dose-limiting side effects including notable paresthesias of the bilateral upper extremities, cognitive slowing ("brain fog"), and insomnia. Despite titration per protocol, total weight loss at 6 months was 5 lbs (approximately 2.3% of body weight), below the ≥5% response threshold used to assess clinical benefit. Given the adverse effect profile and inadequate response, therapy was discontinued in May 2024.
+
+Mr. Morrison reports persistent dietary struggles, emotional eating patterns related to occupational stress, and difficulty maintaining consistent physical activity. He denies binge eating disorder by formal screening criteria. He reports no current tobacco use and consumes alcohol socially (less than 7 drinks/week). He is motivated and engaged in ongoing efforts to improve his cardiometabolic health.
+
+**Review of Systems (pertinent):** Positive for fatigue, dyspnea on exertion with moderate activity, persistent elevated appetite, and difficulty with satiety. Denies chest pain at rest, syncope, or lower extremity edema. Reports no symptoms of depression currently (PHQ-9 score: 4 at last screen, November 2024).
+
+---
+
+## OBJECTIVE
+
+**Vital Signs (Date of Visit: 2025-01-27):**
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 76 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.5°F (36.9°C)
+- O₂ Saturation: 98% on room air
+- Height: 5'10" (177.8 cm)
+- Weight: 216 lbs (98.0 kg)
+- **BMI: 31.0 kg/m²** (Class I Obesity, consistent with ICD-10 Z68.31)
+
+**Physical Examination:**
+
+- **General:** Well-appearing male in no acute distress. Appears stated age. Alert and oriented x3.
+- **Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops. No jugular venous distension. Peripheral pulses 2+ and symmetric.
+- **Pulmonary:** Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, non-distended. Central adiposity noted on inspection. No hepatosplenomegaly appreciated. No palpable masses.
+- **

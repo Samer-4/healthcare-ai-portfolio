@@ -3,5 +3,6 @@
   "denial_reason": "not_medically_necessary",
   "payer": "UnitedHealthcare",
   "drug": "tirzepatide (Zepbound)",
-  "patient": "52-year-old male, BMI 35, hypertension"
+  "patient": "52-year-old male, BMI 35, hypertension",
+  "format": "formal_letter"
 }

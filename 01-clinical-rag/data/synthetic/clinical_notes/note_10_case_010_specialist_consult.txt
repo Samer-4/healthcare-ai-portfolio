@@ -1,0 +1,50 @@
+# ENDOCRINOLOGY / OBESITY MEDICINE CONSULTATION NOTE
+
+---
+
+**PATIENT:** Patricia L. Davis
+**DATE OF BIRTH:** [DOB on file] | **AGE:** 44 years | **SEX:** Female
+**MRN:** [On file]
+**REFERRING PROVIDER:** Primary Care Physician, MD
+**CONSULTING PROVIDER:** [Consulting Endocrinologist / Obesity Medicine Specialist], MD
+**CONSULT DATE:** January 15, 2025
+**INSURANCE:** UnitedHealthcare | **PRIOR AUTH REQUEST:** Tirzepatide (Zepbound) — *Denied: Alternative Covered*
+
+---
+
+## REASON FOR CONSULTATION
+
+Ms. Davis is a 44-year-old female referred for obesity medicine and endocrinology consultation in the setting of Class III obesity (BMI 40 kg/m²), poorly controlled type 2 diabetes mellitus (T2DM; E11.9), and hypertension (I10). She presents for evaluation, documentation of prior treatment history, and specialist-directed initiation of tirzepatide (Zepbound) following denial by UnitedHealthcare on the basis that an "alternative covered" medication exists. This consultation note is intended to comprehensively document her clinical history, prior pharmacologic trials, and the medical necessity of tirzepatide specifically, as alternatives have been trialed and have failed to provide adequate glycemic control and clinically meaningful weight reduction.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Ms. Davis is a 44-year-old woman with an approximately 12-year history of type 2 diabetes mellitus, a 15-year history of hypertension, and long-standing Class III obesity. Her current BMI is 40 kg/m², representing a sustained elevated weight burden associated with significant cardiometabolic risk. Despite structured interventions including dietary modification, supervised exercise programming, and escalating pharmacotherapy over multiple years, she has failed to achieve adequate glycemic control (most recent HbA1c: 9.2%, drawn December 2024) or clinically meaningful and sustained weight loss. She reports persistent fatigue, exertional dyspnea on minimal activity, and difficulty ambulating secondary to weight-related musculoskeletal strain, all of which further impede her ability to maintain a consistent exercise regimen.
+
+Regarding prior pharmacologic treatment for her diabetes and obesity, Ms. Davis was initiated on metformin 500 mg twice daily in March 2018, titrated to a maximum tolerated dose of metformin 1,000 mg twice daily by June 2018. She remained on this regimen for approximately 18 months with modest improvement in HbA1c from a baseline of 9.8% to 9.0%, but with no meaningful weight loss and persistent hyperglycemia. In January 2020, glipizide 5 mg daily was added as a second oral agent and subsequently titrated to 10 mg daily by April 2020. She tolerated glipizide but experienced a 6 lb weight gain over six months with only marginal improvement in HbA1c to 8.7%, with documented episodes of hypoglycemia necessitating dose reduction. Glipizide was discontinued in November 2020 due to recurrent hypoglycemia and weight gain counterproductive to her obesity management goals. Empagliflozin 10 mg daily was introduced in December 2020 and titrated to 25 mg daily in February 2021. After 12 months of therapy, her HbA1c remained at 8.5% and total weight loss was 4 lbs — clinically insufficient given her Class III obesity and cardiovascular risk profile. She was subsequently referred to a registered dietitian and completed a 16-week structured behavioral weight loss program in mid-2022, achieving a maximum weight loss of 7 lbs, which was regained within six months of program completion.
+
+In July 2023, semaglutide (Ozempic) 0.25 mg subcutaneously weekly was initiated for glycemic management, titrated per standard protocol to 0.5 mg at week 4 and to 1.0 mg by week 12. Despite 52 weeks of therapy at the 1.0 mg dose (through July 2024), Ms. Davis's HbA1c declined only modestly from 9.0% to 8.3%, and her total weight reduction was approximately 5.8 lbs (approximately 2.2% total body weight loss) — well below the clinically meaningful threshold of ≥5% body weight reduction recommended by obesity medicine guidelines. She tolerated semaglutide without significant adverse effects, but the therapeutic response was inadequate both for glycemic control and for meaningful obesity pharmacotherapy. A dose escalation to 2.0 mg semaglutide was attempted in August 2024 but was not covered by her insurance plan, prompting evaluation for alternative advanced therapies. Given her persistently elevated HbA1c, Class III obesity, hypertension, and the demonstrated inadequate response to semaglutide — the GLP-1 receptor agonist identified as the plan's "alternative covered" agent — tirzepatide (Zepbound) is now being requested as the clinically appropriate next step in her pharmacologic management.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Type 2 diabetes mellitus, poorly controlled — E11.9 (diagnosed 2013)
+2. Hypertension — I10 (diagnosed 2010)
+3. Class III obesity — E66.01 (longstanding, BMI consistently ≥40 kg/m² for >5 years)
+4. Hyperlipidemia — E78.5 (diagnosed 2016)
+5. Obstructive sleep apnea — G47.33 (diagnosed 2021; on CPAP therapy)
+6. Recurrent episodes of hypoglycemia on sulfonylurea therapy (resolved with discontinuation)
+7. No prior bariatric surgery
+
+---
+
+## CURRENT MEDICATIONS
+
+1. Metformin ER 1,000 mg orally twice daily
+2. Empagliflozin (Jardiance) 25 mg orally once daily
+3. Lisinopril 20 mg orally once daily (for hypertension and diabetic nephroprotection)
+4. Amlodipine 5 mg orally once daily (hypertension, added October 2023)
+5. Atorvastatin 40 mg orally once daily
+6. Asp

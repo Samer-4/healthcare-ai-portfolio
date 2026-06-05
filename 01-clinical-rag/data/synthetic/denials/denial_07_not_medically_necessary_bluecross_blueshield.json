@@ -1,0 +1,8 @@
+{
+  "filename": "denial_07_not_medically_necessary_bluecross_blueshield.txt",
+  "denial_reason": "not_medically_necessary",
+  "payer": "BlueCross BlueShield",
+  "drug": "semaglutide (Wegovy)",
+  "patient": "55-year-old male, BMI 31, no comorbidities documented",
+  "format": "fax_partial"
+}

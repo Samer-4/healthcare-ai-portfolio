@@ -1,0 +1,20 @@
+{
+  "filename": "note_03_case_003_progress_note.txt",
+  "case_id": "case_003",
+  "denial_file": "denial_03_insufficient_documentation_cigna.txt",
+  "denial_reason": "insufficient_documentation",
+  "payer": "Cigna",
+  "drug": "semaglutide (Ozempic)",
+  "note_type": "progress_note",
+  "patient_name": "Maria T. Reyes",
+  "patient_age": 38,
+  "patient_bmi": 33,
+  "diagnoses": [
+    "R73.09",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "prediabetes",
+    "obesity"
+  ]
+}

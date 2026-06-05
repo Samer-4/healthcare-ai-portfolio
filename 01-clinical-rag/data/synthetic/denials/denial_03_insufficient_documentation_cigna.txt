@@ -1,66 +1,72 @@
 ---
 
 **CIGNA HEALTHCARE**
-400 North Brand Boulevard, Suite 700
-Glendale, CA 91203
+1 Cigna Drive
+Bloomfield, CT 06002
 Member Services: 1-800-244-6224
-Utilization Management Fax: 1-855-462-1785
-Provider Services: 1-800-88-Cigna (882-4462)
+Provider Services: 1-800-88-Cigna (1-800-882-4462)
+Fax: 1-860-226-2406
 
 ---
 
-**DATE:** June 12, 2025
-
-**REFERENCE NUMBER:** UM-2025-06-PRE-447821
-
-**RE: Notice of Adverse Benefit Determination – Prior Authorization Denial**
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+**COVERAGE DENIAL – PRIOR AUTHORIZATION REQUEST**
 
 ---
 
-**MEMBER INFORMATION**
-
-**Member Name:** Jessica A. Hartwell
-**Member ID:** CIG-W00483921
-**Date of Birth:** March 4, 1987
-**Group Number:** 77-440821-00
-**Plan Name:** Cigna Open Access Plus – Employer Group Plan
-
-**PRESCRIBING PHYSICIAN**
-
-**Physician Name:** Dr. Raymond T. Okafor, MD
-**NPI:** 1427836590
-**Practice:** Lakeview Primary Care Associates
-**Address:** 2250 Commerce Drive, Suite 115, Naperville, IL 60563
-**Phone:** (630) 555-0192
-**Fax:** (630) 555-0194
+**Date:** October 14, 2024
+**Reference / Authorization Number:** CG-PA-2024-1047382
+**Plan:** Cigna Healthcare Commercial Medical Plan
 
 ---
 
-**DRUG REQUESTED:** Semaglutide 0.5 mg/0.5 mL subcutaneous injection (Ozempic®) – Novo Nordisk
+**Member Information:**
+Name: Sarah M. Fontaine
+Member ID: U884621073
+Date of Birth: March 3, 1986
+Group Number: 77214-001
+
+**Prescribing Provider:**
+Name: Dr. Raymond T. Okafor, MD
+NPI: 1487203956
+Practice: Okafor Internal Medicine Associates
+Address: 4412 Westbrook Medical Parkway, Suite 110, Atlanta, GA 30339
+Phone: (770) 555-0183
+
+**Drug Requested:** Semaglutide 0.5 mg/0.5 mL subcutaneous injection (Ozempic® – Novo Nordisk)
 **Requested Quantity:** 4 pens (28-day supply)
-**Diagnosis Codes Submitted:** E11.9 (Type 2 Diabetes Mellitus, without complications); R73.09 (Prediabetes)
-**Date of Request:** June 9, 2025
+**ICD-10 Code(s) Submitted:** R73.09 (Prediabetes); Z68.33 (BMI 33.0–33.9)
 
 ---
 
-## NOTICE OF ADVERSE BENEFIT DETERMINATION
-
-Dear Ms. Hartwell and Dr. Okafor,
-
-Cigna Healthcare has completed its review of the prior authorization request submitted on **June 9, 2025**, for **semaglutide (Ozempic®)** on behalf of **Jessica A. Hartwell**. After careful review of the submitted clinical information and applicable coverage criteria, Cigna has determined that this request is **NOT APPROVED** at this time.
-
-This determination was made by a licensed physician reviewer with relevant clinical expertise in endocrinology and metabolic disease management.
+## DETERMINATION: **DENIED – INSUFFICIENT DOCUMENTATION**
 
 ---
 
-### REASON FOR DENIAL: Insufficient Documentation to Support Medical Necessity
+Dear Dr. Okafor,
 
-Cigna's determination is based on a review of the clinical documentation submitted with the prior authorization request and the applicable Cigna Clinical Policy Bulletin. The submitted documentation does not meet the required criteria for approval of semaglutide (Ozempic®) for the following reasons:
+Cigna Healthcare has completed its review of the prior authorization request submitted on behalf of the above-referenced member for **semaglutide (Ozempic®)**. After careful clinical review, we have determined that this request **does not meet the criteria for coverage** under the applicable Clinical Policy Bulletin at this time.
 
-**1. Applicable Policy:**
-This determination was made in accordance with **Cigna Clinical Policy Bulletin No. 0580 – Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists**, effective January 1, 2025, and the member's applicable Certificate of Coverage.
+This determination was made by a Cigna Medical Director board-certified in Internal Medicine and was based on the clinical information submitted and the criteria outlined in **Cigna Clinical Policy Bulletin No. CPB-0580.4: Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists**, effective January 1, 2024.
 
-**2. Coverage Criteria Not Met – Established Type 2 Diabetes Diagnosis:**
-Ozempic® (semaglutide injectable) is a GLP-1 receptor agonist indicated by the U.S. Food and Drug Administration (FDA) for the treatment of adults with **established Type 2 Diabetes Mellitus (T2DM)** as an adjunct to diet and exercise to improve glycemic control. Per Cigna Clinical Policy Bulletin 0580, coverage of Ozempic® requires documented confirmation of a T2DM diagnosis meeting diagnostic threshold criteria (i.e., fasting plasma glucose ≥ 126 mg/dL on two separate occasions, HbA1c ≥ 6.5%, or 2-hour plasma glucose ≥ 200 mg/dL during an oral glucose tolerance test, consistent with ADA Standards of Medical Care).
+---
 
-The submitted documentation reflects a diagnosis of **prediabetes** (HbA1c range consistent with 5.7%–6.4%), which does not constitute a confirmed diagnosis of Type 2 Diabetes Mellitus as required under the applicable policy. The primary documented ICD-10 code of E11.9 (Type 2 Diabetes Mellitus) is not supported by the accompanying laboratory results and clinical
+### BASIS FOR DENIAL
+
+Semaglutide (Ozempic®) is indicated and covered by Cigna Healthcare for members diagnosed with **Type 2 Diabetes Mellitus** who meet all applicable clinical criteria. Coverage requires documentation of the following, as outlined in CPB-0580.4:
+
+1. **Confirmed diagnosis of Type 2 Diabetes Mellitus (T2DM)**, defined by HbA1c ≥ 6.5%, fasting plasma glucose ≥ 126 mg/dL on two separate occasions, or a two-hour plasma glucose ≥ 200 mg/dL during an oral glucose tolerance test (per ADA diagnostic standards); **AND**
+
+2. **Documentation of HbA1c level** at or above the member's individualized treatment threshold as established by the treating provider; **AND**
+
+3. **Evidence of an adequate trial and failure, contraindication, or intolerance** to at least one first-line oral antidiabetic agent (specifically metformin, unless contraindicated or not tolerated), defined as a minimum 90-day trial at a therapeutic dose with documented failure to achieve glycemic targets; **AND**
+
+4. **Current HbA1c value** obtained within the past 90 days submitted with the authorization request.
+
+---
+
+### SPECIFIC DEFICIENCIES IN SUBMITTED DOCUMENTATION
+
+The clinical documentation submitted with this prior authorization request is **insufficient to establish medical necessity** for the following reasons:
+
+- **The submitted diagnosis code (R73.09 – Prediabetes) does not meet the diagnosis threshold** required under CPB-0580.4 for Ozempic® coverage. Semaglutide (Ozempic®) is not approved under this policy for the treatment of prediabetes or weight management alone. Ozempic® is specifically indicated for glycemic control in confirmed T2DM. *(Note: Requests for weight management should reference semaglutide 2.4

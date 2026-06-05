@@ -1,0 +1,46 @@
+**PRIMARY CARE PROGRESS NOTE — PRIOR AUTHORIZATION SUPPORT DOCUMENTATION**
+
+---
+
+**PATIENT:** Linda S. Martinez
+**DATE OF SERVICE:** 2025-01-15
+**DATE OF BIRTH:** 1972-09-04 (Age: 52)
+**SEX:** Female
+**MRN:** [REDACTED]
+**PROVIDER:** [Attending Physician Name, MD]
+**CLINIC:** [Clinic Name and Address]
+**NPI:** [Provider NPI]
+**INSURANCE:** Aetna
+**PA REQUEST:** Tirzepatide (Zepbound) — GLP-1/GIP Receptor Agonist
+**DENIAL REASON BEING ADDRESSED:** Step Therapy Not Completed
+
+---
+
+## CHIEF COMPLAINT
+
+Patient presents for follow-up management of morbid obesity, hypertension, and obstructive sleep apnea. This visit also serves as documentation in support of prior authorization appeal for tirzepatide (Zepbound) following denial by Aetna on the basis of step therapy not completed.
+
+---
+
+## SUBJECTIVE
+
+Ms. Martinez is a 52-year-old female with a well-established history of Class II obesity (BMI 37 kg/m²), essential hypertension, and obstructive sleep apnea (OSA) who presents today for ongoing obesity management and medication review. The patient reports persistent difficulty achieving and maintaining clinically meaningful weight loss despite multiple structured, documented pharmacologic and behavioral interventions spanning approximately four years. She describes fatigue, exertional dyspnea with moderate activity, poor sleep quality despite CPAP compliance, and ongoing difficulty with activities of daily living attributable to her weight.
+
+**Prior Weight Management Treatment History — Step Therapy Documentation:**
+
+**1. Lifestyle Modification and Structured Behavioral Intervention (2021–present)**
+The patient was enrolled in a medically supervised weight management program beginning in January 2021. She adhered to a reduced-calorie diet (1,200–1,400 kcal/day), increased physical activity targeting ≥150 minutes of moderate aerobic exercise per week, and attended monthly behavioral counseling sessions with a registered dietitian. After 12 months of consistent participation, she achieved a maximum weight loss of approximately 8 lbs (3.6 kg), representing less than 3% of total body weight. Weight was subsequently regained within six months upon minor disruption in program attendance due to a family obligation. Behavioral interventions have been maintained continuously to the present date without achieving sustained, clinically significant weight reduction.
+
+**2. Orlistat (Xenical) 120 mg three times daily with meals (February 2022 – August 2022, 6 months)**
+Orlistat was initiated as a first-line pharmacologic agent. The patient reported poor tolerability, including frequent oily spotting, fecal urgency, and gastrointestinal cramping that significantly impaired her quality of life and workplace function. After 6 months, total weight loss achieved was 4.2 lbs (1.9 kg), representing a clinically insignificant response. Orlistat was discontinued in August 2022 due to intolerable gastrointestinal adverse effects and inadequate efficacy.
+
+**3. Phentermine/Topiramate ER (Qsymia) 3.75 mg/23 mg titrated to 7.5 mg/46 mg daily (October 2022 – April 2023, 6 months)**
+Following appropriate washout and counseling regarding contraception (patient post-menopausal at time of initiation), phentermine/topiramate ER was started in October 2022, titrated per protocol at four weeks. At maintenance dosing of 7.5 mg/46 mg, the patient reported paresthesias, difficulty with word retrieval, and mood lability. A trial at the higher dose (11.25 mg/69 mg) was not pursued given cognitive side effects at the mid-dose level. Total weight loss over six months was 6.8 lbs (3.1 kg). Therapy was discontinued in April 2023 due to persistent cognitive adverse effects impacting her professional responsibilities as an administrative coordinator.
+
+**4. Naltrexone/Bupropion ER (Contrave) 8 mg/90 mg titrated to 16 mg/180 mg twice daily (July 2023 – January 2024, 6 months)**
+Naltrexone/bupropion ER was initiated in July 2023 following appropriate titration over four weeks per prescribing guidelines. The patient tolerated the medication initially; however, she experienced persistent nausea, insomnia, and elevation in blood pressure (baseline BP 132/82 mmHg rising to 148/94 mmHg on therapy), which conflicted directly with her pre-existing essential hypertension requiring antihypertensive management. Given the hemodynamic concerns and inadequate weight loss response (total loss of 5.1 lbs / 2.3 kg at six months), naltrexone/bupropion ER was discontinued in January 2024. Her hypertension management was subsequently intensified.
+
+**5. Semaglutide (Wegovy) 0.25 mg SQ weekly, titrated to 1.0 mg SQ weekly (April 2024 – October 2024, 6 months)**
+Semaglutide subcutaneous injection (Wegovy) was initiated in April 2024 per step therapy requirements at the starting dose of 0.25 mg weekly, with planned monthly dose escalations. Titration to 0.5 mg at week 5 and 1.0 mg at week 9 was completed per labeling. Further titration to 1.7 mg and 2.4 mg was precluded by persistent nausea (Grade 2), intermittent vomiting (2–3 episodes per week), and gastroparesis-like symptoms that did not improve with dietary modification, small meal strategies, or anti-emetic support (ondansetron 4 mg PRN). Despite remaining on 1.0 mg weekly for four months, total weight loss was 9.4 lbs (4.3 kg) — an inadequate clinical response given her BMI of 37 and obesity-related comorbidities. Semaglutide was discontinued in October 2024 due to persistent GI intolerability at sub-maximal dosing and insufficient therapeutic benefit.
+
+The patient has

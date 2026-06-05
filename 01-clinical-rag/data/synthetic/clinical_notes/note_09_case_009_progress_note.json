@@ -1,0 +1,20 @@
+{
+  "filename": "note_09_case_009_progress_note.txt",
+  "case_id": "case_009",
+  "denial_file": "denial_09_not_medically_necessary_humana.txt",
+  "denial_reason": "not_medically_necessary",
+  "payer": "Humana",
+  "drug": "liraglutide (Saxenda)",
+  "note_type": "progress_note",
+  "patient_name": "Thomas B. Jackson",
+  "patient_age": 61,
+  "patient_bmi": 33,
+  "diagnoses": [
+    "M17.11",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "osteoarthritis",
+    "obesity"
+  ]
+}

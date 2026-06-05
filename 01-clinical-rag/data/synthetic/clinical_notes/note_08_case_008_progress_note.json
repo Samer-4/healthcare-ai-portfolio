@@ -1,0 +1,22 @@
+{
+  "filename": "note_08_case_008_progress_note.txt",
+  "case_id": "case_008",
+  "denial_file": "denial_08_insufficient_documentation_aetna.txt",
+  "denial_reason": "insufficient_documentation",
+  "payer": "Aetna",
+  "drug": "tirzepatide (Zepbound)",
+  "note_type": "progress_note",
+  "patient_name": "Rachel M. Chen",
+  "patient_age": 33,
+  "patient_bmi": 39,
+  "diagnoses": [
+    "E28.2",
+    "E11.65",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "PCOS",
+    "insulin resistance",
+    "obesity"
+  ]
+}

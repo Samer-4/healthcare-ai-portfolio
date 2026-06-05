@@ -1,0 +1,8 @@
+{
+  "filename": "denial_10_alternative_covered_unitedhealthcare.txt",
+  "denial_reason": "alternative_covered",
+  "payer": "UnitedHealthcare",
+  "drug": "tirzepatide (Zepbound)",
+  "patient": "44-year-old female, BMI 40, type 2 diabetes, hypertension",
+  "format": "formal_letter"
+}

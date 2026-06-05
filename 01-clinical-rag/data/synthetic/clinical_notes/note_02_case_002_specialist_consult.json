@@ -1,0 +1,20 @@
+{
+  "filename": "note_02_case_002_specialist_consult.txt",
+  "case_id": "case_002",
+  "denial_file": "denial_02_not_medically_necessary_unitedhealthcare.txt",
+  "denial_reason": "not_medically_necessary",
+  "payer": "UnitedHealthcare",
+  "drug": "tirzepatide (Zepbound)",
+  "note_type": "specialist_consult",
+  "patient_name": "Robert M. Okafor",
+  "patient_age": 52,
+  "patient_bmi": 35,
+  "diagnoses": [
+    "I10",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "hypertension",
+    "obesity"
+  ]
+}

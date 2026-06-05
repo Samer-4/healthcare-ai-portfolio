@@ -1,0 +1,20 @@
+{
+  "filename": "note_04_case_004_specialist_consult.txt",
+  "case_id": "case_004",
+  "denial_file": "denial_04_off_label_bluecross_blueshield.txt",
+  "denial_reason": "off_label",
+  "payer": "BlueCross BlueShield",
+  "drug": "liraglutide (Saxenda)",
+  "note_type": "specialist_consult",
+  "patient_name": "David K. Nguyen",
+  "patient_age": 60,
+  "patient_bmi": 30,
+  "diagnoses": [
+    "G47.33",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "sleep apnea",
+    "obesity"
+  ]
+}

@@ -1,0 +1,78 @@
+---
+
+# UnitedHealthcare
+**UnitedHealthcare Insurance Company**
+3100 AMS Boulevard | Green Bay, WI 54313
+Member Services: 1-866-892-6621 | Provider Services: 1-877-842-3210
+Fax: 1-866-837-0976 | TTY: 711
+www.uhcprovider.com
+
+---
+
+**DATE:** June 12, 2025
+
+**REFERENCE NUMBER:** PA-2025-UHC-0448821-TX
+
+**RE: PRIOR AUTHORIZATION DENIAL NOTICE – ADVERSE BENEFIT DETERMINATION**
+
+---
+
+**MEMBER INFORMATION**
+**Member Name:** Sarah M. Calloway
+**Member ID:** UHC9274038156
+**Date of Birth:** March 3, 1981
+**Group Number:** 74821-TX-PPO
+**Plan Type:** UnitedHealthcare Choice Plus PPO
+
+**PRESCRIBING PHYSICIAN:**
+Dr. Jonathan R. Medford, MD
+Internal Medicine / Endocrinology
+NPI: 1457823690
+Practice Address: 4820 Ridgeline Medical Pkwy, Suite 210, Dallas, TX 75201
+
+**REQUESTED MEDICATION:** Tirzepatide (Zepbound) 2.5 mg subcutaneous injection, weekly
+**Requested Quantity:** 4 pens/28-day supply
+**Diagnosis Codes:** E11.9 (Type 2 Diabetes Mellitus, without complications); E66.01 (Morbid obesity due to excess calories); I10 (Essential hypertension)
+
+---
+
+## NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Dear Ms. Calloway and Dr. Medford,
+
+UnitedHealthcare Insurance Company has completed its review of the above-referenced prior authorization request for **tirzepatide (Zepbound)** submitted on **June 9, 2025**. After careful review of the clinical information provided and in accordance with applicable plan documents and clinical coverage criteria, **this request is DENIED**. This denial represents an Adverse Benefit Determination.
+
+---
+
+## BASIS FOR DENIAL
+
+**Denial Reason: Covered Alternative(s) Available — Medical Necessity Criteria Not Met Under Applicable Policy**
+
+This determination was made pursuant to:
+
+> **UnitedHealthcare Clinical Policy Bulletin No. CPB-0580.19**
+> *"Weight Management Pharmacotherapy and GLP-1 Receptor Agonist Medications — Medical Necessity Criteria and Step Therapy Requirements"*
+> Effective Date: January 1, 2025 | Last Reviewed: March 15, 2025
+
+Additionally, this determination is consistent with:
+
+> **UnitedHealthcare Pharmacy Benefit Management Step Therapy Protocol ST-GLP1-0042**
+> *"GLP-1/GIP Dual Agonist Agents — Preferred Alternative Requirement"*
+> Effective Date: October 1, 2024
+
+---
+
+## CLINICAL RATIONALE
+
+The submitted clinical documentation was reviewed by a UnitedHealthcare Medical Director, who is a licensed physician qualified in the applicable specialty area. Based on this review, authorization for tirzepatide (Zepbound) is denied for the following reasons:
+
+**1. Failure to Meet Step Therapy Requirements**
+
+Per Clinical Policy Bulletin CPB-0580.19, Section III.B, coverage of tirzepatide (Zepbound) for weight management in members with a concurrent diagnosis of Type 2 Diabetes Mellitus requires documented trial and therapeutic failure, contraindication, or intolerance of **at least one (1) formulary-preferred GLP-1 receptor agonist agent**, specifically:
+
+- **Semaglutide injection (Ozempic)** — for concurrent T2DM indication; OR
+- **Semaglutide injection (Wegovy)** — for weight management indication
+
+The clinical documentation submitted as of the date of this determination does **not** contain evidence of a prior adequate trial (defined as a minimum of **90 consecutive days** at a therapeutic maintenance dose) of a preferred formulary GLP-1 agent, nor documentation of a clinically significant adverse reaction, contraindication, or other clinical reason precluding use of a covered preferred alternative.
+
+**2. Covered Formulary Alternative(s)

@@ -1,0 +1,78 @@
+---
+
+# CIGNA HEALTHCARE
+**Cigna Health and Life Insurance Company**
+400 North Brand Boulevard, Glendale, CA 91203
+**Member Services:** 1-800-244-6224 | **Fax:** 1-800-336-3982
+**Provider Services:** 1-800-88-Cigna (1-800-882-4462)
+**www.cigna.com**
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION — PRIOR AUTHORIZATION DENIAL**
+
+---
+
+**Date:** July 14, 2025
+**Reference Number:** PA-2025-07-CGN-448821
+**Authorization Request ID:** UM-CGN-2025-0714-9934
+
+---
+
+**Member Information:**
+**Member Name:** James R. Calloway
+**Member ID:** CGN-00847312
+**Date of Birth:** March 3, 1987
+**Group Number:** 77024-HMO-PPO
+**Plan Name:** Cigna Open Access Plus — Commercial Group
+
+**Prescribing Physician:**
+**Name:** Dr. Sandra M. Oyelaran, MD
+**NPI:** 1487652039
+**Practice:** Lakewood Internal Medicine Associates
+**Address:** 2210 Ridgeview Medical Parkway, Suite 104, Lakewood, CO 80215
+**Phone:** (303) 555-0174 | **Fax:** (303) 555-0198
+
+---
+
+**Drug Requested:** Semaglutide Injection 0.5 mg/week (Ozempic®, Novo Nordisk)
+**Requested Quantity:** 4 injections/month (1 mg pen, QMonth supply)
+**Diagnosis Code(s) Submitted:** K76.0 — Non-Alcoholic Fatty Liver Disease (NAFLD)
+**Route of Administration:** Subcutaneous injection
+
+---
+
+## DETERMINATION: **NOT APPROVED — DENIED**
+
+---
+
+Dear James R. Calloway and Dr. Sandra M. Oyelaran,
+
+Cigna Healthcare has completed its review of the prior authorization request submitted on **July 10, 2025**, for **semaglutide injection (Ozempic®)** on behalf of the above-referenced member. After careful review of the submitted clinical information and applicable coverage policies, Cigna has determined that this request does **not meet the criteria for coverage** under the member's benefit plan.
+
+**This determination was made by a licensed physician reviewer with specialty training in internal medicine and endocrinology.**
+
+---
+
+### REASON FOR DENIAL: OFF-LABEL USE / DOES NOT MEET CLINICAL COVERAGE CRITERIA
+
+This request has been denied based on the following findings:
+
+**1. FDA-Approved Indication Not Met**
+
+Semaglutide injection (Ozempic®) holds U.S. Food and Drug Administration (FDA) approval for the following indications only:
+
+- As an adjunct to diet and exercise to improve glycemic control in adults with **Type 2 Diabetes Mellitus (T2DM)**
+- To reduce the risk of major adverse cardiovascular events (MACE) in adults with **Type 2 Diabetes Mellitus and established cardiovascular disease**
+
+The diagnosis submitted for this authorization request — **Non-Alcoholic Fatty Liver Disease (NAFLD), ICD-10: K76.0** — does not correspond to an FDA-approved indication for semaglutide (Ozempic®). The use of Ozempic® for the treatment of NAFLD/Non-Alcoholic Steatohepatitis (NASH) constitutes an **off-label use** of this medication.
+
+**Please note:** Wegovy® (semaglutide 2.4 mg, the higher-dose formulation approved for chronic weight management) is a distinct FDA-approved product with its own separate coverage criteria. The request as submitted is specifically for **Ozempic®**, which is not approved for weight management as a primary indication, and the member does not carry a diagnosis of Type 2 Diabetes Mellitus in the submitted clinical documentation.
+
+---
+
+**2. Clinical Policy Bulletin Reference**
+
+This determination is made in accordance with:
+
+> **Cigna Medical Coverage Policy — Drug Policy: Glucagon-Like Peptide-1 (GLP-1)

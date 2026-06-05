@@ -1,0 +1,67 @@
+# PRIMARY CARE PROGRESS NOTE
+## Prior Authorization Support Documentation — GLP-1 Agonist Therapy
+
+---
+
+**PATIENT:** Jennifer L. Caldwell
+**DOB:** [DOB on file] | **Age:** 45 | **Sex:** Female
+**MRN:** [MRN on file]
+**DATE OF VISIT:** 2025-01-15
+**PROVIDER:** [Attending Physician Name, MD] | [Practice Name] | [NPI on file]
+**REFERRING CONTEXT:** This note is generated to support prior authorization appeal for semaglutide (Wegovy) following denial by Aetna citing incomplete step therapy. This note documents in full the step therapy measures completed prior to this request.
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been trying to manage my weight and blood sugar for years. Nothing has worked well enough. My doctor wants to try a new medication."
+
+---
+
+## SUBJECTIVE
+
+**History of Present Illness:**
+Ms. Jennifer Caldwell is a 45-year-old female with an established diagnosis of Type 2 Diabetes Mellitus (E11.9) and morbid obesity due to excess calories (E66.01), presenting today for follow-up and documentation in support of prior authorization for semaglutide (Wegovy) 2.4 mg subcutaneous weekly injection. The patient has been followed in this practice for approximately six (6) years and has a well-documented history of obesity-related comorbidities including hypertension (I10), which has required ongoing pharmacologic management.
+
+Ms. Caldwell reports persistent difficulty achieving and sustaining clinically meaningful weight loss despite prolonged, structured, and documented engagement with multiple stepwise treatment modalities as detailed below. She reports significant impact on quality of life, including fatigue, dyspnea on exertion, reduced mobility, and difficulty with glycemic control despite oral antidiabetic therapy.
+
+---
+
+**Step Therapy Documentation — Prior Treatments Attempted and Failed:**
+
+**Step 1 — Lifestyle Intervention (Intensive Behavioral Therapy):**
+- **Duration:** Ongoing since initial obesity diagnosis; formal structured program enrollment from **March 2021 through December 2021** (9 months).
+- **Program:** Referred to and enrolled in a medically supervised intensive lifestyle modification program. Program included weekly dietitian visits, individualized caloric restriction targeting 1,200–1,500 kcal/day, structured aerobic exercise (150 minutes/week per ADA/ACC guidelines), and behavioral counseling sessions conducted biweekly.
+- **Outcome:** Patient achieved a maximum weight loss of approximately 8 lbs (3.6 kg) over the course of the 9-month program, representing less than 3% total body weight loss. Weight was subsequently regained in full within 6 months of program completion. Weight loss was deemed clinically insufficient and did not result in meaningful improvement in HbA1c or blood pressure control.
+- **Adherence:** Documented as high per program attendance records. Failure attributed to physiologic and metabolic factors, not lack of effort or compliance.
+
+---
+
+**Step 2 — Pharmacologic Therapy: Metformin (Oral Antidiabetic / Weight-Neutral to Modest Weight Loss Agent):**
+- **Initiated:** January 2020
+- **Dose titrated to:** Metformin HCl 1,000 mg PO BID (2,000 mg/day total)
+- **Duration of therapeutic trial:** Approximately 36 months (January 2020 – January 2023)
+- **Indication:** T2DM management; modest secondary benefit for weight
+- **Outcome:** HbA1c remained inadequately controlled, ranging from 8.1%–8.6% throughout trial period despite maximal tolerated dosing. Weight remained stable but without meaningful reduction. No clinically significant weight loss achieved. Metformin continued as adjunctive therapy but insufficient as monotherapy for either glycemic or weight management goals.
+- **Tolerability:** Mild GI side effects (nausea, loose stools) noted during titration; resolved at therapeutic dose. Patient remains on metformin concurrently.
+
+---
+
+**Step 3 — Pharmacologic Therapy: Orlistat (FDA-Approved Anti-Obesity Medication):**
+- **Initiated:** February 2023
+- **Dose:** Orlistat 120 mg PO TID with meals
+- **Duration of therapeutic trial:** 6 months (February 2023 – August 2023)
+- **Outcome:** Patient tolerated medication poorly. Experienced significant gastrointestinal adverse effects including oily spotting, fecal urgency, and oily stools, which were functionally limiting and affected the patient's ability to maintain employment obligations. Weight loss achieved was 4 lbs (1.8 kg) over 6 months — less than 1.5% total body weight — which is below the minimum clinically meaningful threshold of 5% at 12 weeks used to assess orlistat response. Trial was discontinued in August 2023 due to inadequate efficacy and intolerable side effects. Documented in chart note dated **August 14, 2023**.
+
+---
+
+**Step 4 — Pharmacologic Therapy: Phentermine/Topiramate ER (Qsymia) — FDA-Approved Anti-Obesity Medication:**
+- **Initiated:** October 2023
+- **Dose titrated to:** Phentermine 7.5 mg / Topiramate ER 46 mg daily (mid-dose), with consideration for uptitration
+- **Duration of therapeutic trial:** 5 months (October 2023 – February 2024)
+- **Outcome:** Patient reported adverse effects including cognitive dulling ("brain fog"), paresthesias in bilateral hands and feet, and mood instability, which the patient and provider assessed as significantly affecting daily function and quality of life. Weight loss of 6 lbs (2.7 kg) achieved — approximately 2.2% total body weight loss — below the clinically meaningful threshold of 5% body weight at 12 weeks. Trial was discontinued in **February 2024** due to intolerable neuropsychiatric side effects and insufficient efficacy. Documented in chart note dated **February 22, 2024**. Uptitration to maximum dose was not pursued given adverse effect profile at mid-dose.
+
+---
+
+**Additional Clinical Context:**
+- Patient has been counseled extensively regarding dietary modifications, portion control, carbohydrate distribution, and physical activity.
