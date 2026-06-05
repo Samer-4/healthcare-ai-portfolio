@@ -1,0 +1,72 @@
+---
+
+**HUMANA**
+Humana Inc. | P.O. Box 14601 | Lexington, KY 40512-4601
+Member Services: 1-800-457-4708 | Provider Services: 1-800-448-6262
+Fax: 1-800-379-1094 | www.humana.com
+
+---
+
+**DATE:** June 12, 2025
+
+**REFERENCE NUMBER:** HUM-PA-2025-0612-884471
+
+**RE: Notice of Prior Authorization Decision – Adverse Determination**
+
+---
+
+**MEMBER INFORMATION**
+**Member Name:** Sarah M. Caldwell
+**Member ID:** H00427839154
+**Date of Birth:** March 3, 1984
+**Plan Name:** Humana Choice PPO (Group #: 00772-HMO-TX)
+
+**PRESCRIBING PHYSICIAN**
+**Physician Name:** Dr. Raymond T. Okafor, MD
+**NPI:** 1427830954
+**Practice:** Westbrook Internal Medicine & Endocrinology
+**Address:** 4821 Greenway Blvd., Suite 210, Dallas, TX 75204
+**Phone:** (214) 555-0193
+
+---
+
+## NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Dear Ms. Caldwell and Dr. Okafor,
+
+Humana has completed its review of the prior authorization request submitted on behalf of the above-referenced member for the drug identified below. After careful review, Humana has made the following determination:
+
+**DECISION: DENIED**
+
+---
+
+### DRUG REQUESTED
+
+| Field | Detail |
+|---|---|
+| **Drug Name:** | Semaglutide 2.4 mg/dose subcutaneous injection (Wegovy®) |
+| **Requested Dose/Frequency:** | 2.4 mg subcutaneously once weekly (following titration) |
+| **Diagnosis Code(s):** | E66.09 – Other obesity due to excess calories; E28.2 – Polycystic ovarian syndrome |
+| **Requested Duration:** | 12 months |
+| **Date Request Received:** | June 9, 2025 |
+| **Date of Determination:** | June 12, 2025 |
+
+---
+
+### BASIS FOR DENIAL
+
+**Denial Reason: Alternative Covered Therapy Available (Step Therapy Requirement Not Met)**
+
+This request has been reviewed in accordance with **Humana Clinical Policy Bulletin No. CPB-0580: Anti-Obesity Agents and GLP-1 Receptor Agonists for Chronic Weight Management (Revised: February 1, 2025)**, as well as applicable state and federal coverage guidelines and evidence-based clinical criteria.
+
+Based on the clinical information submitted and available in the member's records, Humana is unable to authorize Wegovy® (semaglutide 2.4 mg) at this time. The denial is based on the following:
+
+**1. Step Therapy Requirement Has Not Been Satisfied**
+
+Humana's Clinical Policy Bulletin CPB-0580 requires that members requesting coverage for Wegovy® (semaglutide 2.4 mg injection) for the indication of chronic weight management (obesity, BMI ≥ 30 kg/m² or ≥ 27 kg/m² with at least one weight-related comorbidity) must first demonstrate an adequate trial and documented therapeutic failure, intolerance, or contraindication to **at least one (1) Humana-preferred formulary-covered anti-obesity pharmacotherapy**, which currently includes:
+
+- **Orlistat 120 mg** (generic; Tier 2, covered under applicable pharmacy benefit)
+- **Phentermine/topiramate ER** (Qsymia®; Tier 3, covered with prior authorization)
+- **Bupropion/naltrexone ER** (Contrave®; Tier 3, covered with prior authorization)
+
+A review of the documentation submitted with the prior authorization request, as well as the member's available pharmacy and medical claims history, does not reflect a prior trial of any of the above-referenced preferred covered alternatives for a clinically adequate duration (defined under CPB-0580 as a minimum of **twelve (12) consecutive weeks** at the maximum

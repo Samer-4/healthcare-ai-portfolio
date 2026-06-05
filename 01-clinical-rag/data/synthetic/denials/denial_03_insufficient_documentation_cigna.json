@@ -1,0 +1,7 @@
+{
+  "filename": "denial_03_insufficient_documentation_cigna.txt",
+  "denial_reason": "insufficient_documentation",
+  "payer": "Cigna",
+  "drug": "semaglutide (Ozempic)",
+  "patient": "38-year-old female, BMI 33, prediabetes"
+}

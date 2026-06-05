@@ -1,0 +1,76 @@
+---
+
+**UnitedHealthcare**
+UnitedHealthcare Insurance Company
+P.O. Box 30432
+Salt Lake City, UT 84130-0432
+Customer Service: 1-866-892-0291
+Provider Services Fax: 1-866-218-1631
+www.uhcprovider.com
+
+---
+
+**DATE:** June 12, 2025
+
+**REFERENCE NUMBER:** UHC-PA-2025-0612-4471829
+
+**RE: Notice of Adverse Benefit Determination – Prior Authorization Denial**
+
+---
+
+**MEMBER INFORMATION**
+**Member Name:** James R. Calloway
+**Member ID:** UHC942810573
+**Date of Birth:** March 14, 1973
+**Group Number:** 88401-002
+
+**PRESCRIBING PHYSICIAN**
+**Name:** Dr. Sandra M. Pettiford, MD
+**NPI:** 1467382950
+**Practice:** Eastbrook Internal Medicine Associates
+**Address:** 4820 Meridian Parkway, Suite 110, Columbus, OH 43220
+**Phone:** (614) 555-0174
+
+---
+
+**DRUG REQUESTED:** Tirzepatide (Zepbound) 5 mg subcutaneous injection, once weekly
+**Requested Quantity:** 4 pens (28-day supply)
+**Authorization Request Date:** June 5, 2025
+**Determination Date:** June 12, 2025
+
+---
+
+## NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Dear Mr. Calloway and Dr. Pettiford,
+
+UnitedHealthcare Insurance Company has completed its review of the prior authorization request submitted on behalf of **James R. Calloway** for **tirzepatide (Zepbound)**. After careful review of the submitted clinical information and applicable coverage criteria, UnitedHealthcare has determined that this request does **not meet criteria for approval** as described below.
+
+**DETERMINATION: DENIED – NOT MEDICALLY NECESSARY**
+
+---
+
+### REASON FOR DENIAL
+
+This request has been denied based on the following finding:
+
+The submitted clinical documentation does not meet the criteria outlined in **UnitedHealthcare Clinical Policy Bulletin No. CPB-OBE-0580.20, "Anti-Obesity Medications and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists and GIP/GLP-1 Receptor Agonists for Chronic Weight Management"** (Effective Date: January 1, 2025; reviewed March 15, 2025).
+
+---
+
+### CLINICAL RATIONALE
+
+UnitedHealthcare's Clinical Policy Bulletin CPB-OBE-0580.20 establishes the following medically necessary coverage criteria for tirzepatide (Zepbound) for chronic weight management in adult members. A request must satisfy **all applicable** criteria for approval. Based on the clinical documentation submitted, the following criterion (or criteria) was **not met**:
+
+**1. BMI Threshold with Qualifying Comorbidity – Partially Met / Insufficient Documentation**
+
+The policy requires one of the following:
+
+- **(a)** Body Mass Index (BMI) of **≥ 30 kg/m²** with **at least one weight-related comorbidity** (e.g., type 2 diabetes, obstructive sleep apnea, cardiovascular disease, hyperlipidemia, or hypertension), **AND** documented evidence that the comorbidity is directly attributed to or meaningfully worsened by excess weight; **OR**
+- **(b)** Body Mass Index (BMI) of **≥ 35 kg/m²** independent of comorbid conditions.
+
+The submitted records indicate a BMI of **35 kg/m²** and a diagnosis of **hypertension**. While the member's BMI meets the numeric threshold under criterion (b) above, the submitted documentation reflects a BMI measurement taken on **November 18, 2024**, which exceeds UnitedHealthcare's requirement that BMI documentation be obtained **within 90 days of the authorization request date** of June 5, 2025. The submitted BMI therefore cannot be accepted as current and valid per policy requirements.
+
+**2. Documentation of Prior Medically Supervised Weight Loss Program – Not Met**
+
+Clinical Policy Bulletin CPB-OBE-0580

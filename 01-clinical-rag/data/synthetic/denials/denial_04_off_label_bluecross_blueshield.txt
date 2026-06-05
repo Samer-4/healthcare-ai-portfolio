@@ -1,0 +1,67 @@
+---
+
+**BLUECROSS BLUESHIELD OF ILLINOIS**
+300 East Randolph Street
+Chicago, Illinois 60601-5099
+Member Services: 1-800-892-2803
+Utilization Management Fax: 1-312-653-5010
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+
+**Date:** July 14, 2025
+**Reference Number:** UM-2025-PA-884731
+**Authorization Request ID:** PA-IL-20250714-004892
+
+---
+
+**Member Information:**
+Name: Robert J. Callahan
+Member ID: BCB-IL-447829301
+Date of Birth: March 3, 1965
+Group Number: 77412-0083
+
+**Prescribing Physician:**
+Dr. Sandra M. Petrov, MD
+Internal Medicine / Primary Care
+NPI: 1437829056
+Practice Address: 1842 North Wacker Drive, Suite 210, Chicago, IL 60614
+
+**Drug Requested:** Liraglutide 3 mg/0.6 mL subcutaneous injection (Saxenda®)
+**Requested Quantity:** 1 pen (18 mg/3 mL), quantity 5 pens/30 days
+**Requested Start Date:** July 10, 2025
+
+---
+
+**DETERMINATION: NOT APPROVED — ADVERSE BENEFIT DETERMINATION**
+
+Dear Mr. Callahan and Dr. Petrov,
+
+BlueCross BlueShield of Illinois (BCBSIL) has completed its review of the prior authorization request submitted on July 10, 2025, for **liraglutide 3 mg (Saxenda®)** on behalf of the above-referenced member. After careful review of the submitted clinical documentation and applicable coverage policies, **this request is denied** on the basis of **off-label use / failure to meet clinical coverage criteria**.
+
+This determination was made by a licensed physician reviewer in the applicable specialty area.
+
+---
+
+**REASON FOR DENIAL**
+
+**Primary Denial Reason:** The requested medication does not meet the medical necessity and coverage criteria established under **BCBSIL Clinical Policy Bulletin No. 0580: Weight Management Pharmacotherapy and Anti-Obesity Agents (Revised March 1, 2025)**.
+
+**Clinical Rationale:**
+
+Clinical Policy Bulletin 0580 specifies that coverage for liraglutide 3 mg (Saxenda®), as indicated by the U.S. Food and Drug Administration (FDA) for chronic weight management, requires that the member meet **all** of the following criteria:
+
+1. The member has a Body Mass Index (BMI) of **≥ 30 kg/m²**, **OR** a BMI of **≥ 27 kg/m²** in the presence of at least one weight-related comorbid condition (e.g., type 2 diabetes mellitus, hypertension, or dyslipidemia); **AND**
+
+2. The member has been enrolled in or is actively participating in a **structured, comprehensive behavioral modification program**, including dietary counseling and increased physical activity, for a minimum of **six (6) months**, with documented outcomes; **AND**
+
+3. The member does not have a **diagnosis of type 1 or type 2 diabetes mellitus** for which liraglutide at a lower dose (Victoza®) would represent the appropriate, on-label treatment; **AND**
+
+4. **Prior pharmacotherapy failure** has been documented: the member must have trialed and failed at least one (1) other FDA-approved weight management pharmacotherapy (e.g., phentermine/topiramate ER [Qsymia®], naltrexone/bupropion [Contrave®], or orlistat), with documentation of the agent used, duration, and reason for discontinuation or inadequate response.
+
+**Based on the clinical documentation submitted, the following criteria were not met:**
+
+- The submitted records document a current BMI of **30 kg/m²**. While this meets the minimum BMI threshold on its face, the clinical documentation submitted does not confirm that the member's weight-related comorbid condition — obstructive sleep apnea — has been formally evaluated in relation to weight management as required under Policy Bulletin 0580, Section IV(B)(2).
+
+- There is **no documentation of participation in a structured behavioral modification program**

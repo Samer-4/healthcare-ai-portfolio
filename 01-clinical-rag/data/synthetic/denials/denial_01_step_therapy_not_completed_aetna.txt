@@ -1,0 +1,70 @@
+---
+
+**AETNA**
+151 Farmington Avenue
+Hartford, CT 06156
+Member Services: 1-800-872-3862
+Utilization Management Fax: 1-860-754-2702
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+
+**Date:** June 12, 2025
+**Reference Number:** UM-2025-06-4471823
+**Plan:** Aetna Choice POS II
+
+---
+
+**Member Information:**
+Name: Jennifer L. Caldwell
+Member ID: AET-W847291043
+Date of Birth: March 3, 1980
+Group Number: 88241-001
+
+**Requesting Provider:**
+Name: Dr. Marcus T. Oyelaran, MD
+Specialty: Internal Medicine / Endocrinology
+NPI: 1548273690
+Address: 4820 Riverside Medical Plaza, Suite 310, Columbus, OH 43215
+Phone: (614) 555-0183
+
+---
+
+**RE: NOTICE OF ADVERSE BENEFIT DETERMINATION – PRIOR AUTHORIZATION DENIAL**
+
+**Drug Requested:** Semaglutide 2.4 mg subcutaneous injection (Wegovy®)
+**Requested Quantity:** 4 pens/28-day supply
+**Diagnosis Codes:** E11.9 (Type 2 Diabetes Mellitus, without complications); E66.01 (Morbid obesity due to excess calories)
+**Authorization Request Date:** June 9, 2025
+
+---
+
+Dear Ms. Caldwell and Dr. Oyelaran,
+
+Aetna has completed its review of the prior authorization request submitted on behalf of **Jennifer L. Caldwell** for **semaglutide 2.4 mg subcutaneous injection (Wegovy®)**. After careful review of the clinical information submitted and applicable plan benefit guidelines, **Aetna has determined that this request does not meet criteria for coverage at this time and is therefore DENIED.**
+
+This determination was made by a licensed physician reviewer under applicable utilization management guidelines.
+
+---
+
+**REASON FOR DENIAL: Step Therapy Requirements Not Completed**
+
+Coverage for **Wegovy® (semaglutide 2.4 mg)** is subject to Aetna's **Clinical Policy Bulletin No. 0580 – Obesity Management Pharmacotherapy**, effective January 1, 2025. Pursuant to this policy, authorization for branded GLP-1 receptor agonist therapies indicated for chronic weight management requires documented completion of required step therapy prior to approval of the requested agent.
+
+Based on the clinical documentation submitted, the following required step therapy criteria have **not been satisfied:**
+
+**1. Prior Trial and Failure of a Lower-Tier Pharmacotherapy Agent**
+The member's clinical record does not contain adequate documentation demonstrating a minimum **twelve (12)-week trial** with a formulary preferred weight management agent, such as:
+
+- **Orlistat** (Xenical®/Alli®) – Tier 1 preferred, or
+- **Phentermine/topiramate ER** (Qsymia®) – Tier 2 preferred, or
+- **Bupropion/naltrexone** (Contrave®) – Tier 2 preferred
+
+Documentation must demonstrate that such agent(s) were prescribed at a therapeutic dose, that the member demonstrated adequate adherence, and that the trial resulted in less than five percent (5%) total body weight loss, was discontinued due to documented adverse effects, or is otherwise clinically contraindicated.
+
+**2. Structured Weight Management Program Participation**
+Per Clinical Policy Bulletin No. 0580, Section IV.B.2, the member must have documented participation of no less than **six (6) months** in a structured, provider-supervised behavioral weight management program (e.g., a program incorporating dietary counseling, physical activity guidance, and behavioral modification), within the twenty-four (24) months preceding the request date. The submitted documentation does not include evidence of enrollment in or completion of such a program.
+
+**3. Regarding Type 2 Diabetes Diagnosis**
+Aetna acknowledges that the member carries a diagnosis of Type 2 Diabetes Mellitus (E11.9) with a reported BMI of 38 kg/m². Aetna notes that semaglutide in lower doses is available as **Ozempic
