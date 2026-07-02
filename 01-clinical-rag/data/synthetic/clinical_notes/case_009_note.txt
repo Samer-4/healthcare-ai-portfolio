@@ -1,0 +1,84 @@
+# PRIMARY CARE PROGRESS NOTE
+**Prior Authorization Support Documentation — GLP-1 Receptor Agonist**
+
+---
+
+## PATIENT / DATE / PROVIDER
+
+| | |
+|---|---|
+| **Patient Name:** | Thomas B. Jackson |
+| **MRN:** | MRN-100242 |
+| **Date of Birth:** | (Age: 61) |
+| **Sex:** | Male |
+| **Date of Visit:** | January 15, 2025 |
+| **Attending Physician:** | Dr. Gregory Alston, MD — Internal Medicine |
+| **NPI:** | 1361780924 |
+| **Visit Type:** | Office Visit / Prior Authorization Support |
+
+---
+
+## CHIEF COMPLAINT
+
+"My weight is making my knee pain unbearable, and I can't exercise like I used to. I need help losing weight."
+
+---
+
+## SUBJECTIVE
+
+Mr. Thomas B. Jackson is a 61-year-old male presenting today for follow-up regarding medically complicated obesity (E66.09) and right knee primary osteoarthritis (M17.11). He has had a longstanding struggle with excess weight, which has progressively worsened over the past several years and is now directly exacerbating his osteoarthritic disease burden. The patient reports worsening bilateral knee pain — right greater than left — with associated limitations in ambulation, stair-climbing, and any sustained physical activity. He notes that his orthopedic surgeon has deferred surgical intervention and recommended weight reduction as a prerequisite to improving candidacy for any future knee arthroplasty evaluation.
+
+**History of Obesity and Prior Weight Loss Attempts:**
+
+Mr. Jackson has made multiple structured and documented attempts at weight loss over the preceding 24–36 months, none of which have produced durable results:
+
+- **Structured Dietary Intervention (February 2023 – August 2023):** Patient enrolled in a medically supervised low-calorie diet program through this practice, targeting 1,400–1,600 kcal/day with macronutrient guidance from a registered dietitian. He was seen monthly for six months. He lost approximately 8 lbs initially but regained this weight within three months of program completion. Net sustained weight loss: 0 lbs at 12-month follow-up.
+
+- **Increased Physical Activity Program (March 2023 – ongoing, limited):** Patient was referred to a physical therapy–guided low-impact exercise program (aquatic therapy and stationary cycling) designed to accommodate his osteoarthritic knees. He complied with the program for approximately four months but was unable to sustain activity levels due to progressive worsening of right knee pain with weight-bearing. Meaningful aerobic exercise is now functionally limited by pain and mechanical joint loading.
+
+- **Behavioral/Lifestyle Counseling (ongoing since January 2023):** Patient has been engaged in behavioral weight management counseling, addressed at each office visit, including motivational interviewing, sleep hygiene, and stress-related eating patterns. Despite consistent engagement, weight has remained essentially unchanged over the past 18 months, fluctuating between 215 and 225 lbs.
+
+- **Orlistat (Alli/Xenical) 60 mg orally three times daily with meals (October 2023 – February 2024, approximately 4 months):** Trialed as pharmacologic adjunct to dietary therapy. Patient reported significant gastrointestinal side effects including oily spotting, fecal urgency, and loose stools, which were socially disabling and impacted occupational functioning. No meaningful weight loss was achieved (< 2 lbs). Medication was discontinued in February 2024 due to intolerance and lack of efficacy.
+
+Despite maximal conventional efforts including dietary modification, structured exercise (limited by OA), behavioral counseling, and pharmacotherapy with orlistat, the patient has been unable to achieve or sustain clinically meaningful weight loss. His obesity continues to directly aggravate mechanical joint loading across his knees, accelerating articular cartilage degeneration and increasing his surgical risk profile.
+
+Mr. Jackson denies current use of tobacco. He consumes alcohol socially (< 4 drinks/week). He has no personal history of pancreatitis, medullary thyroid carcinoma, or MEN-2 syndrome. No personal or family history of thyroid malignancy.
+
+---
+
+## OBJECTIVE
+
+**Vitals (January 15, 2025):**
+
+| Parameter | Value |
+|---|---|
+| Weight | 221 lbs (100.2 kg) |
+| Height | 5'9" (175.3 cm) |
+| BMI | 33 kg/m² |
+| Blood Pressure | 138/84 mmHg |
+| Heart Rate | 78 bpm, regular |
+| Respiratory Rate | 16 breaths/min |
+| Temperature | 98.4°F (36.9°C) |
+| SpO₂ | 97% on room air |
+
+**General:** Alert, well-appearing male in no acute distress. Cooperative and engaged in discussion regarding weight management goals.
+
+**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops.
+
+**Pulmonary:** Clear to auscultation bilaterally.
+
+**Abdomen:** Soft, non-tender, obese habitus. No hepatosplenomegaly appreciated.
+
+**Musculoskeletal:** Antalgic gait noted on right side. Right knee with mild effusion, medial joint line tenderness to palpation, crepitus with range of motion. Flexion limited to approximately 110 degrees right knee secondary to pain and effusion. Left knee with trace crepitus, no effusion. BMI of 33 kg/m² contributes approximately 6x increased mechanical force across medial knee compartment with ambulation (per established biomechanical data).
+
+**Neurological:** No focal deficits. Sensation intact bilateral lower extremities.
+
+**Recent Laboratory Results (December 28, 2024):**
+
+| Test | Result | Reference |
+|---|---|---|
+| HbA1c | 5.7% | < 5.7% |
+| Fasting Glucose | 108 mg/dL | 70–99 mg/dL |
+| Total Cholesterol | 214 mg/dL | < 200 mg/dL |
+| LDL | 138 mg/dL | < 130 mg/dL |
+| HDL

@@ -1,0 +1,23 @@
+{
+  "case_id": "case_010",
+  "patient_name": "Patricia L. Davis",
+  "patient_mrn": "MRN-100243",
+  "payer": "UnitedHealthcare",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "alternative_covered",
+  "filename": "case_010_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_010_denial.txt",
+  "patient_age": 44,
+  "patient_bmi": 40,
+  "diagnoses": [
+    "E11.9",
+    "I10",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "type 2 diabetes",
+    "hypertension",
+    "obesity"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "case_id": "case_003",
+  "patient_name": "Maria T. Reyes",
+  "patient_mrn": "MRN-100236",
+  "payer": "Cigna",
+  "drug": "semaglutide (Ozempic)",
+  "denial_reason": "insufficient_documentation",
+  "filename": "case_003_denial.txt",
+  "format": "formal_letter",
+  "note_file": "case_003_note.txt"
+}

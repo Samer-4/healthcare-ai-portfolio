@@ -1,0 +1,37 @@
+# ENDOCRINOLOGY SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Patricia L. Davis | **MRN:** MRN-100243
+**Date of Birth:** [DOB on file] | **Age:** 44 | **Sex:** Female
+**Referring Provider:** Primary Care Physician (on file)
+**Consulting Physician:** Dr. Omar Haddad, MD — Endocrinology, NPI 1845067293
+**Consult Date:** June 16, 2025
+**Location:** Outpatient Endocrinology Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Ms. Patricia L. Davis is a 44-year-old female with established diagnoses of type 2 diabetes mellitus (E11.9), essential hypertension (I10), and morbid (class III) obesity (E66.01) referred for endocrinology evaluation and management of suboptimally controlled type 2 diabetes in the setting of significant obesity. This consultation note is being submitted in direct support of a prior authorization appeal for tirzepatide (Zepbound) following denial by UnitedHealthcare on the basis of "alternative covered" medications being available. The purpose of this note is to document in detail the clinical rationale for tirzepatide as the most appropriate therapy for this patient, and to provide comprehensive evidence that covered alternatives have been tried and have failed to achieve adequate glycemic or weight-related outcomes.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Ms. Davis is a 44-year-old woman with a 9-year history of type 2 diabetes mellitus, morbid obesity (current BMI 40 kg/m²), and hypertension who presents to endocrinology for ongoing management of her metabolic conditions. Her diabetes was initially managed with metformin monotherapy beginning in approximately 2016, titrated to a maximum tolerated dose of 1000 mg twice daily by early 2017. Despite adherence, her HbA1c remained persistently elevated in the 8.4–9.1% range over the subsequent 18 months, prompting escalation of therapy. In August 2018, glipizide extended-release 5 mg daily was added to her regimen, subsequently uptitrated to 10 mg daily by November 2018. Ms. Davis experienced recurrent episodes of symptomatic hypoglycemia on the sulfonylurea combination, with blood glucose nadirs documented as low as 58 mg/dL on home glucometer logs, necessitating discontinuation of glipizide in March 2019. No meaningful improvement in weight was observed during this period; in fact, she gained approximately 8 lbs over the 7-month course of sulfonylurea therapy, consistent with the known weight-promoting effects of this drug class.
+
+Following discontinuation of the sulfonylurea, sitagliptin (Januvia) 100 mg daily was added in April 2019 as a weight-neutral option. Ms. Davis tolerated sitagliptin without significant side effects; however, after 12 months of therapy, her HbA1c remained at 8.7% and she had achieved no clinically meaningful weight reduction. Sitagliptin was continued through late 2020 while additional lifestyle interventions were implemented. Beginning in January 2020, Ms. Davis was formally enrolled in a structured, supervised medical weight management program affiliated with our health system, attending bi-weekly visits with a registered dietitian and completing a 16-week intensive behavioral intervention curriculum. Despite documented adherence — confirmed by attendance records and dietary logs — she achieved only a 3.2% reduction in total body weight (approximately 7.8 lbs) over six months, falling well short of the 5–10% threshold associated with meaningful cardiometabolic benefit. Her HbA1c at the conclusion of that program in July 2020 was 8.5%. Caloric restriction and increased physical activity were maintained per her report, and she continued to engage in at least 150 minutes of moderate-intensity aerobic activity per week through the present.
+
+In January 2021, empagliflozin (Jardiance) 10 mg daily was initiated given its established cardiovascular and renal protective benefits, as well as its modest weight-lowering effect. The dose was uptitrated to 25 mg daily in April 2021. Ms. Davis did experience a modest improvement in HbA1c to 7.9% by October 2021 and a 4.1 lb weight loss over 9 months; however, glycemic targets (HbA1c < 7.0%) remained unmet, and weight loss was clinically insufficient given her degree of obesity. She subsequently developed recurrent vulvovaginal candidiasis attributed to the SGLT2 inhibitor, requiring two courses of antifungal therapy (fluconazole 150 mg × 1 dose, repeated in February 2022 and July 2022), which significantly impacted her quality of life and ultimately led to discontinuation of empagliflozin in September 2022. A liraglutide (Victoza) trial was initiated in October 2022, uptitrated per standard protocol to 1.8 mg subcutaneously daily by December 2022. Ms. Davis experienced persistent nausea and emesis through the titration period; despite antiemetic counseling, dose modification, and a 12-week observation period, she was unable to tolerate the medication at therapeutic doses and it was discontinued in January 2023. Her most recent HbA1c, obtained May 2025, is 8.9%, and her current weight is 234 lbs (BMI 40 kg/m²). She is currently managed on metformin alone. Given the breadth of treatment failures documented above, tirzepatide (Zepbound) is now being requested as the most clinically appropriate and evidence-supported next step in therapy.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Type 2 diabetes mellitus — E11.9 (diagnosed 2016)
+2. Morbid (class III) obesity — E66.01 (longstanding; BMI 40 kg/m²)
+3. Essential hypertension — I10 (diagnosed 2015)
+4. Recurrent vulvovaginal candidiasis (attributed to SGLT2 inhibitor use, resolved after discontinuation)
+5. Hypoglycemia, drug-induced (sulfonylurea, 2019, resolved after discontinuation)
+6. No known history of pancreatitis, thyroid carcinoma, or MEN2 

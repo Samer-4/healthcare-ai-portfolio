@@ -1,0 +1,76 @@
+# PRIMARY CARE PROGRESS NOTE
+**Prior Authorization Support Documentation — GLP-1 Agonist Therapy**
+
+---
+
+## PATIENT / DATE / PROVIDER
+
+| | |
+|---|---|
+| **Patient Name:** | Maria T. Reyes |
+| **MRN:** | MRN-100236 |
+| **Date of Birth:** | (Age 38, Female) |
+| **Date of Visit:** | June 12, 2025 |
+| **Visit Type:** | Office Visit — Established Patient, Chronic Disease Management |
+| **Provider:** | Dr. Priya Nandakumar, MD — Family Medicine |
+| **NPI:** | 1685720349 |
+| **Facility:** | Primary Care Associates |
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been trying everything to lose weight and control my blood sugar, but nothing has worked well enough. I'm worried about developing diabetes."
+
+---
+
+## SUBJECTIVE
+
+Ms. Maria T. Reyes is a 38-year-old female presenting today for follow-up of prediabetes and class I obesity. She was first diagnosed with prediabetes (HbA1c 6.1%) in March 2023 and has been followed closely since that time. Her weight has progressively increased over the past four years, with a peak weight of 192 lbs recorded in January 2025. She reports a longstanding history of difficulty with weight management, attributing contributing factors to a sedentary occupational environment (desk-based administrative work), disrupted sleep due to a young child at home, and a family history of type 2 diabetes mellitus in her mother (diagnosed at age 45) and maternal uncle.
+
+**Review of Prior Treatment Attempts:**
+
+1. **Structured Dietary Intervention (April 2023 – October 2023):** Patient was referred to a registered dietitian (RD) and completed a formal 6-month medical nutrition therapy program. She followed a reduced-calorie Mediterranean-style diet targeting a 500–750 kcal/day deficit. Total weight loss achieved: 4 lbs (approximately 2% total body weight). She reported difficulty sustaining caloric restriction due to persistent hunger and cravings. HbA1c remained at 6.1% at the end of this period.
+
+2. **Supervised Exercise Program (May 2023 – November 2023):** Concurrent with dietary intervention, patient enrolled in a supervised behavioral weight management program incorporating 150 minutes per week of moderate-intensity aerobic exercise as recommended per ADA and USPSTF guidelines. Patient demonstrated good adherence (attendance logs reviewed). Weight loss was minimal and not sustained beyond the program duration.
+
+3. **Metformin Trial (November 2023 – August 2024):** Given persistent prediabetes with no meaningful glycemic improvement and ongoing weight gain, metformin 500 mg orally twice daily was initiated for prediabetes management and modest weight benefit. Dose was titrated to 1000 mg twice daily by February 2024. Patient tolerated the medication but experienced persistent gastrointestinal side effects (nausea, loose stools) at the higher dose and was returned to 500 mg twice daily in April 2024. At 9-month follow-up (August 2024), HbA1c had not improved significantly (6.2%) and weight had increased by 3 lbs from baseline. Metformin was discontinued in August 2024 due to inadequate therapeutic benefit and patient preference to discontinue given GI intolerance.
+
+4. **Continued Lifestyle Modification (September 2024 – present):** Patient has continued best-effort dietary and activity modifications independently, including meal planning and daily step-count goals (8,000–10,000 steps/day). Despite sustained effort, repeat HbA1c in March 2025 was 6.3%, indicating progressive glycemic deterioration toward type 2 diabetes, and her weight increased to 192 lbs (BMI 33 kg/m²).
+
+**Current Symptoms:** Patient reports fatigue, persistent hunger despite adequate caloric intake, difficulty with satiety, and significant psychosocial distress related to her inability to lose weight and the fear of progressing to type 2 diabetes. She denies polyuria, polydipsia, or blurry vision at this time. She denies history of pancreatitis, personal or family history of medullary thyroid carcinoma or MEN2 syndrome, and has no known contraindications to GLP-1 receptor agonist therapy.
+
+**Medications (current):** None (metformin discontinued August 2024 as noted above).
+
+**Allergies:** NKDA.
+
+**Social History:** Non-smoker, occasional alcohol (1–2 drinks per week), works full-time in administrative role. Married with one young child.
+
+**Family History:** Mother — type 2 diabetes (dx age 45); maternal uncle — type 2 diabetes; no family history of thyroid malignancy.
+
+---
+
+## OBJECTIVE
+
+**Vitals (June 12, 2025):**
+
+| Parameter | Value |
+|---|---|
+| Blood Pressure | 126/80 mmHg |
+| Heart Rate | 78 bpm, regular |
+| Respiratory Rate | 16 breaths/min |
+| Temperature | 98.4°F (36.9°C) |
+| Weight | 192 lbs (87.1 kg) |
+| Height | 5'5" (165.1 cm) |
+| **BMI** | **33.0 kg/m²** |
+| Oxygen Saturation | 98% on room air |
+
+**Physical Examination:**
+
+- **General:** Well-appearing female, in no acute distress, pleasant and cooperative.
+- **HEENT:** Normocephalic, atraumatic; oropharynx clear; thyroid non-palpable, no nodules or tenderness noted.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, non-distended; central adiposity noted on inspection; no hepatomegaly.
+- **Extremities:** No edema; peripheral pulses intact bilaterally.
+- **Skin:** Acanthosis nigricans noted at the posterior neck and bilateral axillae, consistent with insulin resistance.

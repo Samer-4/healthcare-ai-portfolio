@@ -1,0 +1,21 @@
+{
+  "case_id": "case_007",
+  "patient_name": "James T. Morrison",
+  "patient_mrn": "MRN-100240",
+  "payer": "BlueCross BlueShield",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "not_medically_necessary",
+  "filename": "case_007_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_007_denial.txt",
+  "patient_age": 55,
+  "patient_bmi": 31,
+  "diagnoses": [
+    "E66.09",
+    "Z68.31"
+  ],
+  "comorbidities": [
+    "obesity",
+    "BMI 31-31.9"
+  ]
+}

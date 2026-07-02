@@ -1,0 +1,68 @@
+---
+
+**HUMANA**
+Humana Inc. | 500 West Main Street | Louisville, KY 40202
+Member Services: 1-800-444-9137 | Provider Services: 1-800-448-6262
+Fax: 1-800-336-1803 | humana.com
+
+---
+
+**PRIOR AUTHORIZATION ADVERSE DETERMINATION NOTICE**
+
+**Date:** June 16, 2025
+**Reference Number:** PA-2025-06-0047821
+**Determination Type:** Denial – Alternative Covered Drug Available
+
+---
+
+**MEMBER INFORMATION**
+**Member Name:** Ashley R. Patel
+**Member ID / MRN:** MRN-100238
+**Date of Birth:** On file
+**Plan Name:** Humana Gold Plus / Commercial Medical Benefit
+
+**PRESCRIBING PHYSICIAN**
+**Physician Name:** Dr. Karen Ostrowski, MD (Family Medicine)
+**NPI:** 1233649087
+**Practice Address:** On file
+
+---
+
+### DRUG REQUESTED
+
+**Medication:** Semaglutide 2.4 mg subcutaneous injection (Wegovy®)
+**Requested Quantity:** 4 injections/28-day supply (titration pack)
+**Diagnosis Codes Submitted:** E66.01 (Morbid obesity due to excess calories); E28.2 (Polycystic ovarian syndrome)
+**ICD-10 Supporting Diagnosis:** Z68.37 (BMI 37.0–37.9, adult)
+
+---
+
+### DETERMINATION
+
+**PRIOR AUTHORIZATION REQUEST: DENIED**
+
+Humana has reviewed the prior authorization request submitted on behalf of **Ashley R. Patel (MRN-100238)** for **semaglutide 2.4 mg (Wegovy®)**. After clinical review of the submitted documentation and application of applicable Humana coverage criteria, this request is **not approved** at this time.
+
+This determination was made by a licensed clinical pharmacist and reviewed by a physician reviewer board-certified in Internal Medicine.
+
+---
+
+### POLICY BASIS AND CLINICAL RATIONALE
+
+This determination is based on **Humana Clinical Policy Bulletin No. CPB-0580: Pharmacologic Management of Obesity and Weight Management Agents (Effective Date: January 1, 2025; Reviewed: April 14, 2025)**, as well as applicable formulary management guidelines under the member's current benefit plan.
+
+**Reason for Denial: Alternative Covered Drug Available**
+
+The submitted request for semaglutide 2.4 mg subcutaneous (Wegovy®) does not satisfy step therapy requirements under CPB-0580, Section IV.B, which requires documented trial and inadequate response, intolerance, or contraindication to **at least one (1) formulary-preferred weight management agent** prior to approval of a non-preferred branded GLP-1 receptor agonist indicated solely for chronic weight management.
+
+Based on the clinical information received, the following criteria were evaluated:
+
+1. **Member Eligibility for Weight Management Pharmacotherapy:** Met. Member Ashley R. Patel presents with a documented BMI of 37 kg/m² and a qualifying weight-related comorbidity (Polycystic Ovarian Syndrome, E28.2), meeting the threshold criteria under CPB-0580, Section III.A.2 for consideration of pharmacologic obesity treatment.
+
+2. **Step Therapy Requirement – Formulary-Preferred Alternative:** **Not Met.** The submitted documentation does not demonstrate a prior adequate trial (minimum 12 consecutive weeks at therapeutic dose) with a Humana formulary-preferred covered alternative. Under the member's current plan benefit, the following agents are covered at a lower formulary tier and are considered clinically appropriate first-line options for weight management in eligible members:
+
+   - **Orlistat (Xenical®/generic)** – Tier 2
+   - **Phentermine/topiramate extended-release (Qsymia®)** – Tier 3 (PA required; clinical criteria less restrictive)
+   - **Naltrexone/bupropion extended-release (Contrave®)** – Tier 3
+
+   The submitted clinical documentation references prior dietary counseling and lifestyle intervention but does not include documentation of a trial with any of the above-listed formulary

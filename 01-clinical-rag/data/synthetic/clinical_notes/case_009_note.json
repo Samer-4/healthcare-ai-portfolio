@@ -1,0 +1,21 @@
+{
+  "case_id": "case_009",
+  "patient_name": "Thomas B. Jackson",
+  "patient_mrn": "MRN-100242",
+  "payer": "Humana",
+  "drug": "liraglutide (Saxenda)",
+  "denial_reason": "not_medically_necessary",
+  "filename": "case_009_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_009_denial.txt",
+  "patient_age": 61,
+  "patient_bmi": 33,
+  "diagnoses": [
+    "M17.11",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "osteoarthritis",
+    "obesity"
+  ]
+}

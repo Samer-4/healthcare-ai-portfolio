@@ -1,0 +1,54 @@
+# PRIMARY CARE PROGRESS NOTE
+**Prior Authorization Support Documentation — Aetna Denial Appeal**
+*Denial Reason: Insufficient Documentation*
+
+---
+
+## PATIENT / DATE / PROVIDER
+
+| | |
+|---|---|
+| **Patient Name:** | Rachel M. Chen |
+| **MRN:** | MRN-100241 |
+| **Date of Birth:** | [DOB on file — Age 33] |
+| **Sex:** | Female |
+| **Date of Visit:** | 2025-07-14 |
+| **Visit Type:** | Office Visit — Established Patient, Chronic Disease Management |
+| **Attending Physician:** | Dr. Natalie Brooks, MD — Family Medicine |
+| **NPI:** | 1774920568 |
+| **Facility:** | Primary Care Clinic |
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been struggling with my weight and blood sugar control for years, and my periods are still irregular. My doctor recommended a new medication to help with all of these issues at once."
+
+---
+
+## SUBJECTIVE
+
+**History of Present Illness:**
+Rachel M. Chen is a 33-year-old female with a well-established history of polycystic ovary syndrome (PCOS, E28.2), type 2 diabetes mellitus with hyperglycemia (E11.65), and morbid (severe) obesity due to excess calories (E66.01) presenting today for a chronic disease management visit and to establish comprehensive documentation in support of prior authorization for tirzepatide (Zepbound) following Aetna's denial on the basis of insufficient documentation.
+
+Ms. Chen was initially diagnosed with PCOS at age 19 following evaluation for oligomenorrhea, hyperandrogenism, and polycystic ovarian morphology on transvaginal ultrasound. Her diagnosis of type 2 diabetes mellitus was confirmed at age 29, with initial HbA1c of 8.1% and fasting glucose of 194 mg/dL. She has struggled with progressive weight gain since adolescence, with her current BMI now meeting criteria for Class III (severe/morbid) obesity at 39 kg/m². She reports that her weight gain is closely intertwined with her PCOS-driven insulin resistance and has been refractory to multiple structured interventions over the past several years.
+
+**Obesity and Weight Loss Treatment History (Chronological):**
+
+1. **Structured Medical Nutrition Therapy (MNT) with Registered Dietitian:**
+   Initiated February 2021. Ms. Chen completed 12 sessions of individualized medical nutrition therapy with a registered dietitian (RD) through an outpatient endocrinology-affiliated program. A low-glycemic, calorie-restricted diet (1,400–1,600 kcal/day) was implemented. Patient demonstrated excellent adherence per RD documentation. Net weight change over 6 months: −3.2 kg (approximately 3.1% total body weight). No sustained benefit beyond initial modest loss; weight rebounded to baseline by September 2021. Discontinued after 8 months due to lack of clinically meaningful response.
+
+2. **Supervised Exercise Program:**
+   Initiated concurrent with MNT in March 2021. Patient enrolled in a supervised aerobic and resistance training program (3x/week, 45–60 minutes per session) through a certified fitness facility with medically supervised oversight. She maintained this regimen for approximately 7 months. Total weight reduction attributable to exercise: minimal and not sustained. Ceased structured program in October 2021 after insufficient results and onset of exercise-induced fatigue likely related to uncontrolled insulin dysregulation.
+
+3. **Metformin (for PCOS and insulin resistance, with secondary weight benefit intended):**
+   Initiated October 2019 at 500 mg twice daily, titrated to 1,000 mg twice daily (2,000 mg/day) by January 2020. Patient tolerated the medication with mild GI side effects that resolved over several weeks. Metformin was continued through the present and remains on her active medication list. While HbA1c improved modestly from 8.1% to 7.3% over 18 months, no clinically significant weight loss was observed (net change: −1.8 kg over 2 years). Metformin is an inadequate monotherapy for her current level of obesity and glycemic burden.
+
+4. **Phentermine-Topiramate (Qsymia) — Anti-Obesity Pharmacotherapy:**
+   Prescribed May 2022 following failure of lifestyle interventions. Initiated at 3.75 mg/23 mg daily for 2 weeks, then titrated to 7.5 mg/46 mg daily. Patient remained on maintenance dose for 4 months (May–September 2022). Total weight loss achieved: −4.1 kg (approximately 3.9% body weight). Patient reported persistent paresthesias, cognitive dulling ("brain fog"), and mood changes attributed to the topiramate component. Given the limited weight loss response and intolerable neuropsychiatric side effects, the medication was discontinued in September 2022 after shared decision-making discussion. This medication was documented as failed due to both inadequate efficacy and adverse effects.
+
+5. **Naltrexone-Bupropion Extended Release (Contrave):**
+   Initiated November 2022. Patient was titrated per standard protocol to target dose of naltrexone 32 mg / bupropion 360 mg daily by week 4. Maintained for approximately 5 months (November 2022–March 2023). Total weight loss: −2.7 kg. Patient experienced persistent nausea, headache, and elevated blood pressure readings (systolic 138–144 mmHg on repeat office measurements), which are contraindicated concerns given her metabolic risk profile. Medication was discontinued March 2023 secondary to adverse effects and inadequate therapeutic response.
+
+6. **Liraglutide 3.0 mg (Saxenda) — GLP-1 Receptor Agonist:**
+   Prescribed June 2023 as stepped anti-obesity pharmacotherapy. Titrated from 0.6 mg/day to 3.0 mg/day per standard 5-week escalation protocol. Maintained at maximum approved dose of 3.0 mg/day for approximately 5 months (July–November 2023). Patient reported moderate nausea and injection-site discomfort. Total weight loss achieved: −6.3

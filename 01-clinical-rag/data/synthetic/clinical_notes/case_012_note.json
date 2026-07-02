@@ -1,0 +1,23 @@
+{
+  "case_id": "case_012",
+  "patient_name": "Linda S. Martinez",
+  "patient_mrn": "MRN-100245",
+  "payer": "Aetna",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "step_therapy_not_completed",
+  "filename": "case_012_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_012_denial.txt",
+  "patient_age": 52,
+  "patient_bmi": 37,
+  "diagnoses": [
+    "G47.33",
+    "I10",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "sleep apnea",
+    "hypertension",
+    "obesity"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "filename": "denial_01_step_therapy_not_completed_aetna.txt",
-  "denial_reason": "step_therapy_not_completed",
-  "payer": "Aetna",
-  "drug": "semaglutide (Wegovy)",
-  "patient": "45-year-old female, BMI 38, type 2 diabetes",
-  "format": "formal_letter"
-}

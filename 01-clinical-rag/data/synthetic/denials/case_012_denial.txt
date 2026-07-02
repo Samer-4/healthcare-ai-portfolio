@@ -1,0 +1,86 @@
+---
+
+# AETNA
+**Aetna Life Insurance Company**
+151 Farmington Avenue
+Hartford, CT 06156
+Member Services: 1-800-872-3862
+Provider Services: 1-800-859-4844
+Fax: 1-860-754-2702
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+**Prior Authorization Denial — Pharmacy Benefit**
+
+---
+
+**Date:** June 13, 2025
+**Reference / Authorization Number:** AUTH-2025-06-PA-884371
+**Plan Name:** Aetna Commercial Medical Plan
+
+---
+
+**MEMBER INFORMATION**
+
+| | |
+|---|---|
+| **Member Name:** | Linda S. Martinez |
+| **Member ID / MRN:** | MRN-100245 |
+| **Date of Birth:** | (On file) |
+| **Age / Sex:** | 52-year-old Female |
+
+---
+
+**REQUESTING PROVIDER INFORMATION**
+
+| | |
+|---|---|
+| **Prescribing Physician:** | Dr. Brian Fenwick, MD |
+| **Specialty:** | Family Medicine |
+| **NPI:** | 1093857462 |
+
+---
+
+**DRUG REQUESTED**
+
+| | |
+|---|---|
+| **Medication:** | Tirzepatide (Zepbound) |
+| **Requested Dose/Frequency:** | As submitted per prior authorization request |
+| **Diagnosis Codes Submitted:** | E66.01 (Morbid obesity due to excess calories); G47.33 (Obstructive sleep apnea); I10 (Essential hypertension) |
+| **Benefit Type:** | Pharmacy Benefit — Non-Preferred Specialty Tier |
+
+---
+
+## DETERMINATION: **DENIED**
+
+**Reason for Denial:** Step Therapy Requirements Not Completed
+
+---
+
+### CLINICAL POLICY BASIS
+
+This determination was made pursuant to **Aetna Clinical Policy Bulletin No. 0580 — Obesity Drug Therapy**, and in accordance with Aetna's Pharmacy Benefit Medical Necessity criteria, effective January 1, 2025. Review was conducted by a licensed Aetna clinical pharmacist and subsequently reviewed by an Aetna Medical Director Board-certified in Internal Medicine.
+
+---
+
+### CLINICAL RATIONALE
+
+Aetna has completed a review of the prior authorization request submitted on behalf of **Linda S. Martinez (MRN-100245)** by **Dr. Brian Fenwick, MD (NPI: 1093857462)** for tirzepatide (Zepbound) for the treatment of chronic weight management in an adult patient with obesity and weight-related comorbid conditions.
+
+We acknowledge and have considered the following clinical information provided in support of this request:
+
+- Member is a 52-year-old female with a documented BMI of 37 kg/m²
+- Active comorbid diagnoses including morbid obesity (E66.01), obstructive sleep apnea (G47.33), and essential hypertension (I10)
+- Submitted letter of medical necessity from Dr. Brian Fenwick, MD
+
+**Tirzepatide (Zepbound) is not approved at this time.** While the member presents with clinical characteristics that may support the use of pharmacologic weight management therapy, the submitted documentation does not demonstrate completion of required step therapy as mandated under Aetna Clinical Policy Bulletin 0580 and the applicable plan benefit design.
+
+Specifically, coverage of tirzepatide (Zepbound) requires documented evidence that the member has **tried and had an inadequate response to, intolerance of, or contraindication to** at least **one (1) preferred first-line FDA-approved weight management agent** from the following step therapy formulary tier prior to advancement to a GLP-1/GIP receptor agonist specialty agent:
+
+**Required Step Therapy — Tier 1 (at least one of the following must be documented):**
+
+1. **Orlistat** (Xenical / Alli) — Lipase inhibitor, minimum 12-week trial at therapeutic dose
+2. **Phentermine/Topiramate ER** (Qsymia) — Sympathomimetic/anticonvulsant combination, minimum 12-week trial at therapeutic dose
+3. **Naltr

@@ -1,0 +1,80 @@
+# PRIMARY CARE PROGRESS NOTE
+**Confidential Medical Record — For Authorization Purposes**
+
+---
+
+## PATIENT / DATE / PROVIDER
+
+| | |
+|---|---|
+| **Patient Name:** | James T. Morrison |
+| **MRN:** | MRN-100240 |
+| **Date of Birth:** | (Age: 55, Male) |
+| **Date of Visit:** | June 16, 2025 |
+| **Visit Type:** | Office Visit — Weight Management / Prior Authorization Support |
+| **Attending Physician:** | Dr. Elaine Wu, MD (Internal Medicine) |
+| **NPI:** | 1609274135 |
+| **Facility:** | Internal Medicine Clinic |
+
+---
+
+## CHIEF COMPLAINT
+
+"I have been struggling to lose weight for years. My doctor wants to try a medication that can help, but my insurance denied it."
+
+---
+
+## SUBJECTIVE
+
+Mr. James T. Morrison is a 55-year-old male with a longstanding history of obesity (BMI 31 kg/m²; ICD-10: E66.09, Z68.31) who presents today for a focused visit in support of a prior authorization appeal for semaglutide 2.4 mg subcutaneous weekly (Wegovy) following denial by BlueCross BlueShield on the basis of "not medically necessary."
+
+**History of Present Illness:**
+Mr. Morrison has struggled with excess weight for more than 10 years. Despite sustained, documented efforts through dietary modification, behavioral intervention, and structured exercise programming, he has been unable to achieve clinically meaningful or durable weight reduction. His current BMI of 31 kg/m² places him in the Class I obesity range (ICD-10: E66.09), which, in the context of his age, sex, metabolic risk profile, and failed conservative measures, represents a clinically significant condition warranting pharmacologic intervention.
+
+He reports persistent fatigue, reduced exercise tolerance, and difficulty with activities of daily living he attributes to his weight. He denies current tobacco or alcohol use. He is compliant with follow-up appointments and has demonstrated engagement with the weight loss process.
+
+**Prior Treatment Attempts (Conservative and Pharmacologic):**
+
+1. **Structured Low-Calorie Diet (Caloric Restriction Program):**
+   - Duration: Approximately 18 months (January 2022 – June 2023)
+   - Description: Patient enrolled in a supervised reduced-calorie diet targeting a deficit of 500–750 kcal/day with dietary counseling provided by a registered dietitian (RD) on a bimonthly basis.
+   - Outcome: Initial weight loss of approximately 6 lbs over 4 months, followed by weight plateau and subsequent regain. Net weight loss at program conclusion: approximately 2 lbs. Patient was fully adherent per dietitian documentation.
+
+2. **Structured Exercise Program:**
+   - Duration: Ongoing since February 2022 (more than 3 years)
+   - Description: Patient engaged in supervised aerobic and resistance training program, 3–4 sessions per week, 45–60 minutes per session, with documented participation in a medically-affiliated fitness program. Exercise logs reviewed in office.
+   - Outcome: Improved cardiovascular fitness reported, but no sustained clinically meaningful weight reduction. Current weight has remained within ±3 lbs over the past 12 months despite continued exercise adherence.
+
+3. **Behavioral Weight Management / Lifestyle Counseling:**
+   - Duration: September 2022 – March 2024 (18 months)
+   - Description: Patient participated in individual behavioral counseling sessions addressing eating habits, emotional eating patterns, sleep hygiene, and stress management through a licensed behavioral health specialist affiliated with our clinic.
+   - Outcome: Patient demonstrated behavioral improvement (reduced late-night eating, improved sleep hygiene), but sustained weight loss was not achieved. Final documented weight at program conclusion was within 3 lbs of starting weight.
+
+4. **Pharmacologic Attempt — Orlistat (Xenical) 120 mg TID:**
+   - Duration: April 2023 – September 2023 (6 months)
+   - Indication: Obesity, BMI ≥30
+   - Outcome: Patient tolerated orlistat poorly. He developed significant gastrointestinal side effects including oily stool, fecal urgency, and fecal incontinence, which were disruptive to his occupational and social functioning. Weight loss achieved over 6 months was approximately 3 lbs, deemed clinically insignificant. Medication was discontinued at patient's request and with clinical concurrence due to intolerable side effects and lack of meaningful efficacy.
+
+5. **Phentermine/Topiramate (Qsymia) — Not Appropriate:**
+   - Patient was evaluated for phentermine/topiramate. This combination was not initiated due to resting heart rate concerns (baseline resting HR 84–88 bpm on multiple readings) and the known sympathomimetic cardiovascular effects of phentermine in a middle-aged male patient. Clinical risk-benefit assessment favored avoidance.
+
+6. **Naltrexone/Bupropion (Contrave) — Considered and Deferred:**
+   - Patient has a history of mood lability and was cautious about bupropion given prior sensitivity to serotonergic/noradrenergic agents. After discussion, patient and provider agreed the risk of mood destabilization with bupropion in this clinical context was not acceptable as a next-line step.
+
+Given the above documented failure of multiple conservative non-pharmacologic interventions over more than three years, as well as the trial and failure of first-line pharmacologic therapy (orlistat) due to intolerance, and the clinical contraindications or significant risk considerations precluding use of other available anti-obesity pharmacotherapies, semaglutide 2.4 mg SC weekly (Wegovy) is now indicated as the most appropriate next therapeutic step.
+
+---
+
+## OBJECTIVE
+
+**Vital Signs (Visit Date: June 16, 2025):**
+
+| Parameter | Value |
+|---|---|
+| Blood Pressure | 134/84 mmHg |
+| Heart Rate | 86 bpm |
+| Respiratory Rate | 16 breaths/min |
+| Temperature | 98.4°F (oral) |
+| Oxygen Saturation | 98% on room air |
+| Height | 5'10" (177.8 cm) |
+| Weight | 215 lbs (97.

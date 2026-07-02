@@ -1,0 +1,21 @@
+{
+  "case_id": "case_011",
+  "patient_name": "Marcus A. Thompson",
+  "patient_mrn": "MRN-100244",
+  "payer": "Cigna",
+  "drug": "semaglutide (Ozempic)",
+  "denial_reason": "off_label",
+  "filename": "case_011_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_011_denial.txt",
+  "patient_age": 38,
+  "patient_bmi": 29,
+  "diagnoses": [
+    "K76.0",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "non-alcoholic fatty liver disease",
+    "overweight"
+  ]
+}

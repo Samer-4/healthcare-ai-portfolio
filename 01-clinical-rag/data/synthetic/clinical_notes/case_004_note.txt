@@ -1,0 +1,33 @@
+# SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** David K. Nguyen | **MRN:** MRN-100237
+**Date of Birth:** [DOB on file] | **Age:** 60 | **Sex:** Male
+**Referring Provider:** Primary Care Physician (on file)
+**Consulting Physician:** Dr. Lauren Mackey, MD (Sleep Medicine), NPI 1408857261
+**Consult Date:** June 16, 2025
+**Location:** Sleep Medicine & Metabolic Health Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. David K. Nguyen is a 60-year-old male referred for specialist evaluation in the context of a prior authorization denial by BlueCross BlueShield for liraglutide 3.0 mg (Saxenda) on the basis of alleged off-label use. This note is prepared to document the clinical rationale, supporting medical literature, and the appropriateness of liraglutide 3.0 mg (Saxenda) for this patient's diagnoses of obesity-hypoventilation/obstructive sleep apnea (ICD-10: G47.33) and morbid obesity due to excess calories (ICD-10: E66.09), and to counter the denial issued by BlueCross BlueShield.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Nguyen is a 60-year-old male with a longstanding history of obesity (BMI 30 kg/m²) and moderate-to-severe obstructive sleep apnea (OSA), confirmed by polysomnography on March 4, 2024, with an apnea-hypopnea index (AHI) of 24 events per hour. He has been followed in this Sleep Medicine clinic for approximately 18 months. His OSA management has been complicated by persistent excess adiposity, which is a well-established, bidirectional driver of upper airway collapsibility and nocturnal hypoxia. Despite adherence to CPAP therapy (compliance data reviewed: >4 hours/night on 87% of nights over the past 90 days), his residual AHI remains elevated at 11 events/hour on device download, which is attributable in substantial part to his obesity. Referral to dietary counseling was initiated in January 2024, and the patient has been engaged in a structured low-calorie dietary program since February 2024 with only modest weight reduction of approximately 3 lbs over 5 months. He continues to report excessive daytime somnolence (Epworth Sleepiness Scale score 13/24 at most recent visit), non-restorative sleep, morning headaches, and fatigue.
+
+The patient's obesity (E66.09) has been managed through multiple conservative and pharmacologic strategies over the preceding 24 months without adequate response. He was enrolled in an intensive behavioral lifestyle intervention program through our institution's affiliated metabolic clinic beginning in September 2023, incorporating dietary modification (caloric restriction to 1,400–1,600 kcal/day), supervised aerobic exercise (minimum 150 minutes/week), and cognitive behavioral support. Despite consistent engagement, he achieved a net weight loss of less than 3% of baseline body weight over six months, which is clinically insufficient per standard obesity treatment benchmarks (≥5% weight loss at 3–6 months). Phentermine/topiramate extended-release was initiated on March 15, 2024, at a starting dose of 3.75 mg/23 mg daily, titrated to 7.5 mg/46 mg by April 15, 2024. This agent was discontinued on August 10, 2024, after five months of use due to intolerable adverse effects including cognitive dulling ("brain fog"), paresthesias of the bilateral hands, and mood lability, with only 4 lbs of weight loss achieved. Orlistat 120 mg three times daily with meals was subsequently trialed beginning September 5, 2024, and continued through January 10, 2025 (approximately 4 months). The patient reported significant gastrointestinal intolerance including oily stools, fecal urgency, and flatulence that substantially impaired his quality of life and occupational function; he lost 2 lbs during this trial. Given failure of two separate pharmacologic agents and sustained behavioral intervention, liraglutide 3.0 mg (Saxenda) was identified as the next most clinically appropriate intervention, given its FDA approval specifically for chronic weight management and the compounding clinical urgency imposed by his OSA.
+
+The intersection of obesity and OSA in this patient represents a clinically urgent situation. Epidemiologic and mechanistic data confirm that excess adiposity — particularly pharyngeal and peripharyngeal fat deposition — directly worsens upper airway anatomy and OSA severity. Published data from the Sleep AHEAD trial (Foster et al., NEJM, 2009) and subsequent analyses demonstrate that weight loss of 5–10% of body weight significantly reduces AHI and OSA severity independent of CPAP. Emerging data from randomized controlled trials, including the SCALE Sleep Apnea trial (Blackman et al., Int J Obes, 2016), specifically evaluated liraglutide 3.0 mg in patients with obesity and moderate-to-severe OSA (mean BMI ~39 kg/m²; AHI ~49 events/hour) and demonstrated statistically significant reductions in AHI (–12.2 events/hour vs. –6.1 events/hour with placebo, p=0.0084) alongside clinically meaningful weight loss. Liraglutide 3.0 mg (Saxenda) is FDA-approved for chronic weight management in adults with BMI ≥30 kg/m² (or ≥27 kg/m² with at least one weight-related comorbidity). Mr. Nguyen meets this criterion precisely, with BMI 30 kg/m² and a weight-related comorbidity (OSA). The insurer's denial characterization of this use as "off-label" is not supported by FDA labeling; Saxenda's approved indication explicitly encompasses Mr. Nguyen's clinical profile.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Obstructive sleep apnea, moderate-to-severe (G47.33) — diagnosed March 2024 by in-laboratory polysomnography
+2. Obesity, morbid, due to excess calories (E66.09) — longstanding, BMI 30 kg/m²

@@ -1,0 +1,11 @@
+{
+  "case_id": "case_010",
+  "patient_name": "Patricia L. Davis",
+  "patient_mrn": "MRN-100243",
+  "payer": "UnitedHealthcare",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "alternative_covered",
+  "filename": "case_010_denial.txt",
+  "format": "formal_letter",
+  "note_file": "case_010_note.txt"
+}

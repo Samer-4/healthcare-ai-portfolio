@@ -1,0 +1,78 @@
+# UnitedHealthcare
+**UnitedHealthcare Insurance Company**
+3100 AMS Boulevard | Green Bay, WI 54313
+Customer Service: 1-866-892-4964 | Provider Services: 1-800-842-5252
+Fax: 1-866-547-1510 | www.uhc.com
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+**PRIOR AUTHORIZATION DENIAL**
+
+---
+
+**Date:** June 13, 2025
+**Reference Number:** PA-2025-061300847213
+**UHC Plan:** UnitedHealthcare Choice Plus (Commercial)
+
+---
+
+**Member Information**
+**Member Name:** Robert M. Okafor
+**Member ID / MRN:** MRN-100235
+**Date of Birth:** On file
+**Plan ID:** UHC-CHPL-2025
+
+**Requesting Provider**
+**Prescribing Physician:** Andrew Kim, MD — Endocrinology
+**NPI:** 1922048173
+**Practice Address:** On file
+
+---
+
+## RE: Notice of Adverse Benefit Determination — Prior Authorization Denial
+
+Dear Robert M. Okafor and Dr. Andrew Kim, MD,
+
+UnitedHealthcare has completed its clinical review of the prior authorization request submitted on behalf of **Robert M. Okafor (MRN-100235)** for the following medication:
+
+| Field | Detail |
+|---|---|
+| **Drug Requested** | Tirzepatide (Zepbound) 2.5 mg subcutaneous injection, titration to maintenance dose |
+| **Requested Quantity** | 4 pens/28-day supply |
+| **Indication Submitted** | Chronic weight management in obesity |
+| **Authorization Request Date** | June 9, 2025 |
+| **Determination Date** | June 13, 2025 |
+
+---
+
+## DETERMINATION: **DENIED — NOT MEDICALLY NECESSARY**
+
+Following review by a UnitedHealthcare Medical Director, board-certified in **Endocrinology**, this request has been **denied**. The requested medication does not meet UnitedHealthcare's applicable coverage criteria as set forth in:
+
+> **Clinical Policy Bulletin No. 0580** — *Obesity and Weight Loss Medications*
+> **Effective Date:** January 1, 2025 | **Last Reviewed:** March 15, 2025
+
+---
+
+## CLINICAL BASIS FOR DENIAL
+
+UnitedHealthcare's Clinical Policy Bulletin 0580 requires that **all** of the following criteria be satisfied for coverage of tirzepatide (Zepbound) for chronic weight management:
+
+**1. Body Mass Index (BMI) Threshold — Criterion Met**
+The member's documented BMI of **35 kg/m²** meets the minimum threshold requirement (BMI ≥ 30, or ≥ 27 with at least one qualifying weight-related comorbidity).
+
+**2. Documented Comorbidity — Criterion Met**
+The member has a documented diagnosis of **hypertension**, which constitutes a qualifying weight-related comorbidity under CPB 0580, Section III.B.2.
+
+**3. Prior Documented Participation in a Structured, Supervised Behavioral Modification Program — Criterion NOT Met**
+CPB 0580, Section III.B.4 requires documentation of **at least six (6) consecutive months** of participation in a **comprehensive, medically supervised weight management program** within the preceding **24 months**, inclusive of all of the following components:
+
+- Reduced-calorie dietary intervention supervised or prescribed by a licensed healthcare professional
+- Structured physical activity program with documented participation
+- Behavioral counseling provided by a qualified behavioral health provider or registered dietitian
+
+The clinical documentation submitted in support of this request does not demonstrate participation in, or completion of, a qualifying supervised weight management program meeting the above criteria. The submitted records reference a general recommendation for diet and exercise by the treating physician but do not include documentation of formal enrollment, attendance records, or outcomes data from a qualifying structured program.
+
+**4. Failure of Prior Pharmacological Therapy — Criterion NOT Met**
+CPB 0580, Section III.B.5 requires documentation that the member has had an **inadequate clinical response** (defined as less than 5% reduction in body weight over 12 weeks at the maximum

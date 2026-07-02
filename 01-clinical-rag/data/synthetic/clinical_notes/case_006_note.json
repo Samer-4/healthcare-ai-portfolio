@@ -1,0 +1,21 @@
+{
+  "case_id": "case_006",
+  "patient_name": "Sandra K. Williams",
+  "patient_mrn": "MRN-100239",
+  "payer": "Cigna",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "step_therapy_not_completed",
+  "filename": "case_006_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_006_denial.txt",
+  "patient_age": 49,
+  "patient_bmi": 36,
+  "diagnoses": [
+    "E03.9",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "hypothyroidism",
+    "obesity"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "case_005",
+  "patient_name": "Ashley R. Patel",
+  "patient_mrn": "MRN-100238",
+  "payer": "Humana",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "alternative_covered",
+  "filename": "case_005_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_005_denial.txt",
+  "patient_age": 41,
+  "patient_bmi": 37,
+  "diagnoses": [
+    "E28.2",
+    "E66.01"
+  ],
+  "comorbidities": [
+    "PCOS",
+    "obesity"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "filename": "denial_11_off_label_cigna.txt",
-  "denial_reason": "off_label",
-  "payer": "Cigna",
-  "drug": "semaglutide (Ozempic)",
-  "patient": "38-year-old male, BMI 29, non-alcoholic fatty liver disease",
-  "format": "formal_letter"
-}

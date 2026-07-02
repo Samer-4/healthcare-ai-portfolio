@@ -1,8 +1,0 @@
-{
-  "filename": "denial_08_insufficient_documentation_aetna.txt",
-  "denial_reason": "insufficient_documentation",
-  "payer": "Aetna",
-  "drug": "tirzepatide (Zepbound)",
-  "patient": "33-year-old female, BMI 39, PCOS, insulin resistance",
-  "format": "formal_letter"
-}

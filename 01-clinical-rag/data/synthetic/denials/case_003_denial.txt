@@ -1,0 +1,71 @@
+---
+
+**CIGNA HEALTHCARE**
+Utilization Management Division
+900 Cottage Grove Road
+Bloomfield, CT 06002
+Phone: 1-800-244-6224 | Fax: 1-860-226-2407
+www.cigna.com
+
+---
+
+**DATE:** June 16, 2025
+
+**REFERENCE NUMBER:** UM-2025-PA-0847391
+
+**RE: Notice of Adverse Benefit Determination – Prior Authorization Denial**
+
+---
+
+**TO:**
+Dr. Priya Nandakumar, MD
+Family Medicine
+NPI: 1685720349
+
+**MEMBER INFORMATION:**
+Patient Name: Maria T. Reyes
+Member ID / MRN: MRN-100236
+Date of Birth: [DOB on file]
+Plan Name: Cigna Connect 3000 (Commercial)
+
+---
+
+### DRUG REQUESTED
+
+**Medication:** Semaglutide 0.5 mg/0.5 mL subcutaneous injection (Ozempic®)
+**Requested Quantity:** 4 pens / 28-day supply
+**Requested Start Date:** June 16, 2025
+**Diagnosis Codes Submitted:** E11.65 (Type 2 diabetes mellitus with hyperglycemia); E66.09 (Other obesity)
+
+---
+
+### DETERMINATION
+
+**☒ DENIED — Insufficient Documentation**
+
+Cigna Healthcare has completed its review of the prior authorization request submitted on behalf of the above-referenced member for semaglutide (Ozempic®). After careful clinical review of the submitted documentation, **this request does not meet the criteria for approval** as outlined in Cigna's **Medical Coverage Policy: Clinical Policy Bulletin (CPB) 0580 — Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists and Dual GIP/GLP-1 Receptor Agonists**, effective January 1, 2025.
+
+---
+
+### BASIS FOR DENIAL
+
+The request for semaglutide (Ozempic®) has been denied for the following reasons:
+
+**1. Indication Not Established for Submitted Diagnosis**
+
+Semaglutide (Ozempic®) is FDA-approved for the improvement of glycemic control in adults with **Type 2 diabetes mellitus (T2DM)**. The clinical documentation submitted for Ms. Maria T. Reyes (MRN-100236) reflects a current diagnosis of **prediabetes (ICD-10: R73.09)** and **obesity (BMI 33)**. The submitted diagnosis code of E11.65 (Type 2 diabetes mellitus) is **not substantiated** by the clinical records provided. Specifically, no documentation was received confirming a formal diagnosis of Type 2 diabetes mellitus as defined by current American Diabetes Association (ADA) standards, including any of the following:
+
+- Fasting plasma glucose ≥ 126 mg/dL on two separate occasions;
+- Two-hour plasma glucose ≥ 200 mg/dL during an oral glucose tolerance test (OGTT);
+- HbA1c ≥ 6.5% on two separate occasions; or
+- Random plasma glucose ≥ 200 mg/dL in a patient with classic symptoms of hyperglycemia.
+
+The single most recent HbA1c value on file (submitted as 6.1%) is consistent with **prediabetes**, not Type 2 diabetes mellitus, and does not support approval of Ozempic® under CPB 0580.
+
+**2. Step Therapy Requirements Not Met**
+
+Per **CPB 0580, Section IV.B**, coverage of semaglutide (Ozempic®) for Type 2 diabetes mellitus requires documentation that the member has had an **inadequate clinical response, contraindication, or intolerance** to at least **one first-line oral antidiabetic agent** (e.g., metformin). The submitted documentation does not include:
+
+- Evidence of a trial of metformin or other first-line oral antidiabetic therapy of adequate dose and duration (minimum 90 days);
+- Documentation of intolerance, adverse effects, or contraindication precluding use of first-line agents; or
+- Laboratory values

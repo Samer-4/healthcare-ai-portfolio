@@ -1,8 +1,0 @@
-{
-  "filename": "denial_12_step_therapy_not_completed_aetna.txt",
-  "denial_reason": "step_therapy_not_completed",
-  "payer": "Aetna",
-  "drug": "tirzepatide (Zepbound)",
-  "patient": "52-year-old female, BMI 37, sleep apnea, hypertension",
-  "format": "formal_letter"
-}

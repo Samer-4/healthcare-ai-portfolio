@@ -1,8 +1,0 @@
-{
-  "filename": "denial_09_not_medically_necessary_humana.txt",
-  "denial_reason": "not_medically_necessary",
-  "payer": "Humana",
-  "drug": "liraglutide (Saxenda)",
-  "patient": "61-year-old male, BMI 33, osteoarthritis",
-  "format": "formal_letter"
-}

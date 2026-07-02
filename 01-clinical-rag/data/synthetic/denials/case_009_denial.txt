@@ -1,0 +1,73 @@
+---
+
+**HUMANA**
+Humana Health Plan, Inc.
+P.O. Box 14601
+Lexington, KY 40512-4601
+Member Services: 1-800-457-4708
+Provider Services: 1-800-448-6262
+Fax: 1-800-949-2961
+www.humana.com
+
+---
+
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+**Prior Authorization Denial — Not Medically Necessary**
+
+---
+
+**Date:** June 16, 2025
+**Reference Number:** PA-2025-0616-00847231
+**Authorization Request Date:** June 9, 2025
+
+---
+
+**MEMBER INFORMATION**
+
+**Member Name:** Thomas B. Jackson
+**Member ID / MRN:** MRN-100242
+**Date of Birth:** On File
+**Plan Name:** Humana Gold Plus HMO
+**Group Number:** On File
+
+---
+
+**REQUESTING PROVIDER INFORMATION**
+
+**Prescribing Physician:** Dr. Gregory Alston, MD — Internal Medicine
+**NPI:** 1361780924
+**Practice Address:** On File
+
+---
+
+**DRUG REQUESTED**
+
+**Medication:** Liraglutide 3.0 mg/0.5 mL subcutaneous injection (Saxenda®)
+**Requested Quantity:** 5 pens (18 mg/3 mL each) — 30-day supply
+**Requested Start Date:** June 12, 2025
+**Diagnosis Codes Submitted:** E66.09 (Morbid obesity due to excess calories); M19.90 (Osteoarthritis, unspecified)
+
+---
+
+**DETERMINATION: DENIED — NOT MEDICALLY NECESSARY**
+
+Humana has completed its review of the prior authorization request submitted on behalf of **Thomas B. Jackson (MRN-100242)** for **liraglutide 3.0 mg (Saxenda®)**. After careful clinical review of all submitted documentation, Humana has determined that this request does **not meet the criteria for medical necessity** as defined under Humana's Clinical Policy Bulletin **CPB-0580: Obesity Management — Pharmacological Therapy (Effective Date: January 1, 2025; Revised: March 15, 2025)** and applicable plan benefit terms.
+
+---
+
+**BASIS FOR DENIAL**
+
+Humana's Clinical Policy Bulletin CPB-0580 establishes the following criteria that **must all be met** for approval of liraglutide 3.0 mg (Saxenda®) for chronic weight management:
+
+> **1.** The member has a Body Mass Index (BMI) ≥ 30 kg/m², **or** a BMI ≥ 27 kg/m² in the presence of at least one weight-related comorbidity (e.g., type 2 diabetes mellitus, hypertension, dyslipidemia, obstructive sleep apnea); **AND**
+>
+> **2.** Documentation of a **minimum of six (6) consecutive months** of participation in a structured, clinically supervised lifestyle intervention program encompassing reduced-calorie diet, increased physical activity, and behavioral modification, with documented and measurable outcomes, attempted **prior** to initiation of pharmacological therapy; **AND**
+>
+> **3.** Documentation that prior FDA-approved pharmacological agents for chronic weight management (e.g., orlistat, phentermine/topiramate extended-release, naltrexone/bupropion extended-release) have been trialed at adequate doses and have either failed to achieve clinically meaningful weight loss (defined as ≥ 5% reduction in total body weight) or were discontinued due to documented intolerability; **AND**
+>
+> **4.** The prescribing physician has documented that the member is an appropriate candidate for liraglutide therapy, including the absence of contraindications (e.g., personal or family history of medullary thyroid carcinoma, Multiple Endocrine Neoplasia syndrome type 2, active or prior pancreatitis).
+
+**Based on the clinical documentation submitted, the following criterion/criteria were not satisfied:**
+
+**Criterion 2 — Structured Lifestyle Intervention (Not Met):**
+The submitted clinical documentation does not include evidence of a minimum six-month

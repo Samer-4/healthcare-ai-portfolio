@@ -1,0 +1,74 @@
+---
+
+# AETNA BETTER HEALTH
+**Aetna Life Insurance Company**
+151 Farmington Avenue
+Hartford, CT 06156
+
+**Member Services:** 1-800-872-3862
+**Provider Services:** 1-800-859-8799
+**Fax:** 1-860-754-2702
+
+---
+
+**DATE:** June 17, 2025
+
+**REFERENCE NUMBER:** UM-2025-PA-0441892
+
+**RE: Notice of Adverse Benefit Determination — Prior Authorization Denial**
+
+---
+
+**MEMBER INFORMATION**
+**Member Name:** Rachel M. Chen
+**Member ID / MRN:** MRN-100241
+**Date of Birth:** On file
+**Plan Type:** Aetna Commercial PPO
+
+**PRESCRIBING PROVIDER INFORMATION**
+**Physician:** Natalie Brooks, MD — Family Medicine
+**NPI:** 1774920568
+**Practice Address:** On file
+
+---
+
+## NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Dear Rachel M. Chen and Dr. Natalie Brooks, MD:
+
+Aetna Life Insurance Company has completed its utilization review of the prior authorization request submitted on behalf of the above-referenced member. After careful review of the submitted clinical information and applicable coverage criteria, Aetna has made the following determination:
+
+> **The request for tirzepatide (Zepbound) has been DENIED.**
+>
+> **Determination Type:** Adverse Benefit Determination — Insufficient Documentation
+> **Service Type:** Pharmacy — Prior Authorization
+> **Date of Request:** June 10, 2025
+> **Date of Determination:** June 17, 2025
+
+---
+
+## DRUG REQUESTED
+
+| Field | Detail |
+|---|---|
+| **Medication** | Tirzepatide (Zepbound) |
+| **Requested Dose** | As submitted |
+| **Requested Supply** | 30-day supply, ongoing |
+| **Diagnosis Codes Submitted** | E66.09 (Morbid obesity due to excess calories); E28.2 (Polycystic ovarian syndrome) |
+| **Indication** | Chronic weight management |
+
+---
+
+## BASIS FOR DENIAL
+
+This request has been denied based on **insufficient clinical documentation** to establish that all required criteria under Aetna's **Clinical Policy Bulletin No. 0580 — Obesity: Drug Therapy** (effective January 1, 2025) have been met. Tirzepatide (Zepbound) is a GLP-1/GIP receptor agonist approved by the FDA for chronic weight management in adults with a body mass index (BMI) ≥ 30 kg/m², or ≥ 27 kg/m² with at least one weight-related comorbidity. While the member's reported BMI of 39 kg/m² and documented diagnoses of polycystic ovarian syndrome (PCOS) and insulin resistance may satisfy the threshold eligibility criteria, the submitted documentation does not sufficiently address all of the following required elements as outlined in Clinical Policy Bulletin 0580, Section III.B:
+
+**1. Documented Evidence of Prior Step Therapy**
+The submitted clinical record does not include adequate documentation demonstrating that the member has participated in a structured, supervised behavioral weight management program for a minimum of **six (6) consecutive months** within the past two (2) years. Specifically, the submission lacks:
+- Provider-signed attestation or records from a qualifying weight loss program (e.g., physician-supervised diet program, hospital-based behavioral program, or equivalent commercial program with documented medical oversight);
+- Records of program attendance, frequency of participation, and documented weight outcomes during participation.
+
+**2. Inadequate Documentation of Prior Pharmacological Therapy**
+Clinical Policy Bulletin 0580 requires documentation that the member has had an **adequate trial and documented failure, intolerance, or contraindication** to at least one (1) formulary-preferred weight management agent (e.g., orlistat, phentermine/topiramate ER [Qsymia], naltrexone/bupropion ER [Contrave]) prior to the initiation of a GLP-1/GIP agonist. The prior authorization submission does not include:
+- Prescription history, pharmacy claims, or prescriber attestation confirming a previous trial of a preferred agent;
+-

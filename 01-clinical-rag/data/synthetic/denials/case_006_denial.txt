@@ -1,0 +1,29 @@
+---
+
+**🔔 New Message – Action May Be Required**
+
+**Subject:** Prior Authorization Decision – Tirzepatide (Zepbound)
+**Reference / Case #:** PA-2024-887341
+**Member:** Sandra K. Williams | MRN-100239
+**Requested by:** Dr. Michael Ferraro, MD – Endocrinology | NPI 1957403812
+**Date of Decision:** December 3, 2024
+
+---
+
+**Authorization Status: ❌ DENIED**
+**Denial Reason:** Step Therapy Requirement Not Met
+
+---
+
+Your request for **Zepbound (tirzepatide)** has been reviewed and cannot be approved at this time. Our plan requires that members first try at least one preferred weight management medication (such as orlistat or phentermine/topiramate) for a minimum of 90 days before Zepbound may be covered. Our records do not show a completed trial of a required step therapy medication for this indication.
+
+Your doctor may be able to request an **exception or appeal** if there is a clinical reason you cannot use a step therapy medication.
+
+---
+
+📋 **[View Full Denial Details & Appeal Options](#)**
+📋 **[Submit an Appeal or Exception Request](#)**
+
+Questions? Call Member Services at **1-800-244-6224** (TTY 711), Mon–Fri 8am–8pm local time.
+
+---

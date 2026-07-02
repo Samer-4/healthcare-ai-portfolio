@@ -1,0 +1,67 @@
+# ENDOCRINOLOGY SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Robert M. Okafor
+**MRN:** MRN-100235
+**Date of Birth:** (Age 52, Male)
+**Referring Provider:** Primary Care Physician
+**Consulting Physician:** Dr. Andrew Kim, MD — Endocrinology, NPI 1922048173
+**Consult Date:** June 16, 2025
+**Visit Type:** Outpatient Specialist Consultation — Prior Authorization Support
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. Okafor is a 52-year-old male with a BMI of 35 kg/m² referred for endocrinology evaluation and management of class II obesity (E66.09) with comorbid hypertension (I10). This note is being generated in direct response to UnitedHealthcare's denial of tirzepatide (Zepbound) on the basis of "not medically necessary." The purpose of this consultation is to provide a comprehensive clinical record documenting the medical necessity of GLP-1/GIP receptor agonist therapy with tirzepatide for this patient, including the presence of obesity-related comorbidities, failure of conservative measures, and clinical urgency of pharmacologic intervention.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Robert M. Okafor is a 52-year-old male with a longstanding history of obesity and hypertension who presents to the Endocrinology clinic for specialist evaluation and pharmacologic management of his weight. He was referred by his primary care physician following failure to achieve clinically meaningful or sustained weight loss through repeated structured attempts at lifestyle modification over a period of approximately three years. His current BMI is 35 kg/m², meeting the threshold for Class II obesity per standard clinical classification. He reports a gradual weight increase over the past decade, which has accelerated over the past three to four years despite his awareness and engagement with dietary counseling and exercise programming.
+
+Mr. Okafor has been participating in a structured behavioral weight-loss program since approximately January 2022. He engaged with a registered dietitian on a biweekly basis through June 2022, during which time he adopted a caloric restriction regimen targeting a daily deficit of 500–750 kcal, along with a supervised aerobic exercise protocol of 150 minutes per week of moderate-intensity activity. Despite adherence to this regimen for a period of approximately six months, he achieved a peak weight reduction of only 6 lbs (approximately 2.7 kg), which was subsequently regained in full by October 2022. He resumed a modified lifestyle intervention in early 2023, including referral to a medically supervised low-calorie diet program. Once again, weight loss was minimal and unsustained, with no net change documented at his 12-month follow-up in February 2024. His primary care provider documented these interventions in the medical record, reflecting multiple serious, good-faith attempts at non-pharmacologic therapy prior to this referral.
+
+Of significant clinical concern is the direct contribution of his obesity to his hypertension. Mr. Okafor was diagnosed with hypertension in 2018 and has required escalating antihypertensive pharmacotherapy over the intervening years. His blood pressure control remains suboptimal despite being on a two-drug regimen (see Current Medications), and his managing internist has attributed the difficulty in achieving target blood pressure goals in large part to his persistent excess adiposity. There is robust literature confirming the bidirectional relationship between obesity and hypertension, and sustained weight loss of 5–10% of body weight has been shown to result in meaningful reductions in systolic blood pressure, potentially allowing for de-escalation of antihypertensive therapy. Given Mr. Okafor's age, sex, and cardiovascular risk profile, pharmacologic weight management is medically necessary to reduce his risk of major adverse cardiovascular events, including stroke, myocardial infarction, and heart failure.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Obesity, Class II — E66.09 (diagnosis established 2017; BMI consistently ≥ 35 kg/m² for at least 5 years)
+2. Hypertension — I10 (diagnosis established 2018; currently on two-drug antihypertensive regimen)
+3. No prior bariatric surgery
+4. No history of type 2 diabetes mellitus or pre-diabetes documented; most recent HbA1c within normal range
+5. No known personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2 (MEN2)
+6. No personal history of pancreatitis
+7. No prior allergic reactions to injectable medications
+
+---
+
+## CURRENT MEDICATIONS
+
+1. **Lisinopril 20 mg** — oral, once daily (for hypertension; initiated 2019)
+2. **Amlodipine 5 mg** — oral, once daily (added 2021 for blood pressure not at goal on monotherapy)
+3. **Aspirin 81 mg** — oral, once daily (cardiovascular prophylaxis)
+4. **Multivitamin** — oral, once daily
+
+*No current anti-obesity medications. No GLP-1 receptor agonist therapy has been previously prescribed.*
+
+---
+
+## REVIEW OF SYSTEMS
+
+- **Constitutional:** Positive for weight gain over the past 3–4 years; fatigue with exertion; no fever or chills.
+- **Cardiovascular:** Positive for known hypertension; denies chest pain, palpitations, or lower extremity edema.
+- **Respiratory:** Denies dyspnea at rest; mild exertional dyspnea with vigorous activity, attributed in part to deconditioning and excess weight.
+- **Gastrointestinal:** Denies nausea, vomiting, diarrhea, constipation, or abdominal pain. No history of gallstones or pancreatitis.
+- **Musculoskeletal:** Positive for bilateral knee discomfort with prolonged ambulation, consistent with weight-related mechanical strain.
+- **Endocrine/Metabolic:** Denies polydipsia, polyuria, or heat/cold intolerance. No symptoms consistent with hypothyroidism or hyperthyroidism.
+- **Neurological:** No focal deficits. Denies headaches or visual changes.
+- **Psychiatric:** Denies depression, anxiety, or binge-eating disorder. No current psychiatric medications.
+
+---
+
+## PHYSICAL
