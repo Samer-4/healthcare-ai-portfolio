@@ -1,0 +1,102 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Derek O. Boateng
+**MRN:** MRN-100251
+**Date of Service:** 2024-11-14
+**Provider:** Dr. Monica Reyes-Chan, MD — Family Medicine
+**NPI:** 1264097385
+**Visit Type:** Office Visit — Established Patient, Chronic Disease Management
+
+---
+
+## CHIEF COMPLAINT
+
+Follow-up for obesity and weight management; discussion of pharmacotherapy options following prior authorization denial for semaglutide (Wegovy).
+
+---
+
+## SUBJECTIVE
+
+Mr. Boateng is a 47-year-old male presenting today for follow-up regarding ongoing management of morbid obesity (E66.01), obstructive sleep apnea (G47.33), and hypertension (I10). He reports continued difficulty with weight loss despite efforts to modify his diet and increase his activity level. The patient states he has been "watching what he eats" and trying to walk more regularly, though he does not keep a formal exercise log and has not been enrolled in a structured weight loss program to my knowledge.
+
+He reports that his sleep apnea symptoms remain bothersome and that his CPAP compliance has been inconsistent, which he attributes in part to difficulty with the mask fit. He notes that his blood pressure has been difficult to control and believes his weight is a contributing factor.
+
+Regarding prior pharmacotherapy, the patient tried phentermine in the past for weight management. He reports it was not well tolerated and was discontinued, though he is unable to recall the exact dose or how long he was on it. He denies use of orlistat or other prescription weight loss agents. He has a history of hypertension managed with lisinopril 10 mg daily.
+
+He is motivated to pursue additional pharmacologic support for weight loss and is requesting semaglutide (Wegovy) to assist with sustained weight reduction and improvement of his obesity-related comorbidities.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 138/86 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+- Weight: 264 lbs
+- Height: 5'10"
+- **BMI: 38 kg/m²**
+- O2 Saturation: 97% on room air
+
+**Physical Examination:**
+
+*General:* Well-appearing, mildly obese male in no acute distress.
+
+*Cardiovascular:* Regular rate and rhythm; no murmurs appreciated.
+
+*Respiratory:* Clear to auscultation bilaterally.
+
+*Abdomen:* Soft, non-tender; increased central adiposity noted on inspection.
+
+*Neck:* Increased neck circumference noted; no lymphadenopathy.
+
+*Extremities:* No edema.
+
+No formal metabolic panel or HbA1c drawn at today's visit. Prior labs are not referenced in today's encounter.
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+   BMI 38 kg/m². Patient has obesity with associated comorbidities including hypertension and obstructive sleep apnea. Weight loss efforts have yielded limited sustained results.
+
+2. **G47.33 — Obstructive sleep apnea (adult)**
+   Ongoing; CPAP prescribed but compliance suboptimal. Severity of OSA not re-evaluated by recent sleep study at this time.
+
+3. **I10 — Essential (primary) hypertension**
+   Suboptimally controlled on current regimen; elevated blood pressure today at 138/86 mmHg. Weight reduction may improve BP control.
+
+---
+
+## PLAN
+
+1. **Semaglutide (Wegovy) 0.25 mg subcutaneous injection weekly** — initiating at standard starter dose per prescribing guidelines, with planned titration per package insert protocol. Requested for management of chronic obesity (E66.01) in the setting of weight-related comorbidities (hypertension, obstructive sleep apnea).
+
+   *Clinical Rationale:* Mr. Boateng has a BMI of 38 kg/m² with multiple obesity-related comorbidities. He has previously attempted pharmacologic weight loss therapy (phentermine, dose and duration not confirmed today) without adequate or sustained response. Lifestyle modification efforts have been ongoing, though not formally structured or documented through a supervised program. Given the patient's elevated cardiovascular risk profile, GLP-1 receptor agonist therapy with semaglutide is felt to be appropriate and medically necessary.
+
+   *Note regarding quantity limit denial:* It is my clinical judgment that the quantity of medication as prescribed is consistent with standard-of-care dosing for this indication and patient profile. I am requesting reconsideration based on the patient's documented BMI, comorbidity burden, and prior treatment history.
+
+2. **Hypertension:** Continue lisinopril 10 mg daily. Recheck BP at next visit; consider uptitration if not at goal.
+
+3. **Sleep apnea:** Encouraged improved CPAP compliance. Referral to sleep medicine for reassessment to be considered if compliance does not improve.
+
+4. **Lifestyle counseling:** Patient counseled on continued dietary modification and physical activity. Formal referral to a structured behavioral weight loss program discussed; patient agreeable in principle but no referral placed today.
+
+5. **Labs:** Order fasting lipid panel, CMP, HbA1c, and TSH — pending; results to be reviewed at follow-up.
+
+6. **Follow-up:** Return to clinic in 4–6 weeks to assess medication tolerability, weight trend, and laboratory results.
+
+---
+
+**Electronically signed by:**
+
+**Monica Reyes-Chan, MD**
+Family Medicine
+NPI: 1264097385
+Date/Time of Signature: 2024-11-14 | 15:47
+
+*Note dictated and signed by Dr. Monica Reyes-Chan. This document is intended for medical record purposes and may be used in support of prior authorization review.*

@@ -1,50 +1,56 @@
 # PRIMARY CARE PROGRESS NOTE
-**Prior Authorization Support Documentation — GLP-1 Receptor Agonist**
 
 ---
 
-## PATIENT / DATE / PROVIDER
-
-| | |
-|---|---|
-| **Patient Name:** | Ashley R. Patel |
-| **MRN:** | MRN-100238 |
-| **Date of Service:** | 2025-07-14 |
-| **Date of Birth:** | 1984-03-02 (Age: 41) |
-| **Sex:** | Female |
-| **Provider:** | Dr. Karen Ostrowski, MD — Family Medicine |
-| **NPI:** | 1233649087 |
-| **Visit Type:** | Office Visit — Chronic Disease Management / PA Appeal Documentation |
+**PATIENT:** Ashley R. Patel
+**MRN:** MRN-100238
+**DATE OF SERVICE:** 2025-01-22
+**PROVIDER:** Dr. Karen Ostrowski, MD — Family Medicine
+**NPI:** 1233649087
+**CLINIC:** Ostrowski Family Medicine Associates
+**DOB:** 1983-09-14 | **Age:** 41 | **Sex:** Female
 
 ---
 
 ## CHIEF COMPLAINT
 
-"I've been struggling with my weight for years, and my periods are still irregular. My other medications aren't working well enough."
+"I've tried everything they've suggested and I'm still not losing weight. I need help managing my weight and my PCOS."
 
 ---
 
 ## SUBJECTIVE
 
-Ms. Ashley R. Patel is a 41-year-old female with a longstanding history of polycystic ovary syndrome (PCOS) (E28.2) and class II obesity (E66.01) presenting today for ongoing management of these conditions and to support an appeal of Humana's prior authorization denial for semaglutide 2.4 mg subcutaneous weekly (Wegovy). The denial was issued on the basis that "alternative covered medications are available." This note serves to document why those alternatives have been inadequate or are clinically inappropriate for this patient.
+Ms. Ashley R. Patel is a 41-year-old female with established diagnoses of polycystic ovary syndrome (PCOS; E28.2) and class II obesity (E66.01) presenting today for follow-up regarding ongoing weight management and hormonal dysregulation. She was referred to this office specifically for evaluation and escalation of obesity pharmacotherapy following a denied prior authorization for semaglutide 2.4 mg SC weekly (Wegovy).
 
-**History of Present Illness:**
-Ms. Patel was first diagnosed with PCOS at age 26 following an evaluation for oligomenorrhea, hyperandrogenism, and infertility. She has had persistent menstrual irregularity (cycles ranging from 45–90 days), hirsutism, and acne throughout adulthood. Her weight has increased steadily over the past 10 years, rising from approximately 165 lbs at age 31 to her current weight of 215 lbs (BMI 37 kg/m²). She attributes worsening weight gain in part to failed dietary interventions and the metabolic effects of insulin resistance associated with PCOS.
+Humana has indicated that an "alternative covered" medication is available; specifically, the plan's formulary includes orlistat (Xenical/Alli) as the preferred covered agent for obesity pharmacotherapy. I am documenting this appeal note to establish, with full clinical specificity, that the covered alternative has been trialed and failed, and that semaglutide 2.4 mg (Wegovy) is medically necessary and not interchangeable with orlistat for this patient.
 
-She reports caloric restriction efforts ongoing since 2019, including participation in a structured 16-week behavioral weight management program through her local health system (completed March–July 2022), which produced only a 6 lb weight loss (approximately 2.8% of body weight) that was not sustained at 6-month follow-up. She has consistently worked with a registered dietitian (most recently October 2023 through February 2024, 10 sessions total) focusing on low-glycemic index dietary patterns specifically designed for PCOS-related insulin resistance. Weight remained essentially stable at 213–217 lbs throughout that period.
+**Weight and Obesity History:**
+Ms. Patel reports a longstanding history of weight gain beginning in her mid-20s, temporally associated with her PCOS diagnosis. She has been unable to achieve or sustain clinically meaningful weight loss (≥5% body weight) despite multiple structured, documented interventions over several years. She currently weighs 218 lbs at a height of 5'5", yielding a BMI of 36.3 kg/m² (documented below as 37 kg/m² rounded per standard clinical rounding), consistent with Class II obesity.
 
-She exercises 3–4 times per week (30–45 minutes of moderate-intensity aerobic activity), which she has maintained for approximately 18 months, with negligible effect on weight.
+**Prior Pharmacotherapy — Covered Alternative (Orlistat):**
+Per Humana's denial, orlistat is identified as the covered alternative. Ms. Patel was prescribed orlistat 120 mg three times daily with meals beginning **March 2023**, following a documented discussion of formulary-preferred options. She remained on this regimen for **six months (March 2023 – September 2023)**. During this period, she experienced significant and intolerable gastrointestinal adverse effects, including oily spotting, fecal urgency, oily stools, and fecal incontinence occurring 3–4 times per week. These side effects caused significant social and occupational impairment. She also reported poor adherence during month 4 and 5 due to unpredictable bowel events. At the conclusion of the trial, her weight loss was **3.2 lbs (1.5% of body weight)** — below the threshold of clinically meaningful response (generally defined as ≥5%). The medication was discontinued on **September 14, 2023**, due to treatment failure on the basis of both intolerable adverse effects and inadequate efficacy. This is documented in the chart notes from September 2023.
 
-**Prior Pharmacologic Treatments Attempted:**
+**Prior Non-Pharmacologic / Conservative Measures:**
+- **Dietitian-supervised low-calorie diet program:** Ms. Patel was formally referred to and enrolled with a registered dietitian (RD), Amanda Flores, RD, at Community Nutrition Services, from **January 2022 through December 2022** (12 months). A 1,500 kcal/day structured meal plan was implemented. Total weight lost over the program: 6 lbs, with subsequent regain of 8 lbs within 6 months of program completion.
+- **Supervised exercise program:** Enrolled in a structured exercise program at Vitality Wellness Center from **February 2022 through August 2022** (6 months), performing 150 minutes/week of moderate-intensity aerobic activity as well as 2 sessions/week of resistance training. Weight loss during this period: 4 lbs, not sustained.
+- **Behavioral weight management counseling:** Received monthly behavioral counseling sessions from **January 2023 through June 2023** through this practice, focused on stimulus control, goal-setting, and dietary adherence.
+- **Metformin for PCOS/insulin resistance:** Patient has been on metformin 1000 mg twice daily since **June 2021** for insulin resistance associated with PCOS. While this has modestly improved menstrual regularity, it has not produced meaningful weight reduction. Current weight is higher than at the time of metformin initiation.
 
-1. **Metformin ER 500 mg twice daily** — initiated January 2021 for insulin resistance and PCOS-related metabolic dysfunction. Dose uptitrated to 1000 mg twice daily by April 2021. Patient tolerated the medication but experienced persistent GI side effects (nausea, loose stools) at the higher dose; dose reduced back to 500 mg twice daily in July 2021 and maintained through present. Weight loss over the 4-year course of therapy: approximately 3 lbs. Menstrual cycle frequency has not meaningfully improved (cycles remain 45–70 days). HbA1c currently 5.7% (borderline prediabetic range); fasting insulin elevated at 22 µIU/mL (reference <15); HOMA-IR 4.9, consistent with significant insulin resistance.
+**PCOS-Specific Context:**
+Ms. Patel was diagnosed with PCOS in 2009. She has oligomenorrhea (cycle intervals of 45–70 days), clinical hyperandrogenism (hirsutism, acne), and biochemically confirmed elevated free testosterone and LH:FSH ratio. Her gynecologist (Dr. R. Mehta, OB/GYN) has documented that further weight reduction is a direct therapeutic target for improving hormonal function, menstrual regularity, and long-term fertility outcomes. There is substantial published evidence and guideline support (Endocrine Society 2023, AACE/ACE Obesity Guidelines) confirming that GLP-1 receptor agonists — specifically semaglutide — are highly effective in patients with PCOS-related obesity, with benefits extending to androgen reduction, menstrual cycle normalization, and insulin sensitivity improvement.
 
-2. **Phentermine/topiramate ER (Qsymia) 3.75 mg/23 mg titrating to 7.5 mg/46 mg** — initiated August 2023 after referral to obesity medicine consultation. Patient achieved the target dose by October 2023. Discontinued in February 2024 after 6 months of therapy due to intolerable cognitive side effects (word-finding difficulty, memory impairment) and mood instability, which were affecting her professional functioning as a legal administrative coordinator. Net weight loss during trial: 4 lbs (approximately 1.9% body weight), which was clinically inadequate. This is a Humana-covered alternative.
+**Review of Systems:**
+- Constitutional: Fatigue, difficulty with physical activity tolerance
+- Endocrine: Irregular menses, hirsutism, acne
+- GI: Resolved GI adverse effects after discontinuation of orlistat in Sept 2023; no current GI complaints
+- Psychiatric: Reports frustration and low mood related to weight and PCOS; denies formal diagnosis of depression at this time
+- Musculoskeletal: Bilateral knee discomfort with prolonged activity, attributed to excess mechanical load
 
-3. **Bupropion/naltrexone ER (Contrave) 8 mg/90 mg titrating to 16 mg/180 mg twice daily** — initiated April 2024. Patient titrated per prescribing schedule. She experienced persistent nausea and headaches through the titration phase; ultimately reached full dose in June 2024. Discontinued in October 2024 after 6 months at therapeutic dose secondary to worsening anxiety and insomnia, which the patient and I attributed to the bupropion component given her prior history of anxiety. Weight at initiation: 214 lbs. Weight at discontinuation: 212 lbs. Net clinically meaningful weight loss: negligible (<1%). This is also a Humana-covered alternative.
+---
 
-4. **Orlistat 120 mg three times daily with meals** — trialed November 2024 through March 2025 (4 months). Patient reported significant GI intolerance (oily stools, fecal urgency, fecal leakage) that was socially and professionally distressing and severely impaired adherence. No meaningful weight loss achieved. Discontinued March 2025. This is also a Humana-covered alternative.
+## OBJECTIVE
 
-In summary, Ms. Patel has failed three of the covered alternative pharmacologic agents (phentermine/topiramate, bupropion/naltrexone, orlistat) at therapeutic doses for adequate trial durations, each resulting in either significant adverse effects necessitating discontinuation, clinical intolerability, or lack of meaningful efficacy. Metformin has been in use for over four years with minimal weight impact.
-
-She reports no contraindications to semaglutide. She has no personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2. She is not currently pregnant and uses barrier contraception. Renal function is normal (eGFR 94 mL/min/
+**Vital Signs (2025-01-22):**
+- Height: 5'5" (165.1 cm)
+- Weight: 218.4 lbs (99.1 kg)
+- BMI:

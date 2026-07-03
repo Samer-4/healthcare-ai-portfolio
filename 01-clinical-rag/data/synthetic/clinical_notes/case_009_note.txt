@@ -1,84 +1,86 @@
 # PRIMARY CARE PROGRESS NOTE
-**Prior Authorization Support Documentation — GLP-1 Receptor Agonist**
 
 ---
 
-## PATIENT / DATE / PROVIDER
-
-| | |
-|---|---|
-| **Patient Name:** | Thomas B. Jackson |
-| **MRN:** | MRN-100242 |
-| **Date of Birth:** | (Age: 61) |
-| **Sex:** | Male |
-| **Date of Visit:** | January 15, 2025 |
-| **Attending Physician:** | Dr. Gregory Alston, MD — Internal Medicine |
-| **NPI:** | 1361780924 |
-| **Visit Type:** | Office Visit / Prior Authorization Support |
+**PATIENT:** Thomas B. Jackson
+**MRN:** MRN-100242
+**DATE OF VISIT:** 2024-10-14
+**PROVIDER:** Dr. Gregory Alston, MD — Internal Medicine
+**NPI:** 1361780924
 
 ---
 
 ## CHIEF COMPLAINT
 
-"My weight is making my knee pain unbearable, and I can't exercise like I used to. I need help losing weight."
+"My weight has been a problem for a while and my knees are getting worse. I want to discuss options for losing weight."
 
 ---
 
 ## SUBJECTIVE
 
-Mr. Thomas B. Jackson is a 61-year-old male presenting today for follow-up regarding medically complicated obesity (E66.09) and right knee primary osteoarthritis (M17.11). He has had a longstanding struggle with excess weight, which has progressively worsened over the past several years and is now directly exacerbating his osteoarthritic disease burden. The patient reports worsening bilateral knee pain — right greater than left — with associated limitations in ambulation, stair-climbing, and any sustained physical activity. He notes that his orthopedic surgeon has deferred surgical intervention and recommended weight reduction as a prerequisite to improving candidacy for any future knee arthroplasty evaluation.
+Thomas B. Jackson is a 61-year-old male presenting today for follow-up regarding obesity and bilateral knee pain in the setting of known osteoarthritis. Patient reports progressive difficulty with ambulation and activity tolerance, which he attributes largely to knee pain. He states that his weight has been steadily increasing over the past several years and that he has made efforts to diet in the past, though he acknowledges these have not been sustained. He reports he was previously tried on orlistat at some point in the past, though he could not recall the specific dose or how long he remained on the medication. He states he stopped due to gastrointestinal intolerance.
 
-**History of Obesity and Prior Weight Loss Attempts:**
-
-Mr. Jackson has made multiple structured and documented attempts at weight loss over the preceding 24–36 months, none of which have produced durable results:
-
-- **Structured Dietary Intervention (February 2023 – August 2023):** Patient enrolled in a medically supervised low-calorie diet program through this practice, targeting 1,400–1,600 kcal/day with macronutrient guidance from a registered dietitian. He was seen monthly for six months. He lost approximately 8 lbs initially but regained this weight within three months of program completion. Net sustained weight loss: 0 lbs at 12-month follow-up.
-
-- **Increased Physical Activity Program (March 2023 – ongoing, limited):** Patient was referred to a physical therapy–guided low-impact exercise program (aquatic therapy and stationary cycling) designed to accommodate his osteoarthritic knees. He complied with the program for approximately four months but was unable to sustain activity levels due to progressive worsening of right knee pain with weight-bearing. Meaningful aerobic exercise is now functionally limited by pain and mechanical joint loading.
-
-- **Behavioral/Lifestyle Counseling (ongoing since January 2023):** Patient has been engaged in behavioral weight management counseling, addressed at each office visit, including motivational interviewing, sleep hygiene, and stress-related eating patterns. Despite consistent engagement, weight has remained essentially unchanged over the past 18 months, fluctuating between 215 and 225 lbs.
-
-- **Orlistat (Alli/Xenical) 60 mg orally three times daily with meals (October 2023 – February 2024, approximately 4 months):** Trialed as pharmacologic adjunct to dietary therapy. Patient reported significant gastrointestinal side effects including oily spotting, fecal urgency, and loose stools, which were socially disabling and impacted occupational functioning. No meaningful weight loss was achieved (< 2 lbs). Medication was discontinued in February 2024 due to intolerance and lack of efficacy.
-
-Despite maximal conventional efforts including dietary modification, structured exercise (limited by OA), behavioral counseling, and pharmacotherapy with orlistat, the patient has been unable to achieve or sustain clinically meaningful weight loss. His obesity continues to directly aggravate mechanical joint loading across his knees, accelerating articular cartilage degeneration and increasing his surgical risk profile.
-
-Mr. Jackson denies current use of tobacco. He consumes alcohol socially (< 4 drinks/week). He has no personal history of pancreatitis, medullary thyroid carcinoma, or MEN-2 syndrome. No personal or family history of thyroid malignancy.
+Patient endorses fatigue with exertion and notes that his knee pain limits the amount of physical activity he is able to perform on a daily basis. He states he has attempted to incorporate some dietary changes, including reducing portion sizes and trying to eat healthier, but is unable to provide specific details regarding a formal structured program or supervised dietary intervention. He denies chest pain, dyspnea at rest, or lower extremity edema. He has no known history of type 2 diabetes or cardiovascular disease. No current tobacco or alcohol use.
 
 ---
 
 ## OBJECTIVE
 
-**Vitals (January 15, 2025):**
+**Vitals:**
+- Blood Pressure: 134/82 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.4°F
+- Respiratory Rate: 16 breaths/min
+- Weight: 218 lbs
+- Height: 5'9"
+- BMI: 33 kg/m²
+- SpO₂: 97% on room air
 
-| Parameter | Value |
-|---|---|
-| Weight | 221 lbs (100.2 kg) |
-| Height | 5'9" (175.3 cm) |
-| BMI | 33 kg/m² |
-| Blood Pressure | 138/84 mmHg |
-| Heart Rate | 78 bpm, regular |
-| Respiratory Rate | 16 breaths/min |
-| Temperature | 98.4°F (36.9°C) |
-| SpO₂ | 97% on room air |
+**Physical Examination:**
 
-**General:** Alert, well-appearing male in no acute distress. Cooperative and engaged in discussion regarding weight management goals.
+*General:* Well-appearing male, in no acute distress, alert and oriented x3.
 
-**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops.
+*Cardiovascular:* Regular rate and rhythm, no murmurs, rubs, or gallops appreciated.
 
-**Pulmonary:** Clear to auscultation bilaterally.
+*Respiratory:* Clear to auscultation bilaterally, no wheezes or rhonchi.
 
-**Abdomen:** Soft, non-tender, obese habitus. No hepatosplenomegaly appreciated.
+*Musculoskeletal:* Tenderness to palpation noted over the medial joint line of the bilateral knees. Mild crepitus on passive range of motion bilaterally. Gait is antalgic. No acute swelling or erythema noted on today's exam.
 
-**Musculoskeletal:** Antalgic gait noted on right side. Right knee with mild effusion, medial joint line tenderness to palpation, crepitus with range of motion. Flexion limited to approximately 110 degrees right knee secondary to pain and effusion. Left knee with trace crepitus, no effusion. BMI of 33 kg/m² contributes approximately 6x increased mechanical force across medial knee compartment with ambulation (per established biomechanical data).
+*Abdomen:* Soft, non-tender, non-distended. No organomegaly appreciated.
 
-**Neurological:** No focal deficits. Sensation intact bilateral lower extremities.
+*Extremities:* No clubbing or cyanosis. Trace bilateral lower extremity edema, 1+.
 
-**Recent Laboratory Results (December 28, 2024):**
+---
 
-| Test | Result | Reference |
-|---|---|---|
-| HbA1c | 5.7% | < 5.7% |
-| Fasting Glucose | 108 mg/dL | 70–99 mg/dL |
-| Total Cholesterol | 214 mg/dL | < 200 mg/dL |
-| LDL | 138 mg/dL | < 130 mg/dL |
-| HDL
+## ASSESSMENT
+
+1. **E66.09 — Other obesity, unspecified** — Patient presents with BMI of 33 kg/m², consistent with Class I obesity. Weight management remains challenging in the context of activity limitation from osteoarthritis. Prior pharmacologic attempt with orlistat was not tolerated. Patient reports lifestyle modification efforts without a formally documented structured program.
+
+2. **M17.11 — Primary osteoarthritis, right knee** — Bilateral knee pain is functionally limiting and is directly impacted by excess body weight. Weight reduction is a clinically recognized strategy to reduce mechanical load on weight-bearing joints and may improve pain outcomes. No formal orthopedic referral at this time.
+
+---
+
+## PLAN
+
+1. **Liraglutide (Saxenda) 0.6 mg subcutaneous injection daily, with planned dose escalation per standard titration protocol to a target of 3.0 mg/day**, is being requested for chronic weight management in this patient with Class I obesity (BMI 33 kg/m²) and at least one weight-related comorbidity (osteoarthritis, M17.11).
+
+2. **Clinical rationale:** Mr. Jackson's obesity is contributing to mechanical loading of his knee joints, exacerbating his osteoarthritis symptomatology and limiting his capacity for physical activity. Pharmacologic intervention with a GLP-1 receptor agonist is being pursued as prior pharmacologic therapy (orlistat) was not tolerated secondary to GI side effects. The patient has also attempted lifestyle modifications, though a formal documented program has not been completed.
+
+3. **Prior therapy:** Orlistat — exact dose and duration not confirmed on today's visit; patient reports discontinuation due to GI adverse effects.
+
+4. Patient to follow up in 4–6 weeks after initiation of liraglutide for weight and tolerability assessment.
+
+5. Continue encouragement of dietary modifications. Referral to a registered dietitian discussed but deferred at this time per patient preference.
+
+6. Continue current analgesic regimen for knee pain management; consider orthopedic or physical therapy referral at subsequent visit if weight management progress is achieved.
+
+---
+
+## SIGNATURE
+
+**Gregory Alston, MD**
+Internal Medicine
+NPI: 1361780924
+Date Signed: 2024-10-14
+
+*Note electronically signed and attested by Dr. Gregory Alston, MD. This note reflects the clinical encounter of 2024-10-14 for patient Thomas B. Jackson, MRN-100242.*

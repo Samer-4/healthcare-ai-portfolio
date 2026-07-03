@@ -1,73 +1,81 @@
 ---
 
 # BLUECROSS BLUESHIELD
-**Utilization Management Division**
-225 North Michigan Avenue
-Chicago, IL 60601
-Phone: 1-800-892-2803 | Fax: 1-800-892-2804
-www.bcbs.com
+**BlueCross BlueShield of Illinois**
+300 East Randolph Street | Chicago, IL 60601
+Member Services: 1-800-892-2803 | Provider Services: 1-800-972-8088
+Fax: 1-888-212-2760
+www.bcbsil.com
 
 ---
 
-**DATE:** June 13, 2025
+**NOTICE OF ADVERSE BENEFIT DETERMINATION — PRIOR AUTHORIZATION DENIAL**
 
-**REFERENCE NUMBER:** UM-2025-PA-884471
-
-**NOTICE OF ADVERSE BENEFIT DETERMINATION**
-
----
-
-**TO:**
-Dr. Lauren Mackey, MD
-Sleep Medicine
-NPI: 1408857261
-
-**RE:**
-**Patient Name:** David K. Nguyen
-**Member ID / MRN:** MRN-100237
-**Date of Birth:** On File
-**Plan Name:** BlueCross BlueShield — PPO Standard Benefit Plan
-**Service Type:** Pharmacy — Prior Authorization Request
+**Date:** June 16, 2025
+**Reference / Authorization Number:** PA-2025-06-1100237-DEN
+**Plan Name:** BlueCross BlueShield of Illinois — Individual & Family PPO
+**Utilization Management Department**
 
 ---
 
-## ADVERSE BENEFIT DETERMINATION: DENIAL
+**MEMBER INFORMATION**
 
-Dear Dr. Mackey,
-
-BlueCross BlueShield has completed its review of the prior authorization request submitted on behalf of your patient, **David K. Nguyen (MRN-100237)**, for the following medication:
-
-| Field | Detail |
+| | |
 |---|---|
-| **Drug Requested** | Liraglutide 3.0 mg/mL subcutaneous injection (Saxenda®) |
-| **Requested Quantity** | 3 mg daily (titration per standard protocol) |
-| **Requesting Specialty** | Sleep Medicine |
-| **Diagnosis Codes Submitted** | E66.09 (Other obesity due to excess calories); G47.33 (Obstructive sleep apnea) |
-| **Authorization Period Requested** | 12 months |
-
-After careful review of the submitted clinical documentation and applicable plan policies, BlueCross BlueShield has determined that this request **does not meet criteria for coverage** and is therefore **DENIED** on the basis of **off-label prescribing outside the authorized scope of the requesting provider's specialty and outside applicable clinical coverage criteria**, as further described below.
+| **Member Name:** | David K. Nguyen |
+| **Member ID / MRN:** | MRN-100237 |
+| **Date of Birth:** | [Date of Birth on File] |
+| **Group Number:** | [Group Number on File] |
 
 ---
 
-## BASIS FOR DENIAL
+**REQUESTING PROVIDER INFORMATION**
 
-### 1. Policy Citation
-
-This determination is made pursuant to **BlueCross BlueShield Clinical Policy Bulletin No. 0580 — GLP-1 Receptor Agonists and Obesity Pharmacotherapy**, effective January 1, 2025, as well as the member's applicable **Pharmacy Benefit Management Coverage Guidelines, Section 4.7: Anti-Obesity Agents**. All criteria cited herein are consistent with the member's current Certificate of Coverage and Summary Plan Description.
+| | |
+|---|---|
+| **Prescribing Physician:** | Dr. Lauren Mackey, MD |
+| **Specialty:** | Sleep Medicine |
+| **NPI:** | 1408857261 |
+| **Requested Service:** | Liraglutide 3 mg (Saxenda) — Injectable Solution |
+| **Requested Indication:** | Obesity / Weight Management in context of Obstructive Sleep Apnea |
+| **Date of Request:** | June 10, 2025 |
 
 ---
 
-### 2. Clinical Rationale
+## DETERMINATION: **DENIED — NOT MEDICALLY NECESSARY AS SUBMITTED / OFF-LABEL PRESCRIBING BY NON-QUALIFYING SPECIALTY**
 
-BlueCross BlueShield's review of the submitted clinical documentation reveals the following:
+Dear Dr. Mackey and David K. Nguyen,
 
-**(a) Prescriber Specialty — Outside Authorized Scope of Practice for This Indication**
+BlueCross BlueShield of Illinois (hereinafter "BCBSIL") has completed its clinical review of the above-referenced prior authorization request for **liraglutide 3 mg/0.5 mL subcutaneous injection (Saxenda®)**, submitted on behalf of member **David K. Nguyen (MRN-100237)**. After careful review of the submitted clinical documentation and applicable coverage criteria, BCBSIL has determined that this request does **not meet criteria for coverage** at this time.
 
-Saxenda® (liraglutide 3.0 mg/mL) is FDA-approved as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management. Per **Clinical Policy Bulletin 0580, Section III.B.2**, prior authorization requests for anti-obesity agents, including GLP-1 receptor agonists indicated for chronic weight management, must be initiated by or in active consultation with a provider in one of the following specialties: **Endocrinology, Internal Medicine, Family Medicine, Gastroenterology, or a board-certified Obesity Medicine specialist**. The requesting provider, **Dr. Lauren Mackey, MD**, is credentialed within this plan in the specialty of **Sleep Medicine**. The submitted documentation does not reflect a co-managing provider from a qualifying specialty, nor does it include documentation that Dr. Mackey holds Obesity Medicine board certification (ABOM or ASBP). Accordingly, the prescribing arrangement does not satisfy the specialty requirement established under applicable policy.
+**This is a denial.**
 
-**(b) Failure to Meet Body Mass Index and Comorbidity Threshold Documentation Requirements**
+---
 
-Per **Clinical Policy Bulletin 0580, Section III.A**, coverage of Saxenda® requires the member to meet **at least one** of the following criteria:
+### I. BASIS FOR DENIAL
 
-- BMI ≥ 30 kg/m² with documentation of failure of a structured, medically supervised weight loss program of a minimum **six (6) months** duration; **OR**
-- BMI ≥ 27 kg/m² in the presence of at least one weight-
+**Primary Denial Reason:** Off-Label / Non-Covered Use as Prescribed; Prescribing Outside of Recognized Qualifying Specialty; Failure to Meet Clinical Coverage Criteria
+
+**Applicable Clinical Policy Bulletin:** Clinical Policy Bulletin No. **0580** — *Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists and Dual GLP-1/GIP Receptor Agonists for Weight Management and Type 2 Diabetes Mellitus* (Revised effective January 1, 2025)
+
+**Applicable Plan Documents:**
+- BCBSIL Medical Policy Reference Manual, Section 5.01.580
+- Pharmacy Benefits Management Drug Coverage Policy, Schedule D, Tier Exception Guidelines
+
+---
+
+### II. CLINICAL RATIONALE
+
+BCBSIL's Utilization Management clinical staff, under the direction of a physician reviewer board-certified in Internal Medicine, has reviewed the documentation submitted in support of this request, including:
+
+- Prior authorization request form dated June 10, 2025
+- Clinical notes from the prescribing provider, Dr. Lauren Mackey, MD (Sleep Medicine)
+- Reported patient demographics and clinical parameters: male, age 60, BMI 30 kg/m², diagnosis of obstructive sleep apnea (OSA), obesity
+
+**The request is denied for the following specific reasons:**
+
+**1. BMI Does Not Meet Minimum Threshold Required Under Clinical Policy Bulletin 0580**
+
+Per BCBSIL Clinical Policy Bulletin 0580, coverage of liraglutide 3 mg (Saxenda) for chronic weight management requires the member to meet **at least one** of the following body mass index (BMI) criteria at the time of the request:
+
+- BMI **≥ 30 kg/m²** with **no** weight-related comorbidities; *or*

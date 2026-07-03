@@ -5,6 +5,7 @@
   "payer": "Cigna",
   "drug": "tirzepatide (Zepbound)",
   "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "strong_appeal",
   "filename": "case_006_note.txt",
   "note_type": "specialist_consult",
   "denial_file": "case_006_denial.txt",

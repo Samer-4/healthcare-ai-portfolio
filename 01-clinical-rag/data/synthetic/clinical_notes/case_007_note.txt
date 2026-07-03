@@ -1,80 +1,89 @@
 # PRIMARY CARE PROGRESS NOTE
-**Confidential Medical Record — For Authorization Purposes**
 
 ---
 
-## PATIENT / DATE / PROVIDER
-
-| | |
-|---|---|
-| **Patient Name:** | James T. Morrison |
-| **MRN:** | MRN-100240 |
-| **Date of Birth:** | (Age: 55, Male) |
-| **Date of Visit:** | June 16, 2025 |
-| **Visit Type:** | Office Visit — Weight Management / Prior Authorization Support |
-| **Attending Physician:** | Dr. Elaine Wu, MD (Internal Medicine) |
-| **NPI:** | 1609274135 |
-| **Facility:** | Internal Medicine Clinic |
+**PATIENT:** James T. Morrison
+**MRN:** MRN-100240
+**Date of Service:** 2025-07-14
+**Provider:** Dr. Elaine Wu, MD — Internal Medicine
+**NPI:** 1609274135
+**Visit Type:** Established Patient — Follow-Up / Medication Management
 
 ---
 
 ## CHIEF COMPLAINT
 
-"I have been struggling to lose weight for years. My doctor wants to try a medication that can help, but my insurance denied it."
+"I've been struggling to lose weight and my doctor mentioned there's a new injection that could help."
 
 ---
 
 ## SUBJECTIVE
 
-Mr. James T. Morrison is a 55-year-old male with a longstanding history of obesity (BMI 31 kg/m²; ICD-10: E66.09, Z68.31) who presents today for a focused visit in support of a prior authorization appeal for semaglutide 2.4 mg subcutaneous weekly (Wegovy) following denial by BlueCross BlueShield on the basis of "not medically necessary."
+Mr. Morrison is a 55-year-old male presenting today to discuss weight management options, specifically requesting initiation of semaglutide (Wegovy) for obesity. He reports gradually gaining weight over the past several years, which he attributes to a sedentary desk job and dietary habits. He endorses intermittent fatigue and mild exertional dyspnea with stair climbing, which he attributes to deconditioning. He denies chest pain, orthopnea, PND, lower extremity edema, or syncope.
 
-**History of Present Illness:**
-Mr. Morrison has struggled with excess weight for more than 10 years. Despite sustained, documented efforts through dietary modification, behavioral intervention, and structured exercise programming, he has been unable to achieve clinically meaningful or durable weight reduction. His current BMI of 31 kg/m² places him in the Class I obesity range (ICD-10: E66.09), which, in the context of his age, sex, metabolic risk profile, and failed conservative measures, represents a clinically significant condition warranting pharmacologic intervention.
+He reports that he has been "watching what he eats" in general terms but acknowledges he has not formally enrolled in or completed any structured, provider-supervised behavioral weight loss program. He has not worked with a registered dietitian. He has not attempted any pharmacologic weight loss therapy in the past. He has no documented history of failed trials of orlistat, phentermine/topiramate, naltrexone/bupropion, or any other FDA-approved weight loss medication. He reports attempting caloric restriction on his own approximately six months ago "for a few weeks" but did not sustain the effort and did not track or document his progress with a provider.
 
-He reports persistent fatigue, reduced exercise tolerance, and difficulty with activities of daily living he attributes to his weight. He denies current tobacco or alcohol use. He is compliant with follow-up appointments and has demonstrated engagement with the weight loss process.
+He denies a personal history of type 2 diabetes mellitus, pre-diabetes, cardiovascular disease, obstructive sleep apnea, hypertension requiring medication, hyperlipidemia, or any obesity-related end-organ complications formally diagnosed in the chart. He has no prior bariatric surgery. He has no known drug allergies. He does not smoke and drinks alcohol socially (approximately 2–3 drinks per week). He is not physically active in a structured program.
 
-**Prior Treatment Attempts (Conservative and Pharmacologic):**
+Family history is notable for type 2 diabetes in his father.
 
-1. **Structured Low-Calorie Diet (Caloric Restriction Program):**
-   - Duration: Approximately 18 months (January 2022 – June 2023)
-   - Description: Patient enrolled in a supervised reduced-calorie diet targeting a deficit of 500–750 kcal/day with dietary counseling provided by a registered dietitian (RD) on a bimonthly basis.
-   - Outcome: Initial weight loss of approximately 6 lbs over 4 months, followed by weight plateau and subsequent regain. Net weight loss at program conclusion: approximately 2 lbs. Patient was fully adherent per dietitian documentation.
-
-2. **Structured Exercise Program:**
-   - Duration: Ongoing since February 2022 (more than 3 years)
-   - Description: Patient engaged in supervised aerobic and resistance training program, 3–4 sessions per week, 45–60 minutes per session, with documented participation in a medically-affiliated fitness program. Exercise logs reviewed in office.
-   - Outcome: Improved cardiovascular fitness reported, but no sustained clinically meaningful weight reduction. Current weight has remained within ±3 lbs over the past 12 months despite continued exercise adherence.
-
-3. **Behavioral Weight Management / Lifestyle Counseling:**
-   - Duration: September 2022 – March 2024 (18 months)
-   - Description: Patient participated in individual behavioral counseling sessions addressing eating habits, emotional eating patterns, sleep hygiene, and stress management through a licensed behavioral health specialist affiliated with our clinic.
-   - Outcome: Patient demonstrated behavioral improvement (reduced late-night eating, improved sleep hygiene), but sustained weight loss was not achieved. Final documented weight at program conclusion was within 3 lbs of starting weight.
-
-4. **Pharmacologic Attempt — Orlistat (Xenical) 120 mg TID:**
-   - Duration: April 2023 – September 2023 (6 months)
-   - Indication: Obesity, BMI ≥30
-   - Outcome: Patient tolerated orlistat poorly. He developed significant gastrointestinal side effects including oily stool, fecal urgency, and fecal incontinence, which were disruptive to his occupational and social functioning. Weight loss achieved over 6 months was approximately 3 lbs, deemed clinically insignificant. Medication was discontinued at patient's request and with clinical concurrence due to intolerable side effects and lack of meaningful efficacy.
-
-5. **Phentermine/Topiramate (Qsymia) — Not Appropriate:**
-   - Patient was evaluated for phentermine/topiramate. This combination was not initiated due to resting heart rate concerns (baseline resting HR 84–88 bpm on multiple readings) and the known sympathomimetic cardiovascular effects of phentermine in a middle-aged male patient. Clinical risk-benefit assessment favored avoidance.
-
-6. **Naltrexone/Bupropion (Contrave) — Considered and Deferred:**
-   - Patient has a history of mood lability and was cautious about bupropion given prior sensitivity to serotonergic/noradrenergic agents. After discussion, patient and provider agreed the risk of mood destabilization with bupropion in this clinical context was not acceptable as a next-line step.
-
-Given the above documented failure of multiple conservative non-pharmacologic interventions over more than three years, as well as the trial and failure of first-line pharmacologic therapy (orlistat) due to intolerance, and the clinical contraindications or significant risk considerations precluding use of other available anti-obesity pharmacotherapies, semaglutide 2.4 mg SC weekly (Wegovy) is now indicated as the most appropriate next therapeutic step.
+Current medications: None (no prescription medications on active medication list at this time).
 
 ---
 
 ## OBJECTIVE
 
-**Vital Signs (Visit Date: June 16, 2025):**
+**Vitals:**
+- Blood Pressure: 124/78 mmHg
+- Heart Rate: 74 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- Oxygen Saturation: 98% on room air
+- Weight: 218 lbs (98.9 kg)
+- Height: 5'10" (177.8 cm)
+- **BMI: 31.3 kg/m²**
 
-| Parameter | Value |
-|---|---|
-| Blood Pressure | 134/84 mmHg |
-| Heart Rate | 86 bpm |
-| Respiratory Rate | 16 breaths/min |
-| Temperature | 98.4°F (oral) |
-| Oxygen Saturation | 98% on room air |
-| Height | 5'10" (177.8 cm) |
-| Weight | 215 lbs (97.
+**General:** Well-appearing male in no acute distress. Alert and oriented x3. Well-nourished.
+
+**HEENT:** Normocephalic, atraumatic. Oropharynx clear.
+
+**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops. No JVD. Peripheral pulses 2+ bilaterally.
+
+**Pulmonary:** Clear to auscultation bilaterally. No wheezes, rhonchi, or rales.
+
+**Abdomen:** Soft, non-tender, non-distended. Increased central adiposity noted. No hepatosplenomegaly appreciated. No masses.
+
+**Extremities:** No clubbing, cyanosis, or edema.
+
+**Skin:** No acanthosis nigricans noted. No striae.
+
+**Neurologic:** Grossly intact.
+
+**Recent Labs (on file, obtained 2025-06-20):**
+- Fasting glucose: 95 mg/dL (within normal limits)
+- HbA1c: 5.4% (within normal limits; no diagnosis of pre-diabetes or diabetes)
+- Fasting lipid panel: Total cholesterol 188 mg/dL, LDL 112 mg/dL, HDL 48 mg/dL, TG 134 mg/dL — borderline but no formal dyslipidemia diagnosis or statin initiated
+- BMP: Within normal limits
+- TSH: 2.1 mIU/L (normal)
+- eGFR: >60 mL/min/1.73m²
+
+---
+
+## ASSESSMENT
+
+1. **E66.09 — Other obesity, unspecified** — Patient meets BMI threshold for Class I obesity. BMI 31.3 kg/m². No obesity-related comorbidities (hypertension, T2DM, OSA, established ASCVD) formally diagnosed or documented in the chart at this time.
+
+2. **Z68.31 — Body mass index 31.0–31.9, adult** — BMI confirmed at 31.3 kg/m² on today's measurement.
+
+No current diagnosis of type 2 diabetes, pre-diabetes (HbA1c 5.4%), established cardiovascular disease, hypertension, or obstructive sleep apnea. Patient represents a low-to-moderate complexity obesity case without documented high-risk comorbidity burden at this time.
+
+---
+
+## PLAN
+
+**1. Semaglutide (Wegovy) — Requested**
+
+- **Requested Medication:** Semaglutide subcutaneous injection (Wegovy) 0.25 mg weekly x 4 weeks, titrating per prescribing schedule toward maintenance dose of 2.4 mg weekly, as per manufacturer protocol.
+- **Clinical Rationale:** Patient presents with BMI of 31.3 kg/m², meeting the FDA label indication threshold (BMI ≥30) for Wegovy in the absence of a weight-related comorbidity. Patient is motivated and expresses readiness for pharmacologic intervention.
+- **Prior Authorization Status:** Submitted to BlueCross BlueShield; **denied — not medically necessary** as of 2025-07-10.
+- **Step Therapy / Prior Pharmacologic Treatment:** *No prior pharmacologic weight management therapy is documented in this patient's chart.* Patient has not trialed orlistat, phentermine/topiramate ER (Qsymia), naltrexone/bupropion ER (Contrave), phentermine monotherapy, or any other covered or formulary weight loss agent. No documented

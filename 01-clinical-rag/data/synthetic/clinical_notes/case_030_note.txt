@@ -1,0 +1,106 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Tiffany S. Okonkwo
+**MRN:** MRN-100263
+**DATE OF SERVICE:** 2025-07-14
+**PROVIDER:** Dr. Adam Kowalczyk, MD — Family Medicine
+**NPI:** 1529476380
+**CLINIC:** Lakewood Family Medicine Associates
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been struggling with my weight for years and my doctor said I might need a stronger medication to help."
+
+---
+
+## SUBJECTIVE
+
+Ms. Okonkwo is a 31-year-old female with a history of obesity (BMI 37 kg/m²), polycystic ovarian syndrome (PCOS), and prediabetes who presents today for follow-up and discussion of advanced pharmacologic management of her weight and metabolic status. She reports longstanding difficulty with weight management despite her efforts and describes persistent fatigue, irregular menstrual cycles, and increased carbohydrate cravings, which she attributes to her PCOS. She denies polyuria or polydipsia at this time.
+
+She reports having tried metformin in the past, which was prescribed by a prior provider. She states she did not tolerate it particularly well and eventually discontinued it, though she has limited recall of the exact regimen details. She also notes she has made lifestyle modifications including dietary changes and increased physical activity, though specific structured program participation is not clearly documented in her chart. She has not been enrolled in a formal medically supervised weight loss program to our knowledge at this practice.
+
+She expresses significant distress related to her weight, noting that it affects her self-esteem, energy levels, and her ability to manage her PCOS symptoms. She is motivated to pursue additional pharmacologic support and has been researching GLP-1/GIP receptor agonist therapy. She has no known drug allergies. She denies personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 126/82 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+- Weight: 218 lbs
+- Height: 5'4"
+- BMI: **37.0 kg/m²**
+- SpO₂: 98% on room air
+
+**Physical Examination:**
+
+*General:* Alert, well-appearing female in no acute distress. Mildly overweight appearing on inspection.
+
+*Cardiovascular:* Regular rate and rhythm, no murmurs appreciated.
+
+*Abdomen:* Soft, non-tender, mild central adiposity noted on inspection. No hepatosplenomegaly appreciated.
+
+*Skin:* Mild acanthosis nigricans noted at the posterior neck. No hirsutism formally graded or scored today.
+
+*Musculoskeletal:* No edema of bilateral lower extremities.
+
+**Recent Laboratory Data (on file, drawn approximately 6 weeks prior):**
+- Fasting glucose: 108 mg/dL
+- HbA1c: 5.9%
+- Fasting insulin: mildly elevated (exact value not reviewed today)
+- Lipid panel: pending repeat
+- TSH: within normal limits
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+Patient presents with BMI of 37 kg/m², consistent with Class II obesity. Weight has been refractory to prior interventions. Clinical impact on PCOS and metabolic parameters is evident.
+
+2. **E28.2 — Polycystic ovarian syndrome**
+Patient with established diagnosis of PCOS, experiencing ongoing menstrual irregularity and hormonal symptomatology. Obesity is known to exacerbate insulin resistance and androgen excess in PCOS. Severity of current endocrinologic derangement not formally reassessed today with updated labs.
+
+3. **R73.03 — Prediabetes**
+Fasting glucose 108 mg/dL and HbA1c 5.9% consistent with prediabetes. No progression to overt type 2 diabetes at this time. Risk reduction through weight loss is clinically indicated.
+
+---
+
+## PLAN
+
+1. **Pharmacologic Weight Management — Tirzepatide (Zepbound) requested:**
+Will initiate tirzepatide (Zepbound) 2.5 mg subcutaneous injection weekly with planned uptitration per standard protocol, for the management of chronic weight management (BMI ≥ 30) in the context of obesity, PCOS, and prediabetes. Tirzepatide, as a dual GIP/GLP-1 receptor agonist, is felt to be appropriate given the metabolic complexity of this patient's presentation including insulin resistance pattern associated with her PCOS diagnosis. Prior pharmacologic efforts include metformin, which the patient reports having trialed previously and discontinued secondary to tolerability concerns; specific dosing and duration of that trial are not available in the current chart documentation and efforts to obtain outside records are ongoing.
+
+2. **Lifestyle Counseling:**
+Patient counseled today regarding dietary modifications including reduced refined carbohydrate intake consistent with a Mediterranean-style dietary pattern. Exercise recommendations reinforced — goal of at least 150 minutes of moderate-intensity aerobic activity weekly. No formal referral to a structured behavioral weight management program has been completed at this time; referral to be considered if insurance requires documentation of same.
+
+3. **Monitoring:**
+   - Repeat HbA1c and fasting lipids in 3 months
+   - Blood pressure monitoring at each visit
+   - Weight and BMI tracked at all visits
+   - Menstrual cycle diary encouraged to track PCOS response
+
+4. **PCOS Management:**
+   - Will defer to gynecology/endocrinology for hormonal therapy optimization pending referral.
+   - Weight loss expected to have adjunctive benefit on androgen excess and cycle regularity.
+
+5. **Prior Authorization:**
+   - PA submitted to BlueCross BlueShield for tirzepatide (Zepbound). Supporting diagnosis codes submitted: E66.01, E28.2, R73.03.
+
+6. **Follow-up:** Return to clinic in 4–6 weeks or sooner as needed.
+
+---
+
+**Patient verbalized understanding of the plan and agreed to proceed.**
+
+---
+
+*Electronically signed by:*
+**Dr

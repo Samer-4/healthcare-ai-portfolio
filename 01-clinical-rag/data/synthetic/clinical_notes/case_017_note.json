@@ -1,0 +1,24 @@
+{
+  "case_id": "case_017",
+  "patient_name": "Dorothy A. Kline",
+  "patient_mrn": "MRN-100250",
+  "payer": "BlueCross BlueShield",
+  "drug": "semaglutide (Rybelsus)",
+  "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_017_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_017_denial.txt",
+  "patient_age": 63,
+  "patient_bmi": 31,
+  "diagnoses": [
+    "E11.9",
+    "M17.0",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "type 2 diabetes",
+    "bilateral knee osteoarthritis",
+    "obesity"
+  ]
+}

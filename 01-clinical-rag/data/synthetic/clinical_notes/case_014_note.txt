@@ -1,0 +1,65 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Carl D. Whitfield
+**MRN:** MRN-100247
+**DATE OF SERVICE:** 2025-07-14
+**PROVIDER:** Dr. Paul Iverson, MD — Internal Medicine
+**NPI:** 1487326509
+**CLINIC:** Internal Medicine Associates
+**VISIT TYPE:** Office Visit — Chronic Disease Management / Prior Authorization Appeal
+
+---
+
+## CHIEF COMPLAINT
+
+"My insurance denied the diabetes medication my doctor prescribed. My blood sugar has not been under control despite everything we have tried."
+
+---
+
+## SUBJECTIVE
+
+Mr. Carl D. Whitfield is a 58-year-old male with a well-established history of Type 2 diabetes mellitus with hyperglycemia (E11.65), essential hypertension (I10), and mixed hyperlipidemia (E78.5) presenting today for follow-up and documentation in support of appeal of UnitedHealthcare's prior authorization denial for semaglutide (Ozempic) on the basis of step therapy not completed. I am writing this note to clarify and formally document that Mr. Whitfield has, in fact, completed the required step therapy as outlined below, and that the denial is not consistent with his treatment history.
+
+**Diabetes History and Step Therapy Documentation:**
+
+Mr. Whitfield was first diagnosed with Type 2 diabetes mellitus in April 2018. Since that time, he has been managed with progressive escalation of pharmacologic therapy due to persistently uncontrolled hyperglycemia. His HbA1c has remained above target despite adherence to multiple medication regimens. The following step therapy medications were trialed in sequence:
+
+---
+
+**Step 1 — Metformin (First-Line Therapy)**
+- **Drug/Dose:** Metformin HCl 500 mg orally twice daily, titrated to 1,000 mg twice daily (maximum tolerated dose)
+- **Dates:** May 2018 – February 2020 (approximately 21 months)
+- **Outcome/Reason for Failure:** Patient developed persistent gastrointestinal intolerance including nausea, cramping, and diarrhea at doses above 1,000 mg/day, preventing dose escalation to the therapeutic target of 2,000 mg/day. Extended-release formulation (Metformin ER 1,000 mg twice daily) was attempted from November 2018 – February 2020 and similarly not tolerated. HbA1c remained at 8.4% as of February 2020. Medication was discontinued due to intolerance and inadequate glycemic control.
+
+---
+
+**Step 2 — Glipizide (Sulfonylurea)**
+- **Drug/Dose:** Glipizide 5 mg orally once daily, titrated to 10 mg twice daily
+- **Dates:** March 2020 – January 2022 (approximately 22 months)
+- **Outcome/Reason for Failure:** Patient experienced recurrent hypoglycemic episodes (SMBG values documented as low as 58 mg/dL on multiple occasions), which limited dose optimization. Additionally, patient gained approximately 9 lbs over the treatment course, worsening his overall metabolic profile and BMI. HbA1c at discontinuation was 8.1%, not meeting the target of <7.5%. Therapy discontinued in January 2022 due to hypoglycemia risk and weight gain contributing to worsening cardiovascular risk profile.
+
+---
+
+**Step 3 — Sitagliptin (DPP-4 Inhibitor)**
+- **Drug/Dose:** Sitagliptin (Januvia) 100 mg orally once daily
+- **Dates:** February 2022 – November 2022 (approximately 10 months)
+- **Outcome/Reason for Failure:** Suboptimal glycemic response. HbA1c declined minimally from 8.1% to 7.9% after 6 months of therapy, which did not achieve the individualized target of <7.5% for this patient given his age, cardiovascular risk profile, and comorbidity burden. The modest HbA1c reduction was deemed clinically insufficient. Therapy was discontinued in November 2022.
+
+---
+
+**Step 4 — Empagliflozin (SGLT-2 Inhibitor)**
+- **Drug/Dose:** Empagliflozin (Jardiance) 10 mg orally once daily, titrated to 25 mg orally once daily after 3 months
+- **Dates:** December 2022 – October 2024 (approximately 22 months)
+- **Outcome/Reason for Failure:** Patient developed recurrent genitourinary infections (two documented episodes of genital mycotic infection in 2023 and one episode of urinary tract infection in early 2024), which are a known class effect. Additionally, HbA1c remained at 8.0% at the most recent measurement in September 2024 despite maximum approved dosing. Given persistent hyperglycemia (E11.65), genitourinary adverse effects, and failure to achieve glycemic target, empagliflozin was discontinued in October 2024.
+
+---
+
+**Current Status (as of this visit):**
+
+Since discontinuation of empagliflozin in October 2024, Mr. Whitfield has been continued on lifestyle modification measures including enrollment in a structured diabetes self-management education (DSME) program (initiated January 2023, ongoing), nutritional counseling with a registered dietitian (initiated March 2023, quarterly visits ongoing), and a supervised exercise program through our affiliated cardiac wellness center (initiated June 2023, ongoing, three sessions per week). Despite these interventions, his most recent HbA1c obtained June 30, 2025 is 8.6%, representing deterioration in glycemic control. He reports polyuria, polydipsia, and fatigue consistent with ongoing hyperglycemia. He denies hypoglycemic symptoms currently.
+
+His hypertension is managed with amlodipine 10 mg daily and lisinopril 20 mg daily with reasonable blood pressure control. His hyperlipidemia is managed with atorvastatin 40 mg daily.
+
+He has no history of pancreatitis, personal or family history of medullary thyroid carcinoma or MEN-2 syndrome, no active hepatic disease, and no contraindications to GLP-1 receptor 

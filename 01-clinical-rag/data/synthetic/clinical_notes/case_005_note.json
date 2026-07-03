@@ -5,6 +5,7 @@
   "payer": "Humana",
   "drug": "semaglutide (Wegovy)",
   "denial_reason": "alternative_covered",
+  "appeal_tier": "strong_appeal",
   "filename": "case_005_note.txt",
   "note_type": "progress_note",
   "denial_file": "case_005_denial.txt",

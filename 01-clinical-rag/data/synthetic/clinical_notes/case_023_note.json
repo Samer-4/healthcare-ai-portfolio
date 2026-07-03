@@ -1,0 +1,24 @@
+{
+  "case_id": "case_023",
+  "patient_name": "Frank J. Delgado",
+  "patient_mrn": "MRN-100256",
+  "payer": "Humana",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "insufficient_documentation",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_023_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_023_denial.txt",
+  "patient_age": 59,
+  "patient_bmi": 35,
+  "diagnoses": [
+    "E66.09",
+    "G47.33",
+    "I48.91"
+  ],
+  "comorbidities": [
+    "obesity",
+    "sleep apnea",
+    "atrial fibrillation"
+  ]
+}

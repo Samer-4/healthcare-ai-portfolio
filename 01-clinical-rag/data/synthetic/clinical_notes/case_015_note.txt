@@ -1,0 +1,85 @@
+# BARIATRIC MEDICINE SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Sofia E. Alvarez
+**MRN:** MRN-100248
+**DOB:** [03/14/1989] | **Age:** 36 | **Sex:** Female
+**Referring Provider:** Dr. Michael Torres, MD (Primary Care), NPI on file
+**Consulting Physician:** Dr. Rebecca Stein, MD — Bariatric Medicine, NPI 1659083241
+**Consult Date:** July 14, 2025
+**Location:** Outpatient Bariatric Medicine Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Ms. Alvarez is a 36-year-old woman with morbid obesity (BMI 42 kg/m²) and obstructive sleep apnea referred by her primary care physician for evaluation and initiation of pharmacologic weight management. Consultation requested in conjunction with a prior authorization submission for liraglutide 3.0 mg (Saxenda) for chronic weight management.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Ms. Alvarez is a 36-year-old Hispanic female with a longstanding history of morbid obesity who presents to our bariatric medicine clinic for initial consultation regarding pharmacologic weight management. She reports a gradual weight gain over the past 8–10 years, with her current weight of 262 lbs (BMI 42 kg/m²) representing her highest recorded weight to date. She attributes her weight gain to a combination of sedentary occupational demands (remote desk work), stress-related eating behaviors, and disrupted sleep secondary to obstructive sleep apnea diagnosed approximately two years ago. She reports significant fatigue, reduced exercise tolerance, and bilateral knee discomfort with prolonged ambulation, all of which she relates to her weight.
+
+She states that she has made multiple attempts at weight loss through dietary modification and increased physical activity over the past several years without sustained success. She describes attempting a reduced-calorie diet on her own initiative earlier this year for approximately three months, during which she lost approximately 8 lbs but regained the weight within two months of discontinuing the structured dietary effort. She has not been formally enrolled in any structured, medically supervised weight loss program, behavioral weight management program, or registered dietitian-directed intervention. She has not previously been prescribed any pharmacologic weight loss agents, including phentermine, topiramate, phentermine/topiramate ER (Qsymia), bupropion/naltrexone (Contrave), or orlistat, and denies any prior use of GLP-1 receptor agonists for any indication. She has not undergone bariatric surgical evaluation.
+
+She was diagnosed with obstructive sleep apnea in 2023 following a formal sleep study and was initiated on CPAP therapy (pressure setting 10 cmH₂O), which she reports using inconsistently — approximately 4 nights per week. She denies a personal or family history of type 2 diabetes; her most recent fasting glucose was 98 mg/dL and HbA1c 5.6% (prediabetic range), obtained approximately six weeks ago through her primary care office. She does not carry a diagnosis of type 2 diabetes or pre-diabetes at this time. She denies cardiovascular disease, hypertension, or dyslipidemia. She is not on any antihypertensive, lipid-lowering, or glucose-lowering medications.
+
+---
+
+## PAST MEDICAL HISTORY
+
+| # | Condition | ICD-10 | Year Diagnosed |
+|---|-----------|--------|----------------|
+| 1 | Morbid (severe) obesity due to excess calories | E66.01 | Ongoing |
+| 2 | Obstructive sleep apnea | G47.33 | 2023 |
+| 3 | BMI 40.00–44.99 (adult) | Z68.41 | Documented this visit |
+
+- No history of type 2 diabetes mellitus
+- No history of cardiovascular disease, coronary artery disease, or stroke
+- No history of hypertension
+- No history of dyslipidemia
+- No prior bariatric surgery or bariatric surgical evaluation
+- No prior medically supervised weight loss program enrollment
+- No known history of pancreatitis
+- No personal or family history of medullary thyroid carcinoma or MEN2 syndrome
+
+---
+
+## CURRENT MEDICATIONS
+
+| Medication | Dose | Frequency | Indication |
+|-----------|------|-----------|------------|
+| None prescribed at this time | — | — | — |
+
+**OTC/Supplements:**
+- Multivitamin — 1 tablet daily
+
+**Allergies:** NKDA (no known drug allergies)
+
+---
+
+## REVIEW OF SYSTEMS
+
+- **Constitutional:** Fatigue, weight gain. Denies fever, chills, or unintentional weight loss.
+- **Cardiovascular:** Denies chest pain, palpitations, or lower extremity edema.
+- **Pulmonary:** Snoring reported by partner; uses CPAP inconsistently. Denies dyspnea at rest.
+- **Gastrointestinal:** Denies nausea, vomiting, diarrhea, constipation, or abdominal pain. Denies history of gallbladder disease.
+- **Endocrine:** Denies polyuria, polydipsia, or heat/cold intolerance. Denies symptoms of hypothyroidism.
+- **Musculoskeletal:** Bilateral knee discomfort with prolonged weight-bearing activity.
+- **Psychiatric:** Denies depression or anxiety. Denies binge-eating behaviors by self-report.
+- **Neurological:** Denies headaches, dizziness, or focal neurologic symptoms.
+- **Reproductive:** Regular menstrual cycles; not currently pregnant. Using oral contraceptives (over the counter; patient clarified she obtains through telehealth — not included in active medications above; see note below).
+
+*Addendum: Patient reports intermittent use of a combined oral contraceptive pill obtained via telehealth. No dose information available at this visit; records requested.*
+
+---
+
+## PHYSICAL EXAMINATION
+
+**Vital Signs:**
+- Blood Pressure: 122/78 mmHg (right arm, seated)
+- Heart Rate: 82 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F

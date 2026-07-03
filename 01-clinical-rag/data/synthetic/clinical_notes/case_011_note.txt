@@ -1,32 +1,53 @@
-# SPECIALIST CONSULTATION NOTE
+# GASTROENTEROLOGY SPECIALIST CONSULTATION NOTE
 
 ---
 
-**PATIENT:** Marcus A. Thompson | **MRN:** MRN-100244
-**DOB:** 1986 | **Age:** 38 | **Sex:** Male
-**Referring Provider:** Primary Care Physician (on file)
-**Consulting Physician:** Dr. Christine Poulos, MD — Gastroenterology, NPI 1520639487
-**Consult Date:** January 15, 2025
-**Location:** Gastroenterology Specialty Clinic
+**PATIENT:** Marcus A. Thompson
+**MRN:** MRN-100244
+**DOB:** 03/14/1987 (Age: 38)
+**Sex:** Male
+**Date of Consultation:** July 14, 2025
+**Referring Provider:** Dr. Alan Ferretti, MD (Internal Medicine)
+**Consulting Physician:** Dr. Christine Poulos, MD (Gastroenterology), NPI 1520639487
+**Location:** Lakeside Gastroenterology Associates, Outpatient Clinic
 
 ---
 
 ## REASON FOR CONSULTATION
 
-Mr. Thompson is a 38-year-old male referred to Gastroenterology for evaluation and management of biopsy-confirmed non-alcoholic fatty liver disease (NAFLD) with progressive hepatic steatosis (ICD-10: K76.0) in the setting of overweight/class I obesity (ICD-10: E66.09). This consultation note is additionally submitted in support of a prior authorization appeal for semaglutide (Ozempic) following Cigna's denial on the basis of off-label use. The clinical rationale for semaglutide in this patient is substantiated by an extensive and growing body of peer-reviewed literature and is consistent with current gastroenterology society guidance, as detailed below.
+Mr. Thompson is a 38-year-old male referred by his primary care physician for evaluation and management of non-alcoholic fatty liver disease (NAFLD) in the setting of overweight (BMI 29 kg/m²). Referral was prompted by persistently elevated hepatic steatosis on imaging and the patient's expressed interest in pharmacologic weight-reduction strategies, specifically semaglutide (Ozempic), to address his liver disease. Consultation requested to assess hepatic disease severity and to provide guidance on management options.
 
 ---
 
 ## HISTORY OF PRESENT ILLNESS
 
-Mr. Marcus Thompson is a 38-year-old male with a documented history of non-alcoholic fatty liver disease (NAFLD) and overweight status (BMI 29 kg/m²) who initially presented to his primary care physician in March 2023 with complaints of persistent right upper quadrant discomfort, fatigue, and elevated hepatic transaminases noted on routine laboratory evaluation. At that time, AST was 67 U/L and ALT was 89 U/L (both greater than twice the upper limit of normal). Hepatitis B surface antigen, hepatitis C antibody, anti-nuclear antibody, anti-smooth muscle antibody, and alpha-1 antitrypsin phenotyping were all negative, effectively excluding viral, autoimmune, and hereditary etiologies. Alcohol use was quantified at fewer than two standard drinks per week and deemed clinically non-contributory. Abdominal ultrasound performed April 2023 demonstrated diffuse hepatic echogenicity consistent with moderate-to-severe steatosis. Subsequent MRI with PDFF (proton density fat fraction) quantification obtained June 2023 confirmed hepatic fat fraction of 22%, meeting criteria for Grade 2–3 hepatic steatosis. A FibroScan (vibration-controlled transient elastography) performed July 2023 yielded a controlled attenuation parameter (CAP) score of 318 dB/m, further corroborating significant hepatic fat deposition, with a liver stiffness measurement of 7.2 kPa, indicating early fibrosis in the F1–F2 range. The patient was counseled extensively on lifestyle modification, dietary optimization, and weight reduction as the cornerstone of NAFLD management.
+Mr. Thompson is a 38-year-old male with no prior hepatic or metabolic disease history who presented to his primary care provider approximately four months ago in March 2025 following incidental discovery of hepatic steatosis on a right upper quadrant ultrasound obtained during a routine wellness evaluation. The ultrasound report described mild-to-moderate echogenicity consistent with hepatic steatosis. At that time, his fasting lipid panel was notable for mildly elevated triglycerides at 158 mg/dL, and his ALT was 47 U/L (reference < 40 U/L), with AST 38 U/L, which was within normal limits. Alkaline phosphatase and total bilirubin were both within normal limits. He had no history of alcohol use disorder and reported social alcohol consumption of approximately two to three standard drinks per week. Secondary causes of liver disease, including viral hepatitis serologies (hepatitis B surface antigen and hepatitis C antibody), were sent and returned negative. Autoimmune markers (ANA, ASMA) were negative. Thyroid function testing was normal. The constellation of findings was attributed to NAFLD in the context of his overweight status.
 
-From August 2023 through June 2024 — a period of approximately 10 months — Mr. Thompson was enrolled in a structured, multidisciplinary lifestyle intervention program. He participated in weekly dietary counseling sessions with a registered dietitian focusing on a Mediterranean-pattern diet, caloric restriction targeting a 500–750 kcal/day deficit, and reduction of refined carbohydrates and saturated fats. He also undertook a supervised exercise program consisting of 150–200 minutes of moderate-intensity aerobic activity per week in accordance with AASLD and EASL guidelines. Adherence was monitored via food and activity logs reviewed at monthly clinical visits. Despite sustained compliance, his weight decreased by only 3.1 kg (approximately 4.2% of initial body weight) — well below the 7–10% weight loss threshold consistently associated with histologic improvement in NASH/NAFLD. Follow-up laboratory studies in July 2024 demonstrated persistent transaminase elevation (AST 59 U/L, ALT 76 U/L), and repeat FibroScan in September 2024 showed a CAP score of 307 dB/m with liver stiffness now measured at 7.8 kPa, suggesting no meaningful regression of hepatic steatosis and possible progression of fibrosis. Vitamin E 800 IU daily was initiated in October 2023 for non-diabetic NAFLD per AASLD recommendations; after 12 months of therapy through October 2024, hepatic enzyme elevations and steatosis imaging findings remained unresolved. Pioglitazone was considered but declined by the patient due to concerns regarding weight gain and bladder cancer risk. Obeticholic acid is not approved for NAFLD/NASH outside of clinical trials and was not an appropriate option for this patient.
+Mr. Thompson denies any current symptoms referable to his liver disease. He has no abdominal pain, jaundice, pruritus, dark urine, or light-colored stools. He reports no peripheral edema, easy bruising, or gastrointestinal bleeding. He endorses mild fatigue, which he attributes primarily to his work schedule as a software engineer. He has not undergone liver biopsy or FibroScan elastography to formally stage his disease. His most recent body weight was recorded as 195 lbs at a height of 5'10", yielding a BMI of 28.0–29.0 kg/m², placing him in the overweight category per standard classification. He has been counseled repeatedly regarding dietary modification and aerobic exercise by his PCP. He reports making some lifestyle modifications over the past several months, including reducing refined carbohydrate and saturated fat intake, though he acknowledges inconsistent adherence. He has not enrolled in a formal structured weight management program or dietitian-supervised intervention. He has not trialed any pharmacologic agent for weight management or metabolic liver disease to date. He presents today requesting initiation of semaglutide (Ozempic), which he has researched independently and believes may benefit both his liver disease and his weight.
 
-Given the failure of first-line lifestyle modification, the incomplete response to Vitamin E, and the progressive nature of his hepatic disease — with early fibrosis now documented — escalation of pharmacologic therapy is clinically imperative. GLP-1 receptor agonists, specifically semaglutide, have emerged as the most evidence-supported pharmacologic intervention for NAFLD/NASH. The NASH CRN (NASH Clinical Research Network) and the landmark Phase II NEJM-published trial by Newsome et al. (2021) demonstrated that semaglutide 2.4 mg subcutaneously weekly resulted in NASH resolution without worsening of fibrosis in 59% of treated participants versus 17% in the placebo arm (p<0.001). Furthermore, the ongoing Phase III ESSENCE trial evaluating semaglutide for NASH has demonstrated compelling interim efficacy data, and multiple GLP-1 receptor agonist studies (including liraglutide in the LEAN trial) have demonstrated histologic improvement in NASH independent of weight loss magnitude. The American Association for the Study of Liver Diseases (AASLD) 2023 Practice Guidance and the European Association for the Study of the Liver (EASL) 2024 Clinical Practice Guidelines both acknowledge GLP-1 receptor agonists as a rational pharmacologic strategy for NAFLD/NASH management in patients who fail lifestyle interventions. Accordingly, initiation of semaglutide is medically necessary, evidence-based, and the most appropriate next therapeutic step for Mr. Thompson.
+Mr. Thompson does not carry a diagnosis of type 2 diabetes mellitus. His most recent hemoglobin A1c, obtained in April 2025, was 5.5%, and fasting glucose was 96 mg/dL, both within normal limits. He therefore does not meet criteria for diabetes or prediabetes. His cardiovascular risk assessment does not reveal established cardiovascular disease, prior myocardial infarction, stroke, or peripheral arterial disease. ASCVD 10-year risk estimate calculated using the Pooled Cohort Equation is approximately 2.1%, reflecting low cardiovascular risk. There is no clinical indication for semaglutide under its FDA-approved indication as Ozempic (glycemic control in type 2 diabetes mellitus) or as Wegovy (chronic weight management; BMI ≥ 30, or ≥ 27 with weight-related comorbidity meeting payer criteria). His BMI of 29 kg/m² falls below the threshold required for coverage of semaglutide for obesity under Cigna's approved indications in the absence of a qualifying comorbidity that meets payer-defined criteria at the severity level required.
 
 ---
 
 ## PAST MEDICAL HISTORY
 
-1. Non-alcoholic fatty liver disease (NAFLD) with hepatic steatosis — Grade 2
+1. Non-alcoholic fatty liver disease (NAFLD) — K76.0 — diagnosed March 2025 by imaging; mild-to-moderate steatosis; no formal staging completed
+2. Overweight — E66.09 — BMI 29 kg/m²; no prior diagnosis of obesity
+3. Mild hypertriglyceridemia — incidental finding, not pharmacologically treated
+4. No history of type 2 diabetes mellitus, prediabetes, cardiovascular disease, obstructive sleep apnea, or polycystic ovarian syndrome
+
+**Surgical History:** Appendectomy, age 22 (uncomplicated)
+**Allergies:** No known drug allergies
+**Family History:** Father with type 2 diabetes mellitus (diagnosed age 52); mother with hyperlipidemia. No known family history of cirrhosis, hepatocellular carcinoma, or hereditary liver disease.
+**Social History:** Non-smoker. Social alcohol use, approximately 2–3 drinks/week. Denies illicit drug use. Works remotely as a software engineer; predominantly sedentary occupation. Married, two children.
+
+---
+
+## CURRENT MEDICATIONS
+
+1. None prescribed chronically
+2. Vitamin D3 2,000 IU orally once daily (self-initiated, over-the-counter)
+3. Fish oil 1,000 mg orally once daily (self-initiated, over-the-counter)
+4. Occasional ibuprofen 400 mg PRN for headache (patient reports infrequent use, approximately 1–2 times per month)
+
+*Note: No prior or current use of orlistat, phentermine,

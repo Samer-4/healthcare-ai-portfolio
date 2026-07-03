@@ -14,6 +14,7 @@ CASES = [
         "payer": "Aetna",
         "drug": "semaglutide (Wegovy)",
         "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -32,6 +33,7 @@ CASES = [
         "payer": "UnitedHealthcare",
         "drug": "tirzepatide (Zepbound)",
         "denial_reason": "not_medically_necessary",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "specialist_consult",
         "patient": {
@@ -50,6 +52,7 @@ CASES = [
         "payer": "Cigna",
         "drug": "semaglutide (Ozempic)",
         "denial_reason": "insufficient_documentation",
+        "appeal_tier": "weak_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -68,6 +71,7 @@ CASES = [
         "payer": "BlueCross BlueShield",
         "drug": "liraglutide (Saxenda)",
         "denial_reason": "off_label",
+        "appeal_tier": "weak_appeal",
         "format": "formal_letter",
         "note_type": "specialist_consult",
         "patient": {
@@ -86,6 +90,7 @@ CASES = [
         "payer": "Humana",
         "drug": "semaglutide (Wegovy)",
         "denial_reason": "alternative_covered",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -104,6 +109,7 @@ CASES = [
         "payer": "Cigna",
         "drug": "tirzepatide (Zepbound)",
         "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "strong_appeal",
         "format": "portal_message",
         "note_type": "specialist_consult",
         "patient": {
@@ -122,6 +128,7 @@ CASES = [
         "payer": "BlueCross BlueShield",
         "drug": "semaglutide (Wegovy)",
         "denial_reason": "not_medically_necessary",
+        "appeal_tier": "no_viable_appeal",
         "format": "fax_partial",
         "note_type": "progress_note",
         "patient": {
@@ -140,6 +147,7 @@ CASES = [
         "payer": "Aetna",
         "drug": "tirzepatide (Zepbound)",
         "denial_reason": "insufficient_documentation",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -158,6 +166,7 @@ CASES = [
         "payer": "Humana",
         "drug": "liraglutide (Saxenda)",
         "denial_reason": "not_medically_necessary",
+        "appeal_tier": "weak_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -176,6 +185,7 @@ CASES = [
         "payer": "UnitedHealthcare",
         "drug": "tirzepatide (Zepbound)",
         "denial_reason": "alternative_covered",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "specialist_consult",
         "patient": {
@@ -194,6 +204,7 @@ CASES = [
         "payer": "Cigna",
         "drug": "semaglutide (Ozempic)",
         "denial_reason": "off_label",
+        "appeal_tier": "no_viable_appeal",
         "format": "formal_letter",
         "note_type": "specialist_consult",
         "patient": {
@@ -212,6 +223,7 @@ CASES = [
         "payer": "Aetna",
         "drug": "tirzepatide (Zepbound)",
         "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "strong_appeal",
         "format": "formal_letter",
         "note_type": "progress_note",
         "patient": {
@@ -224,6 +236,348 @@ CASES = [
             "comorbidities": ["sleep apnea", "hypertension", "obesity"],
         },
         "physician": {"name": "Dr. Brian Fenwick, MD", "npi": "1093857462", "specialty": "Family Medicine"},
+    },
+    {
+        "case_id": "case_013",
+        "payer": "Cigna",
+        "drug": "semaglutide (Wegovy)",
+        "denial_reason": "non_formulary",
+        "appeal_tier": "weak_appeal",
+        "format": "portal_message",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Emily J. Kowalski",
+            "mrn": "MRN-100246",
+            "age": 29,
+            "sex": "female",
+            "bmi": 41,
+            "diagnoses": ["E66.01", "F33.1", "Z68.41"],
+            "comorbidities": ["morbid obesity", "major depressive disorder"],
+        },
+        "physician": {"name": "Dr. Anita Desai, MD", "npi": "1316248790", "specialty": "Family Medicine"},
+    },
+    {
+        "case_id": "case_014",
+        "payer": "UnitedHealthcare",
+        "drug": "semaglutide (Ozempic)",
+        "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "strong_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Carl D. Whitfield",
+            "mrn": "MRN-100247",
+            "age": 58,
+            "sex": "male",
+            "bmi": 34,
+            "diagnoses": ["E11.65", "I10", "E78.5"],
+            "comorbidities": ["type 2 diabetes with hyperglycemia", "hypertension", "hyperlipidemia"],
+        },
+        "physician": {"name": "Dr. Paul Iverson, MD", "npi": "1487326509", "specialty": "Internal Medicine"},
+    },
+    {
+        "case_id": "case_015",
+        "payer": "Aetna",
+        "drug": "liraglutide (Saxenda)",
+        "denial_reason": "plan_exclusion_weight_loss",
+        "appeal_tier": "no_viable_appeal",
+        "format": "formal_letter",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Sofia E. Alvarez",
+            "mrn": "MRN-100248",
+            "age": 36,
+            "sex": "female",
+            "bmi": 42,
+            "diagnoses": ["E66.01", "G47.33", "Z68.41"],
+            "comorbidities": ["morbid obesity", "obstructive sleep apnea"],
+        },
+        "physician": {"name": "Dr. Rebecca Stein, MD", "npi": "1659083241", "specialty": "Bariatric Medicine"},
+    },
+    {
+        "case_id": "case_016",
+        "payer": "Humana",
+        "drug": "tirzepatide (Mounjaro)",
+        "denial_reason": "not_medically_necessary",
+        "appeal_tier": "strong_appeal",
+        "format": "fax_partial",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Walter H. Simmons",
+            "mrn": "MRN-100249",
+            "age": 67,
+            "sex": "male",
+            "bmi": 32,
+            "diagnoses": ["E11.9", "N18.3", "I10"],
+            "comorbidities": ["type 2 diabetes", "chronic kidney disease stage 3", "hypertension"],
+        },
+        "physician": {"name": "Dr. Farida Osman, MD", "npi": "1902471835", "specialty": "Nephrology"},
+    },
+    {
+        "case_id": "case_017",
+        "payer": "BlueCross BlueShield",
+        "drug": "semaglutide (Rybelsus)",
+        "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "weak_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Dorothy A. Kline",
+            "mrn": "MRN-100250",
+            "age": 63,
+            "sex": "female",
+            "bmi": 31,
+            "diagnoses": ["E11.9", "M17.0", "E66.09"],
+            "comorbidities": ["type 2 diabetes", "bilateral knee osteoarthritis", "obesity"],
+        },
+        "physician": {"name": "Dr. Steven Barlow, MD", "npi": "1738405926", "specialty": "Internal Medicine"},
+    },
+    {
+        "case_id": "case_018",
+        "payer": "Anthem",
+        "drug": "semaglutide (Wegovy)",
+        "denial_reason": "quantity_limit_exceeded",
+        "appeal_tier": "weak_appeal",
+        "format": "portal_message",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Derek O. Boateng",
+            "mrn": "MRN-100251",
+            "age": 47,
+            "sex": "male",
+            "bmi": 38,
+            "diagnoses": ["E66.01", "G47.33", "I10"],
+            "comorbidities": ["obesity", "sleep apnea", "hypertension"],
+        },
+        "physician": {"name": "Dr. Monica Reyes-Chan, MD", "npi": "1264097385", "specialty": "Family Medicine"},
+    },
+    {
+        "case_id": "case_019",
+        "payer": "Cigna",
+        "drug": "tirzepatide (Zepbound)",
+        "denial_reason": "not_medically_necessary",
+        "appeal_tier": "strong_appeal",
+        "format": "formal_letter",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Barbara N. Fitzgerald",
+            "mrn": "MRN-100252",
+            "age": 55,
+            "sex": "female",
+            "bmi": 34,
+            "diagnoses": ["E66.09", "I25.10", "E78.5"],
+            "comorbidities": ["obesity", "coronary artery disease", "hyperlipidemia"],
+        },
+        "physician": {"name": "Dr. Hassan Qureshi, MD", "npi": "1573820946", "specialty": "Cardiology"},
+    },
+    {
+        "case_id": "case_020",
+        "payer": "UnitedHealthcare",
+        "drug": "liraglutide (Saxenda)",
+        "denial_reason": "insufficient_documentation",
+        "appeal_tier": "weak_appeal",
+        "format": "fax_partial",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Alyssa M. Trần",
+            "mrn": "MRN-100253",
+            "age": 26,
+            "sex": "female",
+            "bmi": 36,
+            "diagnoses": ["E66.01", "E28.2"],
+            "comorbidities": ["obesity", "PCOS"],
+        },
+        "physician": {"name": "Dr. Janet Moreau, MD", "npi": "1849263057", "specialty": "Family Medicine"},
+    },
+    {
+        "case_id": "case_021",
+        "payer": "Aetna",
+        "drug": "semaglutide (Ozempic)",
+        "denial_reason": "off_label",
+        "appeal_tier": "no_viable_appeal",
+        "format": "portal_message",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Kevin R. Sullivan",
+            "mrn": "MRN-100254",
+            "age": 42,
+            "sex": "male",
+            "bmi": 30,
+            "diagnoses": ["K76.0", "R73.03", "E66.09"],
+            "comorbidities": ["non-alcoholic fatty liver disease", "prediabetes", "obesity"],
+        },
+        "physician": {"name": "Dr. Leonard Achebe, MD", "npi": "1420685379", "specialty": "Gastroenterology"},
+    },
+    {
+        "case_id": "case_022",
+        "payer": "Kaiser Permanente",
+        "drug": "semaglutide (Wegovy)",
+        "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "strong_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Gloria P. Mendoza",
+            "mrn": "MRN-100255",
+            "age": 50,
+            "sex": "female",
+            "bmi": 39,
+            "diagnoses": ["E66.01", "I10", "E78.5"],
+            "comorbidities": ["obesity", "hypertension", "hyperlipidemia"],
+        },
+        "physician": {"name": "Dr. Timothy Rourke, MD", "npi": "1596047283", "specialty": "Internal Medicine"},
+    },
+    {
+        "case_id": "case_023",
+        "payer": "Humana",
+        "drug": "tirzepatide (Zepbound)",
+        "denial_reason": "insufficient_documentation",
+        "appeal_tier": "strong_appeal",
+        "format": "portal_message",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Frank J. Delgado",
+            "mrn": "MRN-100256",
+            "age": 59,
+            "sex": "male",
+            "bmi": 35,
+            "diagnoses": ["E66.09", "G47.33", "I48.91"],
+            "comorbidities": ["obesity", "sleep apnea", "atrial fibrillation"],
+        },
+        "physician": {"name": "Dr. Vivian Cho, MD", "npi": "1387250614", "specialty": "Sleep Medicine"},
+    },
+    {
+        "case_id": "case_024",
+        "payer": "BlueCross BlueShield",
+        "drug": "semaglutide (Wegovy)",
+        "denial_reason": "alternative_covered",
+        "appeal_tier": "weak_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Nicole B. Harrington",
+            "mrn": "MRN-100257",
+            "age": 44,
+            "sex": "female",
+            "bmi": 36,
+            "diagnoses": ["E66.01", "M17.11", "R73.03"],
+            "comorbidities": ["obesity", "right knee osteoarthritis", "prediabetes"],
+        },
+        "physician": {"name": "Dr. Marcus Feldman, MD", "npi": "1750392468", "specialty": "Family Medicine"},
+    },
+    {
+        "case_id": "case_025",
+        "payer": "Cigna",
+        "drug": "liraglutide (Saxenda)",
+        "denial_reason": "quantity_limit_exceeded",
+        "appeal_tier": "weak_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Antonio V. Russo",
+            "mrn": "MRN-100258",
+            "age": 39,
+            "sex": "male",
+            "bmi": 40,
+            "diagnoses": ["E66.01", "I10", "Z68.41"],
+            "comorbidities": ["morbid obesity", "hypertension"],
+        },
+        "physician": {"name": "Dr. Ingrid Halvorsen, MD", "npi": "1602849371", "specialty": "Internal Medicine"},
+    },
+    {
+        "case_id": "case_026",
+        "payer": "Aetna",
+        "drug": "semaglutide (Rybelsus)",
+        "denial_reason": "not_medically_necessary",
+        "appeal_tier": "strong_appeal",
+        "format": "fax_partial",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Margaret E. O'Rourke",
+            "mrn": "MRN-100259",
+            "age": 66,
+            "sex": "female",
+            "bmi": 33,
+            "diagnoses": ["E11.9", "E78.2", "I10"],
+            "comorbidities": ["type 2 diabetes", "mixed hyperlipidemia", "hypertension"],
+        },
+        "physician": {"name": "Dr. Charles Lindqvist, MD", "npi": "1934706258", "specialty": "Internal Medicine"},
+    },
+    {
+        "case_id": "case_027",
+        "payer": "UnitedHealthcare",
+        "drug": "tirzepatide (Zepbound)",
+        "denial_reason": "plan_exclusion_weight_loss",
+        "appeal_tier": "no_viable_appeal",
+        "format": "formal_letter",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Brandon T. Ellison",
+            "mrn": "MRN-100260",
+            "age": 35,
+            "sex": "male",
+            "bmi": 43,
+            "diagnoses": ["E66.01", "G47.33", "K76.0"],
+            "comorbidities": ["morbid obesity", "sleep apnea", "non-alcoholic fatty liver disease"],
+        },
+        "physician": {"name": "Dr. Yolanda Pierce, MD", "npi": "1275839406", "specialty": "Bariatric Medicine"},
+    },
+    {
+        "case_id": "case_028",
+        "payer": "Anthem",
+        "drug": "semaglutide (Ozempic)",
+        "denial_reason": "alternative_covered",
+        "appeal_tier": "strong_appeal",
+        "format": "formal_letter",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Denise W. Abernathy",
+            "mrn": "MRN-100261",
+            "age": 57,
+            "sex": "female",
+            "bmi": 32,
+            "diagnoses": ["E11.9", "E66.09"],
+            "comorbidities": ["type 2 diabetes", "obesity"],
+        },
+        "physician": {"name": "Dr. Raj Venkataraman, MD", "npi": "1468025793", "specialty": "Endocrinology"},
+    },
+    {
+        "case_id": "case_029",
+        "payer": "Humana",
+        "drug": "semaglutide (Wegovy)",
+        "denial_reason": "off_label",
+        "appeal_tier": "no_viable_appeal",
+        "format": "formal_letter",
+        "note_type": "specialist_consult",
+        "patient": {
+            "name": "Harold G. Weinstein",
+            "mrn": "MRN-100262",
+            "age": 71,
+            "sex": "male",
+            "bmi": 29,
+            "diagnoses": ["I25.10", "E66.3", "E78.5"],
+            "comorbidities": ["coronary artery disease", "overweight", "hyperlipidemia"],
+        },
+        "physician": {"name": "Dr. Sylvia Marchetti, MD", "npi": "1815394027", "specialty": "Cardiology"},
+    },
+    {
+        "case_id": "case_030",
+        "payer": "BlueCross BlueShield",
+        "drug": "tirzepatide (Zepbound)",
+        "denial_reason": "step_therapy_not_completed",
+        "appeal_tier": "weak_appeal",
+        "format": "portal_message",
+        "note_type": "progress_note",
+        "patient": {
+            "name": "Tiffany S. Okonkwo",
+            "mrn": "MRN-100263",
+            "age": 31,
+            "sex": "female",
+            "bmi": 37,
+            "diagnoses": ["E66.01", "E28.2", "R73.03"],
+            "comorbidities": ["obesity", "PCOS", "prediabetes"],
+        },
+        "physician": {"name": "Dr. Adam Kowalczyk, MD", "npi": "1529476380", "specialty": "Family Medicine"},
     },
 ]
 
@@ -299,6 +653,33 @@ def generate_clinical_note(case):
     icd_codes = ", ".join(patient["diagnoses"])
     comorbidities = ", ".join(patient["comorbidities"])
 
+    if case["appeal_tier"] == "strong_appeal":
+        tier_instructions = """This is a STRONG appeal case: the chart genuinely contains everything needed
+to overturn the denial. The note must directly and completely counter the denial reason:
+- If denied for step therapy: document each previous medication tried with drug, dose, duration, dates, and why it failed or was not tolerated
+- If denied for not medically necessary: document obesity-related comorbidities with objective findings, failed conservative measures (supervised diet, exercise program, dietitian referral with dates), and clinical urgency
+- If denied for insufficient documentation: be exhaustive — include every relevant clinical detail
+- If denied for off-label: document guideline and literature support and why on-label alternatives are inappropriate
+- If denied because an alternative is covered or the drug is non-formulary: document that the covered alternative was tried and failed or is contraindicated, with specifics
+- If denied for quantity limits: document the clinical justification for the prescribed dose and quantity
+- If denied for a plan exclusion: document the severe comorbidity burden supporting a benefit exception"""
+
+    elif case["appeal_tier"] == "weak_appeal":
+        tier_instructions = """This is a WEAK appeal case: the chart contains some supporting evidence, but
+with real gaps. Partially address the denial reason — include one or two relevant facts, but
+leave the documentation incomplete: mention a prior medication without dose or duration,
+reference lifestyle changes without specifics or dates, note a comorbidity without severity
+or objective findings. Do NOT fully satisfy the payer's criteria. A utilization reviewer
+reading this note should find it suggestive but insufficient on its own."""
+
+    else:  # no_viable_appeal
+        tier_instructions = """This is a NO-VIABLE-APPEAL case: the chart genuinely lacks the evidence
+needed to counter the denial. Write a realistic, competent note for this visit, but the
+record must NOT contain what the payer requires: no prior step-therapy medications
+documented, no failed or contraindicated covered alternatives, borderline severity,
+criteria unmet. Do not invent supporting evidence — the honest clinical picture here
+simply does not support the appeal."""
+
     identity_block = f"""Use these exact identifiers throughout — do not invent different ones:
 - Patient name: {patient['name']}
 - Patient MRN: {patient['mrn']}
@@ -327,16 +708,12 @@ def generate_clinical_note(case):
 - PLAN (include specific drug request, dose, clinical rationale, prior therapy tried)
 - Signature block"""
 
-    system_prompt = f"""You are a physician documenting a clinical note to support a prior
-authorization request for a GLP-1 medication that was denied by {case['payer']}.
+    system_prompt = f"""You are a physician documenting a clinical note for a patient whose GLP-1
+prior authorization request was denied by {case['payer']}.
 
 The denial reason was: {case['denial_reason']}
-Your note should contain clinical evidence that directly addresses and counters this denial reason.
-For example:
-- If denied for step therapy: document previous medications tried, doses, duration, and why they failed
-- If denied for not medically necessary: document obesity-related comorbidities, failed conservative measures, clinical urgency
-- If denied for insufficient documentation: be exhaustive — include every relevant clinical detail
-- If denied for off-label: document clinical literature support and why on-label alternatives are inappropriate
+
+{tier_instructions}
 
 {identity_block}
 
@@ -384,6 +761,7 @@ def save_case(case, denial_text, note_text):
         "payer": case["payer"],
         "drug": case["drug"],
         "denial_reason": case["denial_reason"],
+        "appeal_tier": case["appeal_tier"],
     }
 
     denial_metadata = {

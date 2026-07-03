@@ -1,0 +1,52 @@
+# CLINICAL PROGRESS NOTE — ENDOCRINOLOGY
+
+---
+
+**PATIENT:** Denise W. Abernathy
+**MRN:** MRN-100261
+**DATE OF SERVICE:** 2025-01-15
+**PROVIDER:** Dr. Raj Venkataraman, MD — Endocrinology
+**NPI:** 1468025793
+**CLINIC:** Endocrinology & Metabolic Disease Clinic
+**VISIT TYPE:** Office Visit — Follow-Up / Prior Authorization Support
+
+---
+
+## CHIEF COMPLAINT
+
+Patient presents for follow-up of type 2 diabetes mellitus and obesity with inadequate glycemic control. Visit also serves to document clinical rationale in support of appeal of prior authorization denial for semaglutide (Ozempic) — denied under reason code "alternative covered."
+
+---
+
+## SUBJECTIVE
+
+Ms. Denise W. Abernathy is a 57-year-old female with a well-established history of type 2 diabetes mellitus (E11.9) and obesity (E66.09) who has been under my care for approximately 3 years. She presents today to review her metabolic status and to formally document the clinical course supporting appeal of the prior authorization denial for semaglutide (Ozempic) issued by Anthem.
+
+**History of Present Illness:**
+Ms. Abernathy has struggled with suboptimal glycemic control and weight management despite a structured, multi-modal treatment approach. She reports persistent hyperglycemia with fasting glucose readings in the 160–190 mg/dL range at home, fatigue, and difficulty with weight reduction. She denies hypoglycemic episodes. She has no new complaints of polyuria or polydipsia beyond her known baseline. She is motivated and engaged in her care plan.
+
+**Covered Alternative Tried and Failed — Dulaglutide (Trulicity):**
+Anthem's denial references a "covered alternative" — specifically dulaglutide (Trulicity, 0.75 mg/1.5 mg subcutaneous injection), which is on Anthem's preferred formulary. Ms. Abernathy was trialed on dulaglutide beginning **March 10, 2023**, initiated at 0.75 mg subcutaneously once weekly for the first four weeks, then uptitrated to **1.5 mg subcutaneously once weekly** beginning **April 7, 2023**.
+
+Despite a trial period of **six months (March 2023 through September 2023)**, she experienced the following documented adverse effects and therapeutic failures:
+
+- **Persistent nausea and vomiting:** Moderate-to-severe nausea occurring 1–2 days following each weekly injection, documented at clinic visits on **April 19, 2023**, **June 5, 2023**, and **August 14, 2023**. She was prescribed ondansetron 4 mg as needed for nausea mitigation, which provided only partial relief.
+- **Inadequate glycemic efficacy:** HbA1c at initiation of dulaglutide was **9.1%** (March 2023). After six months of therapy, repeat HbA1c on **September 18, 2023** was **8.6%** — a reduction of only 0.5%, well below the clinically meaningful threshold of ≥1.0% typically expected with GLP-1 receptor agonist therapy in this patient population.
+- **No meaningful weight change:** Weight at initiation was 185 lbs (BMI 32.0 kg/m²). Weight at six-month follow-up remained 183 lbs — a clinically insignificant change of 2 lbs, with no sustained trend toward weight reduction.
+- **Injection site discomfort and patient preference conflict:** Patient documented repeated localized reactions at the injection site, contributing to declining adherence during months 4–6 of the trial.
+
+Given the combination of GI intolerability and inadequate clinical response at maximum tolerated dose after a six-month trial, dulaglutide was discontinued on **September 25, 2023** per shared decision-making and in accordance with ADA Standards of Medical Care guidelines recommending therapeutic modification when glycemic targets are not achieved.
+
+**Prior Diabetes Pharmacotherapy History (Chronological):**
+
+1. **Metformin 500 mg twice daily → 1000 mg twice daily** (January 2019 – present): Continues as background therapy. Partially effective; HbA1c improved from 10.2% to 9.1% over the first year but has plateaued. GI side effects (loose stools) are managed and tolerated at current dose.
+
+2. **Glipizide 5 mg daily → 10 mg daily** (February 2020 – November 2021): Trialed for 21 months. Discontinued due to recurrent hypoglycemic episodes (fasting glucose <70 mg/dL on multiple home readings confirmed at office visit on **November 3, 2021**) and weight gain of approximately 6 lbs over the trial period — counterproductive in the setting of obesity.
+
+3. **Sitagliptin (Januvia) 100 mg daily** (January 2022 – February 2023): Trialed for 13 months. Minimal glycemic benefit observed; HbA1c remained at 9.1% at the end of the trial period (February 2023 lab). Discontinued in favor of GLP-1 receptor agonist therapy given the additional weight-benefit profile needed in this patient.
+
+4. **Dulaglutide (Trulicity) 0.75 mg → 1.5 mg weekly** (March 2023 – September 2023): As detailed above — tried and failed due to inadequate efficacy and GI intolerability.
+
+**Non-Pharmacologic Interventions Documented:**
+- Dietitian referral placed and completed: **Initial visit February 14, 2022**; follow-up visits documented on **May 9, 2022**, **August 3, 2022**, and **December 7, 2022.** Dietary counseling focused on carbohydrate counting, caloric restriction, and Mediterranean diet principles. Partial compliance achieved; no sustained weight reduction.
+- Structured exercise program: Patient enrolled in a medically supervised exercise program at our affiliated wellness center beginning **March 1, 2022**, with documented participation through **September 2022** (6 months). Exercise logs reviewed

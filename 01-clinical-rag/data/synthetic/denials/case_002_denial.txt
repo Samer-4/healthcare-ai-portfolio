@@ -1,8 +1,8 @@
 # UnitedHealthcare
 **UnitedHealthcare Insurance Company**
 3100 AMS Boulevard | Green Bay, WI 54313
-Customer Service: 1-866-892-4964 | Provider Services: 1-800-842-5252
-Fax: 1-866-547-1510 | www.uhc.com
+Member Services: 1-866-892-5890 | Provider Services: 1-866-574-6088
+Fax: 1-866-412-0087 | www.uhcprovider.com
 
 ---
 
@@ -11,22 +11,22 @@ Fax: 1-866-547-1510 | www.uhc.com
 
 ---
 
-**Date:** June 13, 2025
-**Reference Number:** PA-2025-061300847213
-**UHC Plan:** UnitedHealthcare Choice Plus (Commercial)
+**Date:** June 17, 2025
+**Reference Number:** PA-2025-06-UHC-884421
+**UHC Plan:** UnitedHealthcare Choice Plus
 
 ---
 
-**Member Information**
+**MEMBER INFORMATION**
 **Member Name:** Robert M. Okafor
 **Member ID / MRN:** MRN-100235
-**Date of Birth:** On file
-**Plan ID:** UHC-CHPL-2025
+**Date of Birth:** On File
+**Plan Name:** UnitedHealthcare Choice Plus
 
-**Requesting Provider**
-**Prescribing Physician:** Andrew Kim, MD — Endocrinology
+**PRESCRIBING PROVIDER INFORMATION**
+**Prescribing Physician:** Dr. Andrew Kim, MD — Endocrinology
 **NPI:** 1922048173
-**Practice Address:** On file
+**Fax:** On File
 
 ---
 
@@ -34,45 +34,34 @@ Fax: 1-866-547-1510 | www.uhc.com
 
 Dear Robert M. Okafor and Dr. Andrew Kim, MD,
 
-UnitedHealthcare has completed its clinical review of the prior authorization request submitted on behalf of **Robert M. Okafor (MRN-100235)** for the following medication:
+UnitedHealthcare has completed its review of the prior authorization request submitted on behalf of **Robert M. Okafor (MRN-100235)** for the following medication:
 
-| Field | Detail |
-|---|---|
-| **Drug Requested** | Tirzepatide (Zepbound) 2.5 mg subcutaneous injection, titration to maintenance dose |
-| **Requested Quantity** | 4 pens/28-day supply |
-| **Indication Submitted** | Chronic weight management in obesity |
-| **Authorization Request Date** | June 9, 2025 |
-| **Determination Date** | June 13, 2025 |
+> **Drug Requested:** Tirzepatide (Zepbound) 2.5 mg subcutaneous injection, weekly
+> **Requested Indication:** Chronic weight management / Obesity (ICD-10: E66.01)
+> **Authorization Request Date:** June 10, 2025
+
+After careful clinical review, UnitedHealthcare has determined that the requested service **does not meet criteria for coverage** under the applicable benefit plan at this time. This request is therefore **DENIED** as **Not Medically Necessary** as defined by the member's benefit plan.
 
 ---
 
-## DETERMINATION: **DENIED — NOT MEDICALLY NECESSARY**
+## CLINICAL POLICY CITATION
 
-Following review by a UnitedHealthcare Medical Director, board-certified in **Endocrinology**, this request has been **denied**. The requested medication does not meet UnitedHealthcare's applicable coverage criteria as set forth in:
+This determination was made in accordance with:
 
-> **Clinical Policy Bulletin No. 0580** — *Obesity and Weight Loss Medications*
-> **Effective Date:** January 1, 2025 | **Last Reviewed:** March 15, 2025
+- **UnitedHealthcare Clinical Policy Bulletin No. CPB-0580.00:** *Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists and Glucose-Dependent Insulinotropic Polypeptide (GIP)/GLP-1 Receptor Agonists for Obesity and Weight Management* (Effective: January 1, 2025; Reviewed: April 2025)
+- **UnitedHealthcare Coverage Determination Guideline CDG-2024.WM.017:** *Weight Management Pharmacotherapy — Step Therapy and Documentation Requirements*
+- Member's applicable **Certificate of Coverage (COC)** — Medical Necessity Definition, Section 7, Paragraph 4
 
 ---
 
-## CLINICAL BASIS FOR DENIAL
+## REASON FOR DENIAL
 
-UnitedHealthcare's Clinical Policy Bulletin 0580 requires that **all** of the following criteria be satisfied for coverage of tirzepatide (Zepbound) for chronic weight management:
+UnitedHealthcare's clinical review team, including a licensed physician reviewer board-certified in Internal Medicine, has evaluated the submitted clinical documentation and determined that the request for **tirzepatide (Zepbound)** does not meet the plan's medical necessity criteria for the following reasons:
 
-**1. Body Mass Index (BMI) Threshold — Criterion Met**
-The member's documented BMI of **35 kg/m²** meets the minimum threshold requirement (BMI ≥ 30, or ≥ 27 with at least one qualifying weight-related comorbidity).
+**1. Incomplete Step Therapy Requirements**
 
-**2. Documented Comorbidity — Criterion Met**
-The member has a documented diagnosis of **hypertension**, which constitutes a qualifying weight-related comorbidity under CPB 0580, Section III.B.2.
+Pursuant to Clinical Policy Bulletin CPB-0580.00, coverage of tirzepatide (Zepbound) for chronic weight management requires documented evidence of an adequate trial and failure of, contraindication to, or intolerance of **at least one prior FDA-approved weight management pharmacotherapy agent** from a different drug class (e.g., phentermine/topiramate [Qsymia], naltrexone/bupropion [Contrave], or orlistat). The clinical documentation submitted does not demonstrate that the member has completed a step therapy trial of a clinically appropriate first-line weight management agent at adequate dosing for a minimum of **twelve (12) consecutive weeks**.
 
-**3. Prior Documented Participation in a Structured, Supervised Behavioral Modification Program — Criterion NOT Met**
-CPB 0580, Section III.B.4 requires documentation of **at least six (6) consecutive months** of participation in a **comprehensive, medically supervised weight management program** within the preceding **24 months**, inclusive of all of the following components:
+**2. Insufficient Documentation of Qualifying Comorbid Conditions Directly Attributed to Obesity**
 
-- Reduced-calorie dietary intervention supervised or prescribed by a licensed healthcare professional
-- Structured physical activity program with documented participation
-- Behavioral counseling provided by a qualified behavioral health provider or registered dietitian
-
-The clinical documentation submitted in support of this request does not demonstrate participation in, or completion of, a qualifying supervised weight management program meeting the above criteria. The submitted records reference a general recommendation for diet and exercise by the treating physician but do not include documentation of formal enrollment, attendance records, or outcomes data from a qualifying structured program.
-
-**4. Failure of Prior Pharmacological Therapy — Criterion NOT Met**
-CPB 0580, Section III.B.5 requires documentation that the member has had an **inadequate clinical response** (defined as less than 5% reduction in body weight over 12 weeks at the maximum
+While the submitted records confirm a current **BMI of 35 kg/m²** and a diagnosis of **hypertension (ICD-10: I10)**, the clinical documentation does not include sufficient evidence establishing that the member's hypertension is inadequately controlled despite ongoing antihypertensive therapy, nor does it demonstrate that the patient's weight is a direct and primary contributing factor to an obesity-

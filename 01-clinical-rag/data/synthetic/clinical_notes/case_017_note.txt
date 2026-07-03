@@ -1,0 +1,99 @@
+**PRIMARY CARE PROGRESS NOTE**
+
+---
+
+**PATIENT:** Dorothy A. Kline
+**MRN:** MRN-100250
+**DATE OF VISIT:** 10/14/2024
+**PROVIDER:** Dr. Steven Barlow, MD — Internal Medicine
+**NPI:** 1738405926
+
+---
+
+## CHIEF COMPLAINT
+
+Follow-up for type 2 diabetes management and weight; patient presenting for reassessment following insurance denial of GLP-1 receptor agonist therapy.
+
+---
+
+## SUBJECTIVE
+
+Ms. Kline is a 63-year-old female with a history of type 2 diabetes (E11.9), bilateral knee osteoarthritis (M17.0), and obesity (E66.09) who presents today for ongoing diabetes and weight management. Patient reports persistent difficulty with glycemic control despite current oral regimen. She endorses fatigue, increased thirst, and difficulty with sustained physical activity, which she attributes in part to bilateral knee pain limiting her mobility.
+
+Patient reports that she was previously on metformin for her diabetes. She states she did not tolerate it well and discontinued use, though she was unable to recall the specific dose or exactly how long she remained on the medication. She denies current use of any other antidiabetic agents at this time.
+
+Patient also reports that she has made efforts toward lifestyle modification, including dietary changes and attempts at increased physical activity. She references working on her diet "for a while" but is unable to provide specific program enrollment dates, formal dietary counseling records, or a structured exercise log. Knee pain has been a barrier to consistent aerobic exercise.
+
+She expresses interest in initiating semaglutide (Rybelsus) to assist with both glycemic control and modest weight reduction, with the hope that weight loss may secondarily reduce mechanical load on her knees.
+
+No known drug allergies. No history of pancreatitis, medullary thyroid carcinoma, or MEN2.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 138/84 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.4°F
+- Respiratory Rate: 16 breaths/min
+- Weight: 181 lbs
+- Height: 5'4"
+- BMI: 31 kg/m²
+- SpO₂: 97% on room air
+
+**Physical Examination:**
+
+*General:* Alert, well-appearing female in no acute distress.
+
+*Cardiovascular:* Regular rate and rhythm; no murmurs, rubs, or gallops appreciated.
+
+*Pulmonary:* Clear to auscultation bilaterally.
+
+*Abdomen:* Soft, non-tender, non-distended; no organomegaly.
+
+*Musculoskeletal:* Patient reports bilateral knee pain with ambulation. Mild tenderness to palpation noted over the medial joint lines bilaterally. Range of motion somewhat limited by discomfort. No acute effusion documented on today's exam.
+
+*Neurological:* Grossly intact.
+
+**Recent Laboratory Data (on file):**
+- HbA1c: 8.1% (drawn approximately 6 weeks prior to today's visit)
+- Fasting glucose: 172 mg/dL
+- BMP and LFTs: within normal limits
+- eGFR: 68 mL/min/1.73m²
+
+---
+
+## ASSESSMENT
+
+1. **E11.9 — Type 2 diabetes mellitus without complications:** Suboptimally controlled based on HbA1c of 8.1%. Patient has limited tolerance for prior oral agents per her report, though formal documentation of prior trials is incomplete in the chart.
+
+2. **E66.09 — Other obesity:** BMI 31 kg/m². Weight is a contributing factor to both metabolic and orthopedic burden. Patient acknowledges prior lifestyle efforts; however, structured program participation is not formally documented.
+
+3. **M17.0 — Bilateral primary osteoarthritis of knee:** Symptomatic, limiting patient's ability to engage in weight-bearing exercise. Severity has not been formally staged with recent imaging on file today.
+
+---
+
+## PLAN
+
+1. **GLP-1 Receptor Agonist — Semaglutide (Rybelsus / oral semaglutide):** Requesting initiation of Rybelsus 3 mg orally once daily for 30 days, with planned uptitration to 7 mg daily, for the management of type 2 diabetes (E11.9) and as an adjunct to weight management (E66.09). Clinical rationale includes suboptimal glycemic control on prior therapy, BMI of 31 with obesity as a comorbid condition, and the potential ancillary benefit of weight reduction on bilateral knee osteoarthritis. Patient is an appropriate candidate given absence of contraindications.
+
+2. **Step Therapy History:** Patient reports a prior trial of metformin. The specific dose and duration of metformin therapy are not fully documented in the current chart. No records of formal step therapy completion with an alternative second-line agent (e.g., SGLT-2 inhibitor, sulfonylurea) are available in today's encounter documentation.
+
+3. **Lifestyle Modification:** Patient counseled again today on the importance of dietary adherence and physical activity as tolerated given knee limitations. Formal referral to a structured medical nutrition therapy program or diabetes education program to be considered at next visit.
+
+4. **Bilateral Knee Osteoarthritis:** Continue conservative management. Consider obtaining updated bilateral knee X-rays to formally assess severity. NSAIDs discussed with caution given renal function (eGFR 68).
+
+5. **Diabetes Monitoring:** Repeat HbA1c in 3 months. Continue home glucose monitoring. Patient instructed on signs and symptoms of hypoglycemia.
+
+6. **Follow-up:** Return to clinic in 6–8 weeks or sooner if concerns arise.
+
+---
+
+**Electronically signed by:**
+**Dr. Steven Barlow, MD**
+Internal Medicine
+NPI: 1738405926
+Date: 10/14/2024
+
+*Note: This documentation is intended to support prior authorization review for semaglutide (Rybelsus) for patient Dorothy A. Kline, MRN-100250.*

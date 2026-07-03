@@ -1,0 +1,22 @@
+{
+  "case_id": "case_020",
+  "patient_name": "Alyssa M. Tr\u1ea7n",
+  "patient_mrn": "MRN-100253",
+  "payer": "UnitedHealthcare",
+  "drug": "liraglutide (Saxenda)",
+  "denial_reason": "insufficient_documentation",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_020_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_020_denial.txt",
+  "patient_age": 26,
+  "patient_bmi": 36,
+  "diagnoses": [
+    "E66.01",
+    "E28.2"
+  ],
+  "comorbidities": [
+    "obesity",
+    "PCOS"
+  ]
+}

@@ -5,6 +5,7 @@
   "payer": "Aetna",
   "drug": "semaglutide (Wegovy)",
   "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "strong_appeal",
   "filename": "case_001_note.txt",
   "note_type": "progress_note",
   "denial_file": "case_001_denial.txt",

@@ -1,0 +1,24 @@
+{
+  "case_id": "case_030",
+  "patient_name": "Tiffany S. Okonkwo",
+  "patient_mrn": "MRN-100263",
+  "payer": "BlueCross BlueShield",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_030_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_030_denial.txt",
+  "patient_age": 31,
+  "patient_bmi": 37,
+  "diagnoses": [
+    "E66.01",
+    "E28.2",
+    "R73.03"
+  ],
+  "comorbidities": [
+    "obesity",
+    "PCOS",
+    "prediabetes"
+  ]
+}

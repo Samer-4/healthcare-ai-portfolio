@@ -1,76 +1,92 @@
 # PRIMARY CARE PROGRESS NOTE
-**Prior Authorization Support Documentation — GLP-1 Agonist Therapy**
 
 ---
 
-## PATIENT / DATE / PROVIDER
-
-| | |
-|---|---|
-| **Patient Name:** | Maria T. Reyes |
-| **MRN:** | MRN-100236 |
-| **Date of Birth:** | (Age 38, Female) |
-| **Date of Visit:** | June 12, 2025 |
-| **Visit Type:** | Office Visit — Established Patient, Chronic Disease Management |
-| **Provider:** | Dr. Priya Nandakumar, MD — Family Medicine |
-| **NPI:** | 1685720349 |
-| **Facility:** | Primary Care Associates |
+**PATIENT:** Maria T. Reyes
+**MRN:** MRN-100236
+**DATE OF VISIT:** 2025-07-14
+**PROVIDER:** Dr. Priya Nandakumar, MD — Family Medicine
+**NPI:** 1685720349
+**VISIT TYPE:** Office Visit — Established Patient, Chronic Disease Management
 
 ---
 
 ## CHIEF COMPLAINT
 
-"I've been trying everything to lose weight and control my blood sugar, but nothing has worked well enough. I'm worried about developing diabetes."
+"I'm trying to lose weight and my blood sugar keeps creeping up. I want to talk about the medication my friend is on."
 
 ---
 
 ## SUBJECTIVE
 
-Ms. Maria T. Reyes is a 38-year-old female presenting today for follow-up of prediabetes and class I obesity. She was first diagnosed with prediabetes (HbA1c 6.1%) in March 2023 and has been followed closely since that time. Her weight has progressively increased over the past four years, with a peak weight of 192 lbs recorded in January 2025. She reports a longstanding history of difficulty with weight management, attributing contributing factors to a sedentary occupational environment (desk-based administrative work), disrupted sleep due to a young child at home, and a family history of type 2 diabetes mellitus in her mother (diagnosed at age 45) and maternal uncle.
+Ms. Reyes is a 38-year-old female with a history of prediabetes and obesity who presents today for follow-up regarding ongoing difficulties with weight management and glycemic control. She reports sustained efforts to modify her diet and increase physical activity over the past several months, though she has not achieved significant or sustained weight reduction. She states she feels frustrated with her progress and is concerned about progressing to type 2 diabetes given her family history (mother with T2DM, diagnosed in her early 40s).
 
-**Review of Prior Treatment Attempts:**
+Patient reports she was previously tried on metformin for weight management and glucose regulation, though she did not tolerate it well and discontinued use. She does not recall the exact dose or how long she was on it. She denies current use of any prescription weight loss agents. She reports fatigue, difficulty with portion control, and increased appetite, particularly in the evenings. No polyuria, polydipsia, or blurred vision reported. She denies cardiovascular symptoms.
 
-1. **Structured Dietary Intervention (April 2023 – October 2023):** Patient was referred to a registered dietitian (RD) and completed a formal 6-month medical nutrition therapy program. She followed a reduced-calorie Mediterranean-style diet targeting a 500–750 kcal/day deficit. Total weight loss achieved: 4 lbs (approximately 2% total body weight). She reported difficulty sustaining caloric restriction due to persistent hunger and cravings. HbA1c remained at 6.1% at the end of this period.
-
-2. **Supervised Exercise Program (May 2023 – November 2023):** Concurrent with dietary intervention, patient enrolled in a supervised behavioral weight management program incorporating 150 minutes per week of moderate-intensity aerobic exercise as recommended per ADA and USPSTF guidelines. Patient demonstrated good adherence (attendance logs reviewed). Weight loss was minimal and not sustained beyond the program duration.
-
-3. **Metformin Trial (November 2023 – August 2024):** Given persistent prediabetes with no meaningful glycemic improvement and ongoing weight gain, metformin 500 mg orally twice daily was initiated for prediabetes management and modest weight benefit. Dose was titrated to 1000 mg twice daily by February 2024. Patient tolerated the medication but experienced persistent gastrointestinal side effects (nausea, loose stools) at the higher dose and was returned to 500 mg twice daily in April 2024. At 9-month follow-up (August 2024), HbA1c had not improved significantly (6.2%) and weight had increased by 3 lbs from baseline. Metformin was discontinued in August 2024 due to inadequate therapeutic benefit and patient preference to discontinue given GI intolerance.
-
-4. **Continued Lifestyle Modification (September 2024 – present):** Patient has continued best-effort dietary and activity modifications independently, including meal planning and daily step-count goals (8,000–10,000 steps/day). Despite sustained effort, repeat HbA1c in March 2025 was 6.3%, indicating progressive glycemic deterioration toward type 2 diabetes, and her weight increased to 192 lbs (BMI 33 kg/m²).
-
-**Current Symptoms:** Patient reports fatigue, persistent hunger despite adequate caloric intake, difficulty with satiety, and significant psychosocial distress related to her inability to lose weight and the fear of progressing to type 2 diabetes. She denies polyuria, polydipsia, or blurry vision at this time. She denies history of pancreatitis, personal or family history of medullary thyroid carcinoma or MEN2 syndrome, and has no known contraindications to GLP-1 receptor agonist therapy.
-
-**Medications (current):** None (metformin discontinued August 2024 as noted above).
-
-**Allergies:** NKDA.
-
-**Social History:** Non-smoker, occasional alcohol (1–2 drinks per week), works full-time in administrative role. Married with one young child.
-
-**Family History:** Mother — type 2 diabetes (dx age 45); maternal uncle — type 2 diabetes; no family history of thyroid malignancy.
+She states she has made lifestyle changes including dietary modifications and walking, but is unable to provide specific details regarding frequency, duration, or a structured program enrollment.
 
 ---
 
 ## OBJECTIVE
 
-**Vitals (June 12, 2025):**
-
-| Parameter | Value |
-|---|---|
-| Blood Pressure | 126/80 mmHg |
-| Heart Rate | 78 bpm, regular |
-| Respiratory Rate | 16 breaths/min |
-| Temperature | 98.4°F (36.9°C) |
-| Weight | 192 lbs (87.1 kg) |
-| Height | 5'5" (165.1 cm) |
-| **BMI** | **33.0 kg/m²** |
-| Oxygen Saturation | 98% on room air |
+**Vitals:**
+- Blood Pressure: 124/80 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.4°F
+- Respiratory Rate: 16 breaths/min
+- Weight: 193 lbs
+- Height: 5'4"
+- **BMI: 33.1 kg/m²** (Class I Obesity)
+- SpO2: 99% on room air
 
 **Physical Examination:**
 
-- **General:** Well-appearing female, in no acute distress, pleasant and cooperative.
-- **HEENT:** Normocephalic, atraumatic; oropharynx clear; thyroid non-palpable, no nodules or tenderness noted.
-- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
-- **Pulmonary:** Clear to auscultation bilaterally; no wheezes or crackles.
-- **Abdomen:** Soft, non-tender, non-distended; central adiposity noted on inspection; no hepatomegaly.
-- **Extremities:** No edema; peripheral pulses intact bilaterally.
-- **Skin:** Acanthosis nigricans noted at the posterior neck and bilateral axillae, consistent with insulin resistance.
+*General:* Alert, well-appearing female in no acute distress.
+
+*Cardiovascular:* Regular rate and rhythm, no murmurs.
+
+*Abdomen:* Soft, non-tender, no hepatosplenomegaly appreciated. Central adiposity noted on inspection.
+
+*Extremities:* No edema. No acanthosis nigricans documented on today's exam.
+
+*Laboratory (most recent available on file):*
+- HbA1c: 6.1% (noted in chart; prior result referenced, date of draw not confirmed in today's encounter)
+- Fasting glucose: elevated, per patient report at prior visit
+- Lipid panel: pending at time of this note
+
+---
+
+## ASSESSMENT
+
+1. **R73.09 — Other Abnormal Glucose** *(Prediabetes)*
+Ms. Reyes continues to meet criteria for prediabetes based on available glycemic data. She has a significant family history of type 2 diabetes mellitus and has not achieved meaningful improvement in glucose trends. Risk of progression remains a clinical concern; however, formal interval HbA1c trending over defined time period is not fully documented in today's encounter.
+
+2. **E66.01 — Morbid (Severe) Obesity Due to Excess Calories**
+Patient's BMI is 33.1 kg/m², consistent with Class I obesity. She has comorbid prediabetes compounding metabolic risk. Prior pharmacologic and non-pharmacologic interventions have been attempted with limited success, though documentation of structured program participation and prior medication specifics is incomplete at this time.
+
+---
+
+## PLAN
+
+1. **Medication Requested: Semaglutide (Ozempic) 0.25 mg subcutaneous injection weekly, with standard titration per prescribing guidelines.**
+
+*Clinical Rationale:* Ms. Reyes presents with Class I obesity (BMI 33.1 kg/m²) in the setting of a documented comorbidity of prediabetes (R73.09), placing her within a population that may derive meaningful metabolic benefit from GLP-1 receptor agonist therapy. Semaglutide is being requested to address both weight reduction and glycemic risk mitigation. The patient has a prior failed trial of metformin (dose and duration not fully documented in today's chart) and reports ongoing but unstructured lifestyle modification efforts. Given her elevated cardiovascular metabolic risk profile, pharmacologic augmentation is felt to be clinically appropriate at this juncture.
+
+2. **Labs:** Order repeat HbA1c, fasting lipid panel, CMP, and fasting insulin level. Results to be reviewed at follow-up.
+
+3. **Nutrition referral** placed to outpatient dietitian; patient encouraged to pursue structured dietary counseling.
+
+4. **Return to clinic** in 8–12 weeks or sooner if concerns arise.
+
+5. **Patient education** provided regarding prediabetes progression risk, importance of weight management, and medication expectations if prior authorization is approved.
+
+---
+
+## SIGNATURE
+
+**Dr. Priya Nandakumar, MD**
+Family Medicine
+NPI: 1685720349
+Electronically signed: 2025-07-14 at 16:42
+
+*Note: This document was generated for clinical records pertaining to patient Maria T. Reyes, MRN-100236, in support of prior authorization request for semaglutide (Ozempic).*

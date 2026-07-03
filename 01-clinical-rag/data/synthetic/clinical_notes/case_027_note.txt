@@ -1,0 +1,83 @@
+# SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Brandon T. Ellison
+**MRN:** MRN-100260
+**DOB:** [1989] | **Age:** 35 | **Sex:** Male
+**Referring Provider:** Primary Care Physician (on file)
+**Consulting Physician:** Dr. Yolanda Pierce, MD — Bariatric Medicine
+**NPI:** 1275839406
+**Consult Date:** July 14, 2025
+**Facility:** [Bariatric Medicine Clinic]
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. Ellison was referred for bariatric medicine evaluation and management of morbid obesity (BMI 43 kg/m²) with associated comorbidities including obstructive sleep apnea and non-alcoholic fatty liver disease. The purpose of this visit is to establish care and discuss pharmacologic weight management options, specifically to assess candidacy for GLP-1/GIP receptor agonist therapy with tirzepatide (Zepbound).
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Brandon T. Ellison is a 35-year-old male with a longstanding history of morbid obesity who presents today as a new patient to the bariatric medicine clinic. He reports that his weight has increased progressively over the past decade, with the most significant acceleration occurring over the last three to four years. He currently weighs approximately 284 lbs at a height of 5'8", yielding a BMI of 43 kg/m². He describes multiple failed attempts at sustained weight loss through dietary modification and increased physical activity, reporting that he has worked with a registered dietitian informally but has never been enrolled in a formal, structured behavioral weight loss program. He has not previously been prescribed any pharmacologic agents for weight management. He denies prior bariatric surgical evaluation.
+
+His obesity-related comorbidities are notable and include obstructive sleep apnea (G47.33), diagnosed approximately two years ago via polysomnography, for which he was prescribed CPAP therapy; he reports inconsistent compliance with CPAP use. He was also found to have elevated liver enzymes and hepatic steatosis on abdominal ultrasound performed in March 2025, consistent with non-alcoholic fatty liver disease (K76.0, NAFLD without fibrosis confirmed on imaging). He has no current diagnosis of type 2 diabetes mellitus or prediabetes; a hemoglobin A1c obtained in April 2025 was 5.6%, placing him at the upper limit of normal. Fasting glucose at that time was 98 mg/dL. He has no established cardiovascular disease, no prior myocardial infarction, no heart failure, and no prior stroke or TIA documented in his record.
+
+Mr. Ellison presents today motivated to pursue medical weight management and is specifically requesting tirzepatide (Zepbound). He acknowledges awareness of the medication from direct-to-consumer advertising. He denies a personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2. He reports no prior exposure to GLP-1 receptor agonist therapy, orlistat, phentermine/topiramate, naltrexone/bupropion, or any other FDA-approved weight management pharmacotherapy. He has not trialed any of these agents in the past nor has there been documentation of intolerance, contraindication, or treatment failure with covered weight loss pharmacotherapy alternatives. No prior authorization for any weight loss medication has been submitted or approved in his medical history.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Morbid obesity (E66.01) — longstanding, onset adolescence
+2. Obstructive sleep apnea (G47.33) — diagnosed 2023, on CPAP (inconsistent use)
+3. Non-alcoholic fatty liver disease (K76.0) — diagnosed March 2025, no cirrhosis
+4. No history of type 2 diabetes mellitus
+5. No established cardiovascular disease
+6. No prior bariatric surgery
+7. No known drug allergies
+
+---
+
+## CURRENT MEDICATIONS
+
+1. CPAP therapy — prescribed for OSA, reported inconsistent nightly use
+2. No prescription medications currently active
+3. No prior weight loss pharmacotherapy (no orlistat, phentermine, topiramate, naltrexone/bupropion, liraglutide, semaglutide, or tirzepatide)
+4. Multivitamin — OTC, daily
+5. Vitamin D 1,000 IU — OTC, daily
+
+---
+
+## REVIEW OF SYSTEMS
+
+- **Constitutional:** Fatigue, difficulty with sustained physical exertion; no fever or chills
+- **Cardiovascular:** Denies chest pain, palpitations, dyspnea on exertion at rest; mild exertional dyspnea with significant activity
+- **Pulmonary:** Snoring, witnessed apneic episodes per partner; daytime somnolence
+- **Gastrointestinal:** Occasional reflux symptoms; no nausea, vomiting, dysphagia, or abdominal pain; no history of pancreatitis
+- **Endocrine:** No polyuria, polydipsia; no history of thyroid disease
+- **Musculoskeletal:** Bilateral knee discomfort with prolonged ambulation
+- **Psychiatric:** Reports low mood related to body image; no formal psychiatric diagnosis; no active suicidality
+- **Neurological:** No headaches, dizziness, or focal neurological symptoms
+
+---
+
+## PHYSICAL EXAMINATION
+
+**Vital Signs:**
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 84 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F (oral)
+- SpO₂: 97% on room air
+- Height: 5'8" (172.7 cm)
+- Weight: 284 lbs (128.9 kg)
+- **BMI: 43 kg/m²**
+
+**General:** Well-appearing male, morbidly obese, in no acute distress. Alert and oriented ×3.
+
+**Head/Eyes/Ears/Nose/Throat:** Normocephalic, atraumatic. Oropharynx patent. Neck circumference increased; no thyromegaly or cervical lymphadenopathy palpated.
+
+**Cardiovascular:** Regular rate

@@ -1,0 +1,92 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Alyssa M. Trần
+**MRN:** MRN-100253
+**Date of Service:** 2025-07-14
+**Provider:** Dr. Janet Moreau, MD — Family Medicine
+**NPI:** 1849263057
+**Visit Type:** Office Visit — Established Patient
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been struggling with my weight for years and my periods are still irregular. My other doctor mentioned a weight loss injection might help."
+
+---
+
+## SUBJECTIVE
+
+Ms. Trần is a 26-year-old female with a history of morbid obesity (E66.01) and polycystic ovarian syndrome (E28.2) who presents today for follow-up and to discuss initiation of pharmacologic weight management. She reports ongoing difficulty with weight loss despite her stated efforts to modify her diet and increase physical activity. She endorses fatigue, irregular menstrual cycles occurring approximately every 45–60 days, and difficulty with satiety. She denies binge eating disorder diagnosis but acknowledges difficulty controlling portion sizes.
+
+Regarding prior treatment attempts, the patient reports she was previously prescribed **metformin** at some point to help with PCOS-related metabolic concerns, though she does not recall the exact dose or how long she took it, and states she was not consistent with taking it. She endorses having tried lifestyle modifications including dietary changes, though she is unable to specify a formal structured program, start date, or duration of participation. She reports she may have lost a small amount of weight initially but regained it.
+
+She has not previously been prescribed any GLP-1 receptor agonist. She denies personal or family history of medullary thyroid carcinoma or MEN2 syndrome. No known drug allergies. She is not currently pregnant and is using barrier contraception.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 124/78 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.4°F
+- Respiratory Rate: 16 breaths/min
+- Height: 5'4" (162.6 cm)
+- Weight: 210 lbs (95.3 kg)
+- **BMI: 36 kg/m²**
+- SpO₂: 99% on room air
+
+**Physical Examination:**
+- **General:** Well-appearing young woman in no acute distress, mildly overweight habitus noted
+- **HEENT:** Normocephalic, atraumatic; no thyromegaly appreciated on palpation
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops
+- **Abdomen:** Soft, non-tender; central adiposity present; no hepatosplenomegaly appreciated
+- **Skin:** Mild acanthosis nigricans noted at the posterior neck; no hirsutism documented on today's examination
+- **Musculoskeletal:** No edema of bilateral lower extremities
+
+**Relevant Recent Laboratory Data (on file, drawn 2025-05-XX — exact date not noted in today's chart pull):**
+- Fasting glucose: 98 mg/dL
+- HbA1c: 5.6%
+- TSH: within normal limits (exact value not available at today's visit)
+- Lipid panel: on file, specific values not reviewed today
+- Pelvic ultrasound findings: referenced in prior OB/GYN note confirming PCOS morphology — report not available for direct review at this encounter
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+   BMI 36 kg/m² in a 26-year-old female. Obesity is contributing to metabolic dysregulation and exacerbating hormonal imbalance. Patient has not achieved sustained weight loss with lifestyle efforts to date.
+
+2. **E28.2 — Polycystic ovarian syndrome**
+   Known diagnosis, contributing to irregular menstruation and likely insulin resistance. Acanthosis nigricans on exam is consistent with underlying insulin resistance in the setting of PCOS, though formal insulin resistance testing not completed at today's visit. Severity of PCOS sequelae not fully characterized in current documentation.
+
+---
+
+## PLAN
+
+1. **Pharmacologic Weight Management — GLP-1 Receptor Agonist Request:**
+   Requesting prior authorization for **liraglutide (Saxenda) 3.0 mg subcutaneous injection daily** for the management of chronic obesity in the setting of PCOS-related metabolic dysfunction.
+
+   *Clinical Rationale:* Ms. Trần has a BMI of 36 kg/m², meeting criteria for obesity pharmacotherapy. She carries a comorbid diagnosis of PCOS (E28.2), for which weight reduction has documented benefit in improving hormonal regulation and menstrual cyclicity. GLP-1 receptor agonists, specifically liraglutide, have demonstrated efficacy in weight reduction and have emerging evidence supporting benefit in PCOS populations. Lifestyle modification has been attempted per patient report, though formal structured program documentation is not available at this time. Prior pharmacologic therapy with metformin was reportedly attempted; dosing and duration of prior metformin trial are not confirmed in current chart records.
+
+   *Dose Titration Plan:* Initiate liraglutide 0.6 mg subcutaneous daily x 1 week, titrating by 0.6 mg weekly to a target dose of 3.0 mg daily as tolerated per standard protocol.
+
+2. **Laboratory Follow-Up:**
+   - Order repeat fasting insulin and fasting glucose to formally evaluate insulin resistance
+   - Repeat HbA1c, comprehensive metabolic panel, and lipid panel
+   - Obtain pelvic ultrasound report from OB/GYN for inclusion in chart
+
+3. **Lifestyle Counseling:**
+   - Counseled patient on the importance of sustained dietary changes and physical activity as adjuncts to pharmacologic therapy
+   - Referred to nutritional counseling — referral order placed today
+
+4. **PCOS Management:**
+   - Continue to coordinate care with OB/GYN regarding menstrual irregularity
+   - Metformin consideration to be revisited pending updated labs and confirmation of prior trial details
+
+5. **Follow-Up:**
+   - Return to clinic in 4–6 weeks to assess liraglutide tolerability and titration progress, or sooner if concerns

@@ -1,0 +1,101 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Emily J. Kowalski
+**MRN:** MRN-100246
+**DATE OF VISIT:** 2024-10-14
+**PROVIDER:** Dr. Anita Desai, MD — Family Medicine
+**NPI:** 1316248790
+**VISIT TYPE:** Office Visit — Follow-up / Prior Authorization Support
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been trying to lose weight for years and nothing is working. My doctor mentioned there's a medication that could help."
+
+---
+
+## SUBJECTIVE
+
+Ms. Kowalski is a 29-year-old female with a longstanding history of morbid obesity (BMI 41 kg/m²) and major depressive disorder who presents today for follow-up regarding weight management and to discuss pharmacologic options following Cigna's denial of semaglutide (Wegovy) on grounds of non-formulary status.
+
+Patient reports a history of difficulty with weight management dating back to early adolescence. She endorses persistent fatigue, low energy, and reduced motivation to engage in physical activity, which she attributes in part to her underlying depression. She notes that her mood symptoms have made it especially difficult to maintain consistent dietary habits.
+
+Regarding prior treatment attempts, patient reports she was previously trialed on phentermine at some point in the past, though she was unable to recall the exact prescribing provider or clinic. She states she did not tolerate it well due to increased heart rate and anxiety and discontinued it. No documentation of the prescribing encounter was available for review at today's visit. Duration and dose of prior phentermine course are not confirmed in current chart.
+
+Patient states she has "tried dieting" and has made some efforts toward lifestyle modification, including changes to her eating habits. She did not provide specific dietary plans, caloric targets, or structured program enrollment. No formal referral to a registered dietitian is documented in the current chart.
+
+She denies current suicidal ideation and is being followed separately for her MDD, currently managed by an outside provider. She reports her mood remains "low most days," which continues to affect her functional status and adherence to wellness goals.
+
+She denies tobacco use, alcohol use, or illicit drug use. Family history is significant for obesity and type 2 diabetes in a first-degree relative (mother).
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+- Weight: 241 lbs
+- Height: 5'4"
+- **BMI: 41 kg/m²** (Class III Obesity)
+- SpO2: 98% on room air
+
+**General:** Alert and oriented x3, pleasant, mildly dysthymic affect noted
+**Cardiovascular:** Regular rate and rhythm, no murmurs appreciated
+**Respiratory:** Clear to auscultation bilaterally
+**Abdomen:** Soft, obese, non-tender, no organomegaly appreciated on exam
+**Musculoskeletal:** No edema of the lower extremities
+**Psychiatric:** Mood reported as depressed; affect congruent; no psychomotor agitation or retardation observed at today's visit
+
+*Note: No recent HbA1c, fasting lipid panel, or hepatic function labs are present in the current chart for review.*
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+Patient presents with Class III obesity with BMI of 41 kg/m², meeting diagnostic threshold. Weight has not demonstrated sustained reduction despite patient-reported lifestyle efforts. Obesity is further complicated by psychiatric comorbidity impacting adherence to behavioral interventions.
+
+2. **F33.1 — Major depressive disorder, recurrent, moderate**
+Ongoing depressive symptoms managed externally. Mood disorder contributes to functional impairment and presents a barrier to structured weight loss programming. Severity of current depressive episode not fully characterized by standardized scoring (PHQ-9 not administered today).
+
+3. **Z68.41 — Body mass index 40.0–44.9, adult**
+BMI 41 documented at today's encounter.
+
+---
+
+## PLAN
+
+**Medication Requested:** Semaglutide 2.4 mg subcutaneous weekly (Wegovy) — initiating at 0.25 mg SC weekly per standard titration schedule, with planned uptitration per manufacturer protocol over approximately 16–20 weeks.
+
+**Clinical Rationale:**
+Ms. Kowalski carries a diagnosis of morbid obesity (BMI 41 kg/m²) with a comorbid major depressive disorder, both of which substantively contribute to her difficulty achieving and maintaining clinically meaningful weight loss through conventional means. GLP-1 receptor agonist therapy with semaglutide is indicated as an adjunct to reduced-calorie diet and increased physical activity in adults with an initial BMI ≥30 kg/m². This patient meets BMI criteria with significant margin.
+
+Patient was previously trialed on phentermine (dose and duration not confirmed in chart) with intolerance due to cardiovascular side effects, limiting utility of other available stimulant-based pharmacologic agents. Given the interplay between obesity and her depressive disorder, and the paucity of well-tolerated alternatives that have demonstrated efficacy at this BMI level, semaglutide is felt to be the most clinically appropriate next step.
+
+**Prior Therapies Attempted:**
+- Phentermine — patient-reported trial; tolerability issues (tachycardia, anxiety); dose and duration not confirmed in current chart
+- Lifestyle modification — patient endorses dietary changes; no formal structured program documented
+
+**Formulary Concern:**
+Cigna has denied semaglutide (Wegovy) as non-formulary. It is my clinical opinion that the formulary alternatives have not been demonstrated to be appropriate or tolerable for this patient given her history. Appeal is being submitted on clinical necessity grounds.
+
+**Additional Orders:**
+- Fasting metabolic panel, HbA1c, lipid panel ordered
+- Referral to registered dietitian to be placed (pending)
+- PHQ-9 to be completed at next visit
+- Follow-up in 4–6 weeks or sooner as needed
+
+---
+
+**Electronically signed by:**
+
+**Dr. Anita Desai, MD**
+Family Medicine
+NPI: 1316248790
+Date/Time: 2024

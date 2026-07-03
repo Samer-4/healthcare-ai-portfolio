@@ -1,0 +1,92 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Nicole B. Harrington
+**MRN:** MRN-100257
+**DATE OF VISIT:** 2024-11-14
+**PROVIDER:** Dr. Marcus Feldman, MD — Family Medicine
+**NPI:** 1750392468
+**VISIT TYPE:** Office Visit — Established Patient / Prior Authorization Support
+
+---
+
+## CHIEF COMPLAINT
+
+Patient presents for follow-up of obesity, prediabetes, and right knee osteoarthritis. Visit also addresses recent denial of prior authorization for semaglutide (Wegovy) by BlueCross BlueShield.
+
+---
+
+## SUBJECTIVE
+
+Nicole B. Harrington is a 44-year-old female with a longstanding history of obesity (BMI 36 kg/m²), prediabetes, and right knee osteoarthritis who presents today to discuss her ongoing struggle with weight management and to provide supporting documentation for her GLP-1 receptor agonist therapy request.
+
+Patient reports she has been attempting to lose weight for several years. She notes difficulty with sustained physical activity secondary to right knee pain, which she describes as a 5–6/10 in severity on most days, worsening with prolonged standing or ambulation. She states the knee pain significantly limits her ability to exercise consistently, though she reports making "dietary changes" in recent months to reduce caloric intake. The specifics and duration of these dietary modifications were not formally documented in a structured program.
+
+Regarding prior pharmacologic treatment, the patient reports a prior trial of **phentermine**, which was discontinued due to side effects including palpitations and insomnia. Dose and exact duration of phentermine trial are not available in the current chart; patient recalls it was "a while ago" and that she did not tolerate it well. No formal obesity management program enrollment is documented in this chart.
+
+She endorses fatigue and increased thirst intermittently, consistent with her known prediabetes. She denies frank polyuria, polydipsia, or symptoms of overt hyperglycemia at this time. Most recent HbA1c is noted in her chart, though no value from the current encounter is available for reference.
+
+No history of pancreatitis, thyroid cancer, or MEN2 syndrome. No current use of insulin or other glucose-lowering agents.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 78 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+- Weight: 214 lbs
+- Height: 5'5"
+- **BMI: 36 kg/m²**
+- SpO₂: 98% on room air
+
+**General:** Well-appearing female in no acute distress. Alert and oriented ×3.
+
+**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops appreciated.
+
+**Musculoskeletal:** Right knee with mild palpable tenderness along the medial joint line. Range of motion mildly reduced with pain at end-range flexion. No effusion noted on cursory exam. Gait mildly antalgic on right.
+
+**Abdomen:** Soft, obese, non-tender, non-distended. No hepatosplenomegaly.
+
+**Psychiatric/Behavioral:** Patient appears motivated and engaged. No signs of eating disorder behavior noted.
+
+*Note: No formal dietary or exercise logs reviewed at this visit. No structured behavioral health consultation documented.*
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+   Patient with BMI of 36 kg/m², consistent with Class II obesity. Weight significantly impacts functional status and exacerbates right knee osteoarthritis. Prior pharmacologic attempt documented (phentermine; details incomplete). Lifestyle modification efforts reported by patient but not formally tracked.
+
+2. **M17.11 — Primary osteoarthritis, right knee**
+   Ongoing right knee pain limits the patient's capacity for weight-bearing exercise, creating a cyclical barrier to weight reduction. Severity not quantified by formal functional scoring or recent imaging on file at this visit.
+
+3. **R73.03 — Prediabetes**
+   Patient at elevated risk for progression to type 2 diabetes mellitus in the setting of persistent obesity. Glycemic monitoring in place; specific lab values not available at today's encounter.
+
+---
+
+## PLAN
+
+1. **Semaglutide (Wegovy) — REQUEST FOR INITIATION**
+   - **Proposed dose:** 0.25 mg SQ weekly × 4 weeks (per standard titration protocol), with planned escalation to target dose of 2.4 mg SQ weekly
+   - **Clinical rationale:** Patient has Class II obesity (BMI 36) with significant weight-related comorbidities including prediabetes (R73.03) and right knee osteoarthritis (M17.11), the latter of which mechanically impairs her ability to participate in high-intensity physical activity. Weight reduction via GLP-1 receptor agonist therapy is expected to reduce articular load, improve glycemic trajectory, and address the underlying disease burden. Semaglutide (Wegovy) is specifically indicated for chronic weight management in adults with BMI ≥30 or BMI ≥27 with at least one weight-related comorbidity, both of which criteria are met here.
+   - **Prior therapy:** Patient previously trialed phentermine, which was discontinued secondary to cardiovascular side effects (palpitations) and insomnia. Specific dose and duration of phentermine use not confirmed in available chart documentation at this visit.
+   - BCBS has indicated coverage of alternative agents. Patient did not tolerate prior sympathomimetic therapy. Requesting reconsideration given documented comorbidity burden and prior treatment failure.
+
+2. **Prediabetes management:** Continue monitoring. Reinforce low-glycemic dietary habits. Repeat HbA1c at next scheduled visit.
+
+3. **Right knee osteoarthritis:** Continue conservative management. Referral to physical therapy considered; deferred pending weight management intervention to reduce joint load.
+
+4. **Lifestyle counseling:** Patient encouraged to continue dietary modifications. Referral to a registered dietitian discussed; patient to follow up for formal nutritional counseling scheduling.
+
+5. **Return to clinic:** 4–6 weeks or sooner if medication initiated or if symptoms worsen.
+
+---
+
+**Electronically signed by:**
+**Dr. Marcus

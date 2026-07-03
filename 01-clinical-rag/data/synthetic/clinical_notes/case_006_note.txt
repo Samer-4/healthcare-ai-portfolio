@@ -2,65 +2,59 @@
 
 ---
 
-**PATIENT:** Sandra K. Williams | **MRN:** MRN-100239
-**DOB:** [07/14/1975] | **Age:** 49 | **Sex:** Female
-**Referring Provider:** Primary Care Physician (on file)
-**Consulting Physician:** Dr. Michael Ferraro, MD — Endocrinology, NPI 1957403812
-**Consult Date:** June 12, 2025
-**Location:** Outpatient Endocrinology Clinic
+**PATIENT:** Sandra K. Williams
+**MRN:** MRN-100239
+**DATE OF BIRTH:** [DOB on file — Age 49]
+**SEX:** Female
+**DATE OF CONSULTATION:** June 18, 2025
+**REFERRING PROVIDER:** Dr. Angela Marsh, MD (Primary Care), NPI 1346872091
+**CONSULTING PHYSICIAN:** Dr. Michael Ferraro, MD (Endocrinology), NPI 1957403812
+**FACILITY:** Westbrook Endocrinology Associates
+**INSURANCE:** Cigna (Member ID on file)
 
 ---
 
 ## REASON FOR CONSULTATION
 
-Ms. Sandra K. Williams is a 49-year-old female with established diagnoses of hypothyroidism (E03.9) and Class II obesity (E66.01), BMI 36 kg/m², referred for endocrinology evaluation and initiation of adjunctive pharmacotherapy for chronic obesity management. This note is submitted in support of a prior authorization request for tirzepatide (Zepbound) and serves specifically to document completion of required step therapy, addressing Cigna's denial on the basis of step_therapy_not_completed.
+Ms. Williams was referred by her primary care physician for endocrinology evaluation and management of class II obesity (BMI 36 kg/m²) in the setting of hypothyroidism. This consultation note is also submitted in direct support of a formal appeal of Cigna's denial of prior authorization for tirzepatide (Zepbound) on the basis of step therapy not completed. As detailed herein, Ms. Williams has in fact completed an adequate, well-documented step therapy course with multiple pharmacologic agents at appropriate doses and durations, each of which was either ineffective or not tolerated. Further delays in initiating appropriate pharmacotherapy carry real clinical risk and are not medically justifiable.
 
 ---
 
 ## HISTORY OF PRESENT ILLNESS
 
-Ms. Williams is a 49-year-old woman with a multi-year history of obesity complicated by underlying hypothyroidism, who presents for ongoing management of her weight and metabolic health. Her current BMI is 36 kg/m², placing her firmly in the Class II obesity category. She reports a longstanding struggle with weight management dating back more than a decade, predating her hypothyroidism diagnosis. Her thyroid disease (E03.9) is currently managed with levothyroxine 100 mcg daily, with TSH confirmed within normal limits on labs drawn April 2025 (TSH 1.82 mIU/L), effectively ruling out undertreated hypothyroidism as a primary driver of her persistent obesity. Despite biochemically euthyroid status, she has been unable to achieve or sustain clinically meaningful weight loss, consistent with the well-established multifactorial pathophysiology of obesity in this population.
+Ms. Sandra K. Williams is a 49-year-old woman with a longstanding history of hypothyroidism and obesity who presents for endocrinology consultation regarding medical management of her weight. She has struggled with progressive weight gain over the past 12 years, with a documented peak weight of 218 lbs (BMI 36 kg/m²) recorded in January 2025. Her thyroid function has been monitored closely and her hypothyroidism is currently well controlled on levothyroxine 100 mcg daily, with a most recent TSH of 1.8 mIU/L (March 2025), effectively excluding undertreated hypothyroidism as the sole driver of her weight. Despite thyroid optimization, she has continued to gain approximately 6–8 lbs per year over the past three years and has been unable to achieve or sustain meaningful weight reduction through lifestyle measures alone.
 
-Over the past 24 months, Ms. Williams has been enrolled in a structured, multimodal weight management program through her primary care practice. This program included individualized medical nutrition therapy with a registered dietitian (initiated January 2023, ongoing through present), a supervised physical activity program (150–300 minutes of moderate-intensity aerobic activity per week, initiated February 2023), and behavioral health counseling targeting weight-related behaviors and emotional eating patterns (initiated March 2023, ongoing). Despite consistent engagement with these interventions — documented across serial clinic visits — her weight has remained essentially stable, with a net loss of fewer than 3 kg over 18 months, representing a clinically inadequate response to lifestyle modification alone. She explicitly denies noncompliance and her attendance records corroborate active participation.
+Ms. Williams has engaged in a structured, multidisciplinary weight management program through her primary care clinic. She was enrolled in a supervised low-calorie dietary program with formal dietitian counseling, which she initiated in February 2023 and continued through August 2023 (six months of documented participation). During this period she achieved a maximum weight loss of 9 lbs, which was entirely regained within four months of program completion. She subsequently participated in a supervised exercise program (three sessions per week, monitored by a certified exercise physiologist) from October 2023 through March 2024, with minimal sustained weight loss of 4 lbs at program end and full weight regain by July 2024. With respect to pharmacologic step therapy, Ms. Williams was started on orlistat 120 mg three times daily with meals in September 2023 (overlapping with continued dietary intervention). After 16 weeks of therapy through January 2024, she achieved less than 2% total body weight loss and reported significant GI intolerability — including fecal urgency, oily stool, and fecal incontinence — which substantially impaired her quality of life and occupational functioning. Orlistat was discontinued in January 2024 on these grounds.
 
-In addition to lifestyle intervention, Ms. Williams has a documented history of two prior pharmacologic weight management trials. She was initiated on orlistat 120 mg three times daily with meals in August 2023. She continued this therapy for approximately five months (through January 2024), during which time she experienced persistent gastrointestinal adverse effects — specifically oily spotting, fecal urgency, and abdominal cramping — that significantly impaired her quality of life and adherence to her nutritional plan. Net weight change over this period was less than 2 kg. Orlistat was discontinued in January 2024 due to both intolerance and inadequate efficacy. Subsequently, she was trialed on phentermine/topiramate extended-release (Qsymia), initiated at 3.75 mg/23 mg daily for 14 days then titrated to 7.5 mg/46 mg daily in March 2024. She completed six months of therapy at the maintenance dose (through September 2024). While she initially tolerated the medication, she experienced dose-limiting cognitive side effects including word-finding difficulty and memory impairment, which interfered with her professional responsibilities. Furthermore, total weight loss achieved was approximately 4.1 kg (approximately 3.5% of body weight), which falls well below the threshold of ≥5% considered clinically meaningful at six months per current obesity pharmacotherapy guidelines. Phentermine/topiramate ER was discontinued in September 2024 given inadequate response compounded by neurocognitive tolerability concerns.
+Following the failure of orlistat, her PCP initiated phentermine/topiramate extended-release (Qsymia) 3.75 mg/23 mg daily in April 2024, titrated to the maintenance dose of 7.5 mg/46 mg by May 2024. Ms. Williams remained on this regimen through October 2024 (approximately six months at therapeutic dose). She achieved a modest 4.5 lb reduction in weight but subsequently developed paresthesias in bilateral upper extremities, word-finding difficulty, and mood lability, adverse effects consistent with the known topiramate component. These symptoms prompted discontinuation of phentermine/topiramate in October 2024. Bupropion/naltrexone (Contrave) was subsequently trialed beginning December 2024, titrated per protocol to 16 mg/180 mg twice daily by January 2025. After 14 weeks of therapy through March 2025, she experienced no clinically meaningful weight loss (net change: +0.8 lbs) and reported persistent nausea, headache, and dizziness that did not resolve with continued use. Contrave was discontinued in March 2025. She is now referred for consideration of a GLP-1/GIP receptor agonist, specifically tirzepatide (Zepbound), as the next appropriate step in evidence-based obesity pharmacotherapy.
 
 ---
 
 ## PAST MEDICAL HISTORY
 
-1. Hypothyroidism (E03.9) — diagnosed 2018, managed medically
-2. Class II Obesity (E66.01) — chronic, present for >10 years
-3. No prior bariatric surgical history
-4. No known cardiovascular disease, type 2 diabetes, or obstructive sleep apnea (though the latter has not been formally excluded with polysomnography)
+1. Hypothyroidism, unspecified (E03.9) — diagnosed 2011, on stable thyroid replacement
+2. Obesity, morbid (severe), due to excess calories (E66.01) — BMI 36 kg/m², longstanding
+3. Dyslipidemia — on statin therapy
+4. No prior bariatric surgery
+5. No personal or family history of medullary thyroid carcinoma or MEN2 (relevant to GLP-1/GIP safety review)
 
 ---
 
 ## CURRENT MEDICATIONS
 
-1. Levothyroxine 100 mcg orally once daily (thyroid replacement)
-2. Multivitamin with iron — one tablet orally once daily
-3. Vitamin D3 2,000 IU orally once daily
+| Medication | Dose | Frequency | Indication |
+|---|---|---|---|
+| Levothyroxine | 100 mcg | Once daily (AM, fasting) | Hypothyroidism |
+| Atorvastatin | 20 mg | Once daily (PM) | Dyslipidemia |
+| Vitamin D3 | 2,000 IU | Once daily | Insufficiency prophylaxis |
+| Calcium carbonate | 500 mg | Twice daily | Supplementation |
 
-*Discontinued medications relevant to this request:*
-- Orlistat 120 mg TID — discontinued January 2024 (GI intolerance, inadequate efficacy)
-- Phentermine/topiramate ER 7.5 mg/46 mg daily — discontinued September 2024 (neurocognitive side effects, insufficient weight loss response)
+*No current anti-obesity pharmacotherapy. Orlistat, phentermine/topiramate ER, and bupropion/naltrexone all previously trialed and discontinued as documented above.*
 
 ---
 
 ## REVIEW OF SYSTEMS
 
-- **Constitutional:** Fatigue present; no fever or chills
-- **Endocrine:** Denies polyuria, polydipsia, heat/cold intolerance; thyroid function biochemically euthyroid
-- **Cardiovascular:** No chest pain, palpitations, or lower extremity edema
-- **Gastrointestinal:** Denies active nausea, vomiting, diarrhea, or constipation; history of GI intolerance to orlistat as noted
-- **Neurological:** Word-finding difficulty and memory complaints previously attributed to topiramate, resolved since discontinuation
-- **Psychiatric/Behavioral:** Reports frustration and demoralization related to chronic weight management failure; no active major depressive disorder or suicidality
-- **Musculoskeletal:** Bilateral knee discomfort with prolonged ambulation, attributed to excess body weight
-- **Genitourinary:** Perimenopausal symptoms reported; last menstrual period irregular
-
----
-
-## PHYSICAL EXAMINATION
-
-**Vit
+**Constitutional:** Fatigue, persistent despite euthyroid state. No fever or chills.
+**Endocrine:** Well-controlled hypothyroidism; no heat or cold intolerance; no polyuria or polydipsia.
+**Gastrointestinal:** Denies current nausea

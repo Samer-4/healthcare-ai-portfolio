@@ -1,29 +1,33 @@
 ---
 
-**🔔 New Message – Action May Be Required**
+**🔔 New Update on Your Prior Authorization Request**
+**Case Reference: PA-2024-887341**
 
-**Subject:** Prior Authorization Decision – Tirzepatide (Zepbound)
-**Reference / Case #:** PA-2024-887341
+---
+
+**Medication:** Tirzepatide (Zepbound) 2.5 mg weekly injection
+**Requested by:** Dr. Michael Ferraro, MD — Endocrinology (NPI 1957403812)
 **Member:** Sandra K. Williams | MRN-100239
-**Requested by:** Dr. Michael Ferraro, MD – Endocrinology | NPI 1957403812
-**Date of Decision:** December 3, 2024
+**Decision Date:** November 14, 2024
 
 ---
 
-**Authorization Status: ❌ DENIED**
-**Denial Reason:** Step Therapy Requirement Not Met
+**Status: ❌ DENIED — Step Therapy Requirements Not Met**
 
 ---
 
-Your request for **Zepbound (tirzepatide)** has been reviewed and cannot be approved at this time. Our plan requires that members first try at least one preferred weight management medication (such as orlistat or phentermine/topiramate) for a minimum of 90 days before Zepbound may be covered. Our records do not show a completed trial of a required step therapy medication for this indication.
-
-Your doctor may be able to request an **exception or appeal** if there is a clinical reason you cannot use a step therapy medication.
+Our review found that your plan requires trying at least one covered first-line weight management medication (such as orlistat or phentermine/topiramate) before Zepbound can be approved. Records submitted by Dr. Ferraro's office do not show a documented trial of a required step therapy medication. Zepbound may be reconsidered once a qualifying trial has been completed and documented.
 
 ---
 
-📋 **[View Full Denial Details & Appeal Options](#)**
-📋 **[Submit an Appeal or Exception Request](#)**
+**What You Can Do Next:**
 
-Questions? Call Member Services at **1-800-244-6224** (TTY 711), Mon–Fri 8am–8pm local time.
+- 📄 [View Full Coverage Decision & Clinical Criteria](#)
+- 🔁 [Submit an Appeal or Exception Request](#)
+- 📞 Call Member Services: **1-800-CIGNA-24**
+
+Appeals must be submitted within **180 days** of this notice.
+
+*Logged in as: Sandra K. Williams | MRN-100239*
 
 ---

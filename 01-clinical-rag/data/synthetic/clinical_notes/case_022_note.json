@@ -1,0 +1,24 @@
+{
+  "case_id": "case_022",
+  "patient_name": "Gloria P. Mendoza",
+  "patient_mrn": "MRN-100255",
+  "payer": "Kaiser Permanente",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_022_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_022_denial.txt",
+  "patient_age": 50,
+  "patient_bmi": 39,
+  "diagnoses": [
+    "E66.01",
+    "I10",
+    "E78.5"
+  ],
+  "comorbidities": [
+    "obesity",
+    "hypertension",
+    "hyperlipidemia"
+  ]
+}

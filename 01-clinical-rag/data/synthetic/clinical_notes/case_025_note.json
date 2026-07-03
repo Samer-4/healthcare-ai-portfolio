@@ -1,0 +1,23 @@
+{
+  "case_id": "case_025",
+  "patient_name": "Antonio V. Russo",
+  "patient_mrn": "MRN-100258",
+  "payer": "Cigna",
+  "drug": "liraglutide (Saxenda)",
+  "denial_reason": "quantity_limit_exceeded",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_025_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_025_denial.txt",
+  "patient_age": 39,
+  "patient_bmi": 40,
+  "diagnoses": [
+    "E66.01",
+    "I10",
+    "Z68.41"
+  ],
+  "comorbidities": [
+    "morbid obesity",
+    "hypertension"
+  ]
+}

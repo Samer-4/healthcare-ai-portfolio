@@ -1,74 +1,83 @@
 ---
 
-**CIGNA HEALTHCARE**
-525 W. Monroe Street, Suite 300
-Chicago, IL 60661
-Member Services: 1-800-244-6224
-Provider Services: 1-800-88-Cigna (1-800-882-4462)
-Fax: 1-866-744-8791
-www.cigna.com
+# CIGNA HEALTHCARE
+**Utilization Management Division**
+900 Cottage Grove Road
+Bloomfield, CT 06002
+**Phone:** 1-800-244-6224 | **Fax:** 1-860-226-2206
+**www.cigna.com**
 
 ---
 
-**NOTICE OF ADVERSE BENEFIT DETERMINATION – PRIOR AUTHORIZATION DENIAL**
-
-**Date:** July 14, 2025
-**Reference Number:** PA-2025-0714-8843021
-**Clinical Policy Bulletin:** CPB 0580 – GLP-1 Receptor Agonists: Criteria for Coverage
+**DATE:** June 17, 2025
+**REFERENCE NUMBER:** UM-2025-06-PA-8841073
+**DETERMINATION TYPE:** Prior Authorization — **ADVERSE BENEFIT DETERMINATION (DENIAL)**
 
 ---
 
-**MEMBER INFORMATION**
-**Member Name:** Marcus A. Thompson
+**TO:**
+Dr. Christine Poulos, MD
+Gastroenterology
+NPI: 1520639487
+
+**RE: PATIENT INFORMATION**
+**Patient Name:** Marcus A. Thompson
 **Member ID / MRN:** MRN-100244
 **Date of Birth:** [DOB on file]
-**Plan Name:** Cigna Open Access Plus (OAP)
-**Group Number:** [Group on file]
+**Plan Name:** Cigna Connect 3000 — Commercial Group Plan
+**Group Number:** [Group Number on file]
 
 ---
 
-**PRESCRIBING PROVIDER INFORMATION**
-**Prescribing Physician:** Dr. Christine Poulos, MD
-**Specialty:** Gastroenterology
-**NPI:** 1520639487
-**Practice Address:** [Address on file]
+## NOTICE OF ADVERSE BENEFIT DETERMINATION
+
+Dear Dr. Poulos,
+
+Cigna Healthcare has completed a review of the prior authorization request submitted on behalf of your patient, **Marcus A. Thompson (MRN-100244)**, for the medication identified below. After careful clinical review, Cigna has made the following determination:
+
+> **AUTHORIZATION STATUS: DENIED — NOT MEDICALLY NECESSARY AS SUBMITTED / OFF-LABEL USE NOT SUPPORTED**
 
 ---
 
-**DRUG REQUESTED**
-**Medication:** Semaglutide 0.5 mg/1 mg subcutaneous injection (Ozempic®)
-**Requested Dose/Frequency:** As submitted per prior authorization request
-**Requested Duration:** 12 months
-**Diagnosis Code(s) Submitted:** K76.0 (Non-Alcoholic Fatty Liver Disease), E66.09 (Other Obesity, Overweight)
+### MEDICATION REQUESTED
+
+| Field | Detail |
+|---|---|
+| **Drug Name** | Semaglutide (Ozempic® 0.5 mg/1 mg/2 mg subcutaneous injection) |
+| **Manufacturer** | Novo Nordisk |
+| **Requested Indication (as submitted)** | Treatment of non-alcoholic fatty liver disease (NAFLD) |
+| **Requested Duration** | 12 months |
+| **Route of Administration** | Subcutaneous injection, weekly |
+| **HCPCS/NDC** | NDC 0169-4137-15 |
 
 ---
 
-## NOTICE OF DENIAL
+### CLINICAL INFORMATION REVIEWED
 
-Dear Dr. Christine Poulos and Marcus A. Thompson:
+Cigna's Utilization Management clinical team reviewed the following documentation submitted in connection with this request:
 
-Cigna Healthcare has completed its review of the prior authorization request submitted on behalf of **Marcus A. Thompson (MRN-100244)** for **semaglutide (Ozempic®)** and has determined that the requested service **does not meet Cigna's criteria for coverage** as outlined in **Clinical Policy Bulletin CPB 0580 – GLP-1 Receptor Agonists: Criteria for Coverage**, effective January 1, 2025.
-
-This determination was made by a licensed physician clinical reviewer with specialty training in internal medicine and pharmacotherapy.
+- Prior authorization request form dated June 13, 2025
+- Prescribing physician attestation submitted by Dr. Christine Poulos, MD (NPI: 1520639487)
+- Clinical notes indicating patient age 38, male
+- Documented BMI: **29.0 kg/m²** (classified as **overweight**, not obese per CDC and NIH criteria)
+- Diagnosis of **non-alcoholic fatty liver disease (NAFLD)**, ICD-10-CM: **K76.0**
+- No documentation of concurrent diagnosis of Type 2 Diabetes Mellitus (ICD-10: E11.xx)
+- No documentation of established cardiovascular disease
+- No documentation of prior trial and failure of lifestyle modification programs, hepatology-directed therapies, or other pharmacologic interventions for NAFLD
 
 ---
 
-### BASIS FOR DENIAL: OFF-LABEL USE / COVERAGE CRITERIA NOT MET
+### BASIS FOR DENIAL
 
-**Cigna's determination is that the requested use of semaglutide (Ozempic®) for the treatment of non-alcoholic fatty liver disease (NAFLD) in an overweight patient without a diagnosis of Type 2 Diabetes Mellitus constitutes an off-label use that does not meet the criteria for medical necessity under Cigna Clinical Policy Bulletin CPB 0580.**
+#### 1. Off-Label Use — Not a Cigna-Covered Indication for This Agent
 
-The clinical basis for this denial is as follows:
+Ozempic® (semaglutide injection) is approved by the U.S. Food and Drug Administration (FDA) for the following indications only:
 
-**1. FDA-Approved Indications Not Met**
-Semaglutide (Ozempic®) is approved by the U.S. Food and Drug Administration (FDA) solely for the following indications:
-- Adjunct to diet and exercise to improve glycemic control in adults with **Type 2 Diabetes Mellitus (T2DM)**
-- Reduction of the risk of major adverse cardiovascular events in adults with T2DM and established cardiovascular disease
+- **Adjunct to diet and exercise to improve glycemic control in adults with Type 2 Diabetes Mellitus**
+- **Reduction of risk of major adverse cardiovascular events (MACE) in adults with Type 2 Diabetes Mellitus and established cardiovascular disease**
 
-The submitted documentation does not reflect a diagnosis of Type 2 Diabetes Mellitus for Mr. Thompson. Accordingly, the primary FDA-approved indication for Ozempic® is not satisfied.
+The submitted request seeks authorization for semaglutide (Ozempic®) for the treatment of **non-alcoholic fatty liver disease (NAFLD)** in a patient **without a confirmed diagnosis of Type 2 Diabetes Mellitus**. This constitutes use of the medication for an indication that is **not approved by the FDA** for this specific agent and formulation and is therefore considered **off-label**.
 
-**2. Overweight Status Does Not Meet Weight Management Threshold**
-Cigna's CPB 0580 further recognizes coverage for GLP-1 receptor agonists indicated for chronic weight management (e.g., semaglutide 2.4 mg [Wegovy®]) in patients meeting **both** of the following criteria:
-- Body Mass Index (BMI) ≥ 30 kg/m², **OR** BMI ≥ 27 kg/m² with at least one weight-related comorbidity (e.g., hypertension, dyslipidemia, obstructive sleep apnea, or T2DM)
-- Enrollment in or referral to a concurrent structured diet and behavioral modification program
+Cigna's coverage policies do not provide benefits for off-label drug use unless the use is supported by sufficient clinical evidence published in peer-reviewed compendia or literature, and the use is consistent with Cigna's applicable Clinical Policy Bulletins. Based on current evidence review, this use does not meet that standard.
 
-The
+> **Note:** Oz

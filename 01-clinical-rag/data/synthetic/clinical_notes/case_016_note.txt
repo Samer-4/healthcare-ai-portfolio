@@ -1,0 +1,47 @@
+# NEPHROLOGY SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Walter H. Simmons | **MRN:** MRN-100249
+**DOB:** [on file] | **Age:** 67 | **Sex:** Male
+**Referring Provider:** Primary Care Physician (on file)
+**Consulting Physician:** Dr. Farida Osman, MD — Nephrology | NPI: 1902471835
+**Consult Date:** June 17, 2025
+**Location:** Nephrology Outpatient Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. Simmons is a 67-year-old male with established type 2 diabetes mellitus (E11.9), chronic kidney disease stage 3 (N18.3), and hypertension (I10) referred for nephrology co-management and specialist support of prior authorization appeal for tirzepatide (Mounjaro) following Humana denial on the basis of "not medically necessary." This consultation documents the medical necessity of GLP-1/GIP receptor agonist therapy in this patient, including objective comorbidity burden, failure of conservative measures, and the clinical urgency of advancing pharmacologic therapy to slow nephropathy progression.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Walter H. Simmons is a 67-year-old male with a longstanding history of type 2 diabetes mellitus (diagnosed 2011), chronic kidney disease stage 3 (eGFR most recently 42 mL/min/1.73m² on laboratory draw dated April 28, 2025), and poorly controlled hypertension presenting for nephrology consultation and appeal documentation following insurance denial of tirzepatide (Mounjaro). His BMI is currently 32 kg/m², meeting criteria for obesity (Class I), which in the setting of diabetic nephropathy represents an independent and additive risk factor for progressive renal function decline. His most recent HbA1c was 8.4% (April 28, 2025), reflecting suboptimal glycemic control despite current oral regimen. Urine albumin-to-creatinine ratio (UACR) on the same date was 148 mg/g, consistent with moderately increased albuminuria (A2 category), which in combination with his eGFR places him at high risk for CKD progression to stage 4–5 per KDIGO 2022 guidelines.
+
+Mr. Simmons has been under active dietary and lifestyle counseling since January 2023. He was formally referred to a registered dietitian (RD) for a structured medical nutrition therapy (MNT) program beginning February 2023, with six documented visits through August 2023 focusing on carbohydrate counting, sodium restriction, and caloric deficit targeting. Despite adherence to dietitian-directed dietary modifications, his weight declined only minimally (from 213 lbs to 208 lbs over 6 months, net loss of 5 lbs), his BMI remained above 31 kg/m², and his HbA1c showed no meaningful improvement (8.7% in February 2023 to 8.5% in August 2023). He was additionally enrolled in a supervised exercise program through the hospital-affiliated cardiac rehabilitation and wellness center from March 2023 through September 2023 (two to three sessions per week, 45 minutes per session of moderate-intensity aerobic and resistance training), with documented attendance logs. Despite this structured exercise intervention, sustained weight reduction was not achieved, and glycemic parameters remained above goal. His primary care physician documented these failures in the shared care record on September 14, 2023, noting that conservative non-pharmacologic measures had been exhausted without clinically meaningful benefit.
+
+Pharmacologically, metformin was initiated in 2011 at the time of diabetes diagnosis and was titrated to 1000 mg twice daily, a dose maintained through early 2024. However, given his declining eGFR (which fell below 45 mL/min/1.73m² on January 15, 2024 laboratory review), metformin was dose-reduced to 500 mg twice daily per FDA labeling and KDIGO guidance to mitigate lactic acidosis risk, with plans to discontinue entirely if eGFR falls below 30. Empagliflozin (Jardiance) 10 mg daily was trialed beginning October 2023 to provide both glycemic benefit and nephroprotective effect; however, the patient experienced recurrent symptomatic genital mycotic infections requiring two courses of antifungal therapy (documented November 2023 and January 2024) and subsequently developed a urinary tract infection (February 2024) attributed to glycosuria. Given these recurrent infectious complications and patient preference to discontinue, empagliflozin was stopped in March 2024. Sitagliptin (Januvia) 50 mg daily (renally dose-adjusted per CKD stage 3) was added in April 2024 and has been continued through present; however, HbA1c improvement has been modest at best (8.6% in July 2024, 8.4% in April 2025), and sitagliptin carries no demonstrated benefit on CKD progression, albuminuria reduction, or cardiovascular mortality reduction. The prescribing clinician and this consultant both concur that current therapy is insufficient to achieve guideline-recommended targets or to adequately attenuate nephropathy progression.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Type 2 diabetes mellitus — diagnosed 2011 (E11.9)
+2. Chronic kidney disease, stage 3, likely diabetic nephropathy — diagnosed 2019 (N18.3)
+3. Hypertension — diagnosed 2009 (I10)
+4. Obesity, Class I (BMI 32 kg/m²)
+5. Moderately increased albuminuria (UACR 148 mg/g, April 2025)
+6. Recurrent genitourinary infections on SGLT-2 inhibitor (2023–2024) — discontinued
+7. No history of pancreatitis
+8. No personal or family history of medullary thyroid carcinoma or MEN2 syndrome
+
+---
+
+## CURRENT MEDICATIONS
+
+1. Metformin 500 mg orally twice daily (renally adjusted, eGFR 42)
+2. Sitagliptin (Januvia) 50 mg orally once daily (renally adjusted)
+3. Lisinopril 10 

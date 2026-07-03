@@ -5,6 +5,7 @@
   "payer": "Aetna",
   "drug": "tirzepatide (Zepbound)",
   "denial_reason": "insufficient_documentation",
+  "appeal_tier": "strong_appeal",
   "filename": "case_008_denial.txt",
   "format": "formal_letter",
   "note_file": "case_008_note.txt"

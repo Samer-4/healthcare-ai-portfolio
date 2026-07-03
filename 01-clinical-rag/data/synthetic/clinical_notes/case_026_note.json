@@ -1,0 +1,24 @@
+{
+  "case_id": "case_026",
+  "patient_name": "Margaret E. O'Rourke",
+  "patient_mrn": "MRN-100259",
+  "payer": "Aetna",
+  "drug": "semaglutide (Rybelsus)",
+  "denial_reason": "not_medically_necessary",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_026_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_026_denial.txt",
+  "patient_age": 66,
+  "patient_bmi": 33,
+  "diagnoses": [
+    "E11.9",
+    "E78.2",
+    "I10"
+  ],
+  "comorbidities": [
+    "type 2 diabetes",
+    "mixed hyperlipidemia",
+    "hypertension"
+  ]
+}

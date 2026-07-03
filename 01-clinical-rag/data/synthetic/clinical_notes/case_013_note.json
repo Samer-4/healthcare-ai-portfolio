@@ -1,0 +1,23 @@
+{
+  "case_id": "case_013",
+  "patient_name": "Emily J. Kowalski",
+  "patient_mrn": "MRN-100246",
+  "payer": "Cigna",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "non_formulary",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_013_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_013_denial.txt",
+  "patient_age": 29,
+  "patient_bmi": 41,
+  "diagnoses": [
+    "E66.01",
+    "F33.1",
+    "Z68.41"
+  ],
+  "comorbidities": [
+    "morbid obesity",
+    "major depressive disorder"
+  ]
+}

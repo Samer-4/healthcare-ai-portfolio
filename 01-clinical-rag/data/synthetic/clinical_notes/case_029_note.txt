@@ -1,0 +1,84 @@
+# CARDIOLOGY CONSULTATION NOTE
+
+---
+
+**PATIENT:** Harold G. Weinstein
+**MRN:** MRN-100262
+**Date of Birth:** [DOB on file] | **Age:** 71 | **Sex:** Male
+**Referring Provider:** Primary Care Physician (on file)
+**Consulting Physician:** Dr. Sylvia Marchetti, MD — Cardiology | NPI 1815394027
+**Consult Date:** June 17, 2025
+**Location:** Outpatient Cardiology Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. Weinstein is a 71-year-old male with known coronary artery disease, overweight status, and hyperlipidemia presenting for cardiology follow-up and evaluation regarding initiation of semaglutide (Wegovy) for cardiovascular risk reduction and weight management.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Harold G. Weinstein is a 71-year-old male with an established diagnosis of chronic ischemic heart disease (I25.10), overweight status (E66.3, BMI 29 kg/m²), and hyperlipidemia (E78.5) who presents today for cardiology consultation to discuss the potential role of GLP-1 receptor agonist therapy, specifically semaglutide 2.4 mg subcutaneous weekly (Wegovy), as part of his cardiovascular risk management strategy. The patient has been followed in our cardiology clinic for the past three years in the setting of known coronary artery disease without a prior documented myocardial infarction or revascularization procedure on chart. He reports stable exertional tolerance, denying chest pain, dyspnea on exertion, or palpitations at the current visit. He does endorse mild fatigue with moderate activity, which he attributes to deconditioning.
+
+The patient's weight has remained relatively stable over the past 12 months, with a current BMI of 29 kg/m², placing him in the overweight category per CDC classification but below the threshold of obesity (BMI ≥ 30 kg/m²). He has not undergone a formal structured weight loss program and has not been prescribed or trialed any pharmacologic weight management agents to date. There is no documentation in the chart of prior use of orlistat, phentermine/topiramate, naltrexone/bupropion, or any other FDA-approved weight loss pharmacotherapy. He reports attempting dietary modifications independently, with modest and inconsistent adherence. His lipid panel has been managed with statin therapy, and his most recent LDL remains modestly elevated. His primary care provider raised the possibility of GLP-1 agonist therapy given emerging cardiovascular outcomes data (SELECT trial), and the patient was referred for cardiology input regarding appropriateness.
+
+From a cardiovascular standpoint, Mr. Weinstein does not carry a diagnosis of established atherosclerotic cardiovascular disease with a prior myocardial infarction, peripheral arterial disease, or stroke, which formed the basis of the SELECT trial's enrollment criteria for semaglutide's cardiovascular indication. His coronary artery disease designation reflects chronic ischemic heart disease without documented obstructive disease confirmed by angiography in the current chart. There is no prior history of heart failure with reduced ejection fraction, which would otherwise support use of other GLP-1 pathway agents. No contraindication to covered pharmacologic alternatives has been formally documented. The requested indication — weight management in a patient with BMI of 29 — does not meet the FDA-labeled indication for Wegovy (BMI ≥ 30, or ≥ 27 with a weight-related comorbidity), and no formal documentation of failed covered step-therapy alternatives exists in the medical record.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Chronic ischemic heart disease (I25.10) — diagnosed approximately 2021, managed medically
+2. Overweight (E66.3) — BMI 29 kg/m², longstanding
+3. Hyperlipidemia (E78.5) — on statin therapy
+4. Hypertension — managed with antihypertensive therapy
+5. No prior myocardial infarction on record
+6. No prior percutaneous coronary intervention or coronary artery bypass grafting
+7. No prior stroke or TIA
+8. No documented heart failure
+
+---
+
+## CURRENT MEDICATIONS
+
+1. Atorvastatin 40 mg orally once daily
+2. Aspirin 81 mg orally once daily
+3. Metoprolol succinate 25 mg orally once daily
+4. Lisinopril 10 mg orally once daily
+5. Amlodipine 5 mg orally once daily
+6. Multivitamin — daily
+
+*No prior GLP-1 receptor agonists, no prior weight loss pharmacotherapy documented in chart.*
+
+---
+
+## REVIEW OF SYSTEMS
+
+- **Constitutional:** Mild fatigue; no fever, no significant unintentional weight loss or gain
+- **Cardiovascular:** No chest pain, no angina, no palpitations, no lower extremity edema
+- **Pulmonary:** No dyspnea at rest; mild exertional limitation
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or abdominal pain; no personal or family history of medullary thyroid carcinoma or MEN2
+- **Endocrine:** No polydipsia, polyuria; no thyroid disease
+- **Neurological:** No syncope, dizziness, or focal neurological deficits
+- **Musculoskeletal:** Mild bilateral knee discomfort with prolonged ambulation
+- **Psychiatric:** Denies depression or anxiety
+
+---
+
+## PHYSICAL EXAMINATION
+
+**Vitals:**
+- Blood Pressure: 136/82 mmHg (right arm, seated)
+- Heart Rate: 68 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- SpO₂: 97% on room air
+- Weight: 185 lbs (83.9 kg)
+- Height: 5'8" (172.7 cm)
+- **BMI: 29 kg/m²**
+
+**General:** Well-appearing, well-nourished male in no acute distress. Alert and oriented ×3.
+
+**Head/Eyes/Ears/

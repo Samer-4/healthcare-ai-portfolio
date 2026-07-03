@@ -1,0 +1,52 @@
+# SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Barbara N. Fitzgerald
+**MRN:** MRN-100252
+**Date of Birth:** (Age 55, Female)
+**Consult Date:** June 17, 2025
+**Referring Provider:** Primary Care Physician (Internal Medicine)
+**Consulting Physician:** Dr. Hassan Qureshi, MD — Cardiology
+**NPI:** 1573820946
+**Insurance:** Cigna
+**Requested Medication:** Tirzepatide (Zepbound)
+
+---
+
+## REASON FOR CONSULTATION
+
+Ms. Fitzgerald is a 55-year-old female with established obesity (BMI 34 kg/m², ICD-10: E66.09), chronic coronary artery disease (ICD-10: I25.10), and hyperlipidemia (ICD-10: E78.5) referred for cardiologic evaluation and specialist support of a prior authorization appeal for tirzepatide (Zepbound) following denial by Cigna on the basis of "not medically necessary." This consultation is intended to document the medical necessity of GLP-1/GIP receptor agonist therapy in the context of significant obesity-related cardiovascular comorbidity, failed conservative measures, and clinical urgency driven by this patient's established atherosclerotic coronary artery disease.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Ms. Barbara Fitzgerald is a 55-year-old woman with a longstanding history of obesity, coronary artery disease, and hyperlipidemia who presents for cardiology consultation to support initiation of tirzepatide (Zepbound) as part of a comprehensive cardiovascular risk-reduction strategy. Her current BMI is 34 kg/m², placing her firmly within the Class I obesity range (E66.09). She carries a well-documented diagnosis of chronic ischemic heart disease (I25.10) confirmed by prior cardiac catheterization and stress imaging. Her treating cardiologist — the undersigned — is filing this consultation note in direct response to the insurance denial, as weight reduction in the setting of established coronary artery disease constitutes a high-priority, evidence-based clinical intervention.
+
+Ms. Fitzgerald has been engaged in structured, physician-supervised conservative weight management since January 2023. She was formally referred to a registered dietitian (RD) in January 2023 and completed a six-month supervised dietary counseling program through June 2023, with sessions occurring every two to four weeks. Her caloric targets were set at a 500–750 kcal/day deficit from her calculated total daily energy expenditure. Despite full compliance, she achieved only a 4.2 lb (1.9 kg) weight reduction over this period, representing less than 2% of her total body weight — well below the ≥5% threshold considered clinically meaningful for cardiovascular risk modification. She was simultaneously enrolled in a structured exercise program beginning February 2023, consisting of three sessions per week of supervised aerobic exercise (30–45 minutes moderate-intensity walking and cycling) through a cardiac rehabilitation-affiliated facility. This program was continued through August 2023. Despite adherence, her weight stabilized and then rebounded by October 2023, returning to her baseline of approximately 212 lbs. Her lipid panel during this period showed persistently elevated non-HDL cholesterol and LDL despite statin therapy, attributed in part to obesity-mediated dyslipidemia. Repeat attempts at dietary modification and caloric restriction from November 2023 through March 2025, including a re-referral to dietitian services in September 2024, have similarly failed to produce durable weight loss exceeding 3%.
+
+From a cardiovascular standpoint, Ms. Fitzgerald's obesity is a direct and materially significant contributor to her disease burden. Excess adiposity in the setting of established CAD accelerates adverse cardiac remodeling, worsens insulin resistance, promotes dyslipidemia, and increases systemic inflammation — all of which elevate her risk of major adverse cardiovascular events (MACE). The SELECT trial (2023) demonstrated a 20% relative risk reduction in MACE with semaglutide in patients with established ASCVD and overweight/obesity without diabetes, establishing a new standard of care for this patient population. Tirzepatide (a dual GIP/GLP-1 receptor agonist) has demonstrated superior weight loss efficacy compared to GLP-1 monotherapy in SURMOUNT trials (average 15–22.5% total body weight reduction), making it the most appropriate agent for a patient who has failed multiple conservative measures and carries the highest cardiovascular risk profile. The denial of this therapy on the grounds of medical non-necessity is, in this clinician's judgment, inconsistent with current evidence-based cardiovascular guidelines and represents a meaningful risk of patient harm.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Chronic coronary artery disease (I25.10) — diagnosed 2019, confirmed by cardiac catheterization demonstrating non-obstructive to mildly obstructive coronary atherosclerosis; most recent stress echocardiogram (March 2025) showed no inducible ischemia but preserved LV function with mild diastolic dysfunction
+2. Obesity, unspecified (E66.09) — BMI consistently 33–35 kg/m² over the past four years
+3. Hyperlipidemia (E78.5) — on statin therapy since 2019; persistent elevation of LDL and non-HDL despite pharmacotherapy
+4. Hypertension — on antihypertensive therapy, currently well-controlled
+5. Prediabetes (HbA1c 5.9% as of April 2025) — no formal diabetes diagnosis at this time
+6. No prior bariatric surgery
+7. No history of pancreatitis, thyroid malignancy, or MEN2 syndrome
+
+---
+
+## CURRENT MEDICATIONS
+
+1. Atorvastatin 40 mg oral — once daily (hyperlipidemia/CAD)
+2. Aspirin 81 mg oral — once daily (CAD, antiplatelet)
+3. Metoprolol succinate 50 mg oral — once daily (CAD/hypertension)
+4. Lisinopril 10 mg oral — once daily (hypertension/CAD)
+5. Ezetimibe 10 mg oral — once daily (adjunct lipid-lowering; added March 2024 due to inadequate LDL response on statin alone)
+6. No current GLP-1 or GIP receptor agon

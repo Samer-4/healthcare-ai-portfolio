@@ -1,0 +1,24 @@
+{
+  "case_id": "case_016",
+  "patient_name": "Walter H. Simmons",
+  "patient_mrn": "MRN-100249",
+  "payer": "Humana",
+  "drug": "tirzepatide (Mounjaro)",
+  "denial_reason": "not_medically_necessary",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_016_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_016_denial.txt",
+  "patient_age": 67,
+  "patient_bmi": 32,
+  "diagnoses": [
+    "E11.9",
+    "N18.3",
+    "I10"
+  ],
+  "comorbidities": [
+    "type 2 diabetes",
+    "chronic kidney disease stage 3",
+    "hypertension"
+  ]
+}

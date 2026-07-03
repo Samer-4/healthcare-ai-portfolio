@@ -1,0 +1,24 @@
+{
+  "case_id": "case_024",
+  "patient_name": "Nicole B. Harrington",
+  "patient_mrn": "MRN-100257",
+  "payer": "BlueCross BlueShield",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "alternative_covered",
+  "appeal_tier": "weak_appeal",
+  "filename": "case_024_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_024_denial.txt",
+  "patient_age": 44,
+  "patient_bmi": 36,
+  "diagnoses": [
+    "E66.01",
+    "M17.11",
+    "R73.03"
+  ],
+  "comorbidities": [
+    "obesity",
+    "right knee osteoarthritis",
+    "prediabetes"
+  ]
+}

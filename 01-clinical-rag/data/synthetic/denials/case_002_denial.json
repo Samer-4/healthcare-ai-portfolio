@@ -5,6 +5,7 @@
   "payer": "UnitedHealthcare",
   "drug": "tirzepatide (Zepbound)",
   "denial_reason": "not_medically_necessary",
+  "appeal_tier": "strong_appeal",
   "filename": "case_002_denial.txt",
   "format": "formal_letter",
   "note_file": "case_002_note.txt"

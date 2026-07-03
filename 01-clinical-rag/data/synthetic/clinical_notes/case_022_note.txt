@@ -1,0 +1,34 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Gloria P. Mendoza
+**MRN:** MRN-100255
+**DATE OF SERVICE:** 2025-01-15
+**PROVIDER:** Dr. Timothy Rourke, MD — Internal Medicine
+**NPI:** 1596047283
+**FACILITY:** Kaiser Permanente Internal Medicine Clinic
+
+---
+
+## CHIEF COMPLAINT
+
+Follow-up for morbid obesity, hypertension, and hyperlipidemia; appeal of prior authorization denial for semaglutide (Wegovy) 2.4 mg subcutaneous weekly; denial reason cited as "step therapy not completed." This note is being generated to document in full the comprehensive step therapy history completed by this patient prior to the GLP-1 request.
+
+---
+
+## SUBJECTIVE
+
+Ms. Gloria P. Mendoza is a 50-year-old female with a longstanding history of Class II morbid obesity (BMI 39 kg/m²), essential hypertension, and mixed hyperlipidemia who presents today for ongoing management of these conditions and to support appeal of the above-referenced prior authorization denial. The patient and I have been working collaboratively for more than three years to achieve clinically meaningful and sustained weight reduction. I am documenting the full step therapy history below to directly counter the denial.
+
+**Structured Lifestyle Intervention (Supervised Diet and Exercise Program):**
+Ms. Mendoza was enrolled in a supervised, structured weight management program through our Lifestyle Medicine department from **March 2022 through September 2022** (6 months). This program included weekly dietary counseling, caloric restriction targeting a 500–750 kcal/day deficit, and a supervised aerobic and resistance exercise regimen (150–300 minutes per week of moderate-intensity activity). She was also concurrently referred to a registered dietitian (RD), with documented visits occurring on **2022-03-10, 2022-05-04, 2022-07-19, and 2022-09-07**. Despite consistent participation and self-reported adherence, Ms. Mendoza achieved a maximum weight loss of approximately 6 lbs (2.7 kg) over the six-month program, which was regained within three months of program completion. Total net weight change at program conclusion: **−2 lbs**. This outcome is consistent with well-documented physiologic mechanisms of weight-set-point defense and is not attributable to patient non-compliance.
+
+**Pharmacotherapy — Step 1: Orlistat (Xenical/Alli)**
+Following failure of supervised lifestyle intervention, Ms. Mendoza was initiated on orlistat 120 mg orally three times daily with meals, starting **October 15, 2022**. She continued this therapy through **April 14, 2023** (6 months of documented use). Weight at initiation: 228 lbs. Weight at end of trial: 224 lbs (net loss of 4 lbs, or approximately 1.75% total body weight — well below the clinically meaningful threshold of ≥5%). Additionally, the patient reported significant and persistent gastrointestinal adverse effects throughout the trial, including oily/fatty stools, fecal urgency, and fecal incontinence on multiple occasions, which substantially impaired her quality of life and occupational functioning. These adverse effects were documented in clinic visits on **2023-01-09** and **2023-03-22**. Despite counseling on dietary fat restriction to mitigate GI side effects, symptoms persisted. Orlistat was discontinued on **2023-04-14** due to inadequate efficacy and poor tolerability.
+
+**Pharmacotherapy — Step 2: Phentermine/Topiramate Extended-Release (Qsymia)**
+Following orlistat failure, Ms. Mendoza was initiated on phentermine/topiramate ER starting at 3.75 mg/23 mg daily for titration on **May 10, 2023**, with uptitration to the maintenance dose of 7.5 mg/46 mg daily on **June 10, 2023**, and further uptitration to the top dose of 15 mg/92 mg daily on **August 10, 2023** per prescribing guidance. She remained on phentermine/topiramate ER 15 mg/92 mg through **November 10, 2023** (approximately 6 months total, including titration). Weight at initiation: 225 lbs. Weight at end of trial: 221 lbs (net loss of 4 lbs, approximately 1.8% total body weight — again below the ≥5% clinically meaningful threshold). The patient also reported worsening of cognitive symptoms (difficulty with word-finding and short-term memory), mood lability, and symptomatic dry mouth throughout treatment. These adverse effects were documented in chart notes dated **2023-09-19** and **2023-10-28**. Given inadequate efficacy and intolerable side effects, phentermine/topiramate ER was discontinued on **2023-11-10**.
+
+**Pharmacotherapy — Step 3: Naltrexone/Bupropion Extended-Release (Contrave)**
+Following the above two failed pharmacologic trials, Ms. Mendoza was initiated on naltrexone/bupropion ER, beginning with the standard titration protocol (one tablet [8 mg/90 mg] daily in week 1, titrating to the maximum dose of 2 tablets [16 mg/180 mg] twice daily by week 4) starting **December 5, 2023**, with full maintenance dosing achieved by **January 2, 2024**. She remained on maximum-dose naltrexone/bupropion ER through **June 5, 2024** (6 months at maintenance dosing; approximately 6.5 months total). Weight at initiation: 222 lbs. Weight at end of trial: 220 lbs (net loss of 2 lbs, approximately 0.9% total body weight). The patient reported persistent nausea and insomnia throughout the trial. Additionally, her blood pressure — already elevated at baseline (see Objective section) — increased modestly during this trial, with readings of 148/94 mmHg documented on **2024-03-12** and 151/96 mmHg on **2024-05-07**, necessitating uptitration of her antihypertensive regimen and raising concerns about continued use. Naltrexone/bup

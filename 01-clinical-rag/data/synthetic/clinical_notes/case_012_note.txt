@@ -1,41 +1,56 @@
-**PRIMARY CARE PROGRESS NOTE — PRIOR AUTHORIZATION SUPPORT DOCUMENTATION**
+# PRIMARY CARE PROGRESS NOTE
 
 ---
 
-**PATIENT:** Linda S. Martinez | **MRN:** MRN-100245
-**DATE OF SERVICE:** 2025-01-15
-**PROVIDER:** Dr. Brian Fenwick, MD — Family Medicine | **NPI:** 1093857462
-**CLINIC:** Primary Care Associates
-**VISIT TYPE:** Office Visit — Established Patient / Prior Authorization Support
+**PATIENT:** Linda S. Martinez
+**MRN:** MRN-100245
+**DATE OF SERVICE:** 2025-01-22
+**PROVIDER:** Dr. Brian Fenwick, MD — Family Medicine
+**NPI:** 1093857462
+**CLINIC:** Fenwick Family Medicine Associates
+**VISIT TYPE:** Office Visit — Prior Authorization Appeal / Medication Management
 
 ---
 
 ## CHIEF COMPLAINT
 
-"I need help getting my weight medication approved. My insurance denied it and my weight is still not under control."
+"I've been struggling with my weight for years and my blood pressure is still not controlled. I want to discuss the medication my insurance denied."
 
 ---
 
 ## SUBJECTIVE
 
-Ms. Linda S. Martinez is a 52-year-old female with a well-established history of Class II obesity (BMI 37 kg/m²; ICD-10: E66.01), essential hypertension (ICD-10: I10), and obstructive sleep apnea (ICD-10: G47.33) presenting today for follow-up and to support appeal of a prior authorization denial for tirzepatide (Zepbound) issued by Aetna. The denial reason cited was "step therapy not completed." This note is intended to formally document the comprehensive step therapy history this patient has undergone prior to this request, countering the basis of the denial.
+Ms. Linda S. Martinez is a 52-year-old female presenting today for follow-up regarding ongoing management of Class II obesity (BMI 37 kg/m²), hypertension, and obstructive sleep apnea, as well as to address Aetna's denial of tirzepatide (Zepbound) on the basis of step therapy not completed. This note serves as comprehensive documentation to support the appeal of that denial.
 
-**Weight and Obesity History:**
-Ms. Martinez has struggled with medically significant obesity for approximately 12 years. She reports progressive weight gain beginning in her early 40s, with acceleration noted following menopause onset at age 49. She denies binge eating disorder but endorses emotional eating, strong carbohydrate cravings, and difficulty with satiety. Her highest recorded weight in this practice was 228 lbs (recorded 2022-08-10). She has made multiple structured, documented attempts at weight management as outlined below.
+**History of Present Illness:**
+Ms. Martinez has a well-documented, multi-year history of obesity and its associated comorbidities. She reports persistent difficulty with weight management despite sustained, good-faith efforts across multiple therapeutic modalities over the past several years. She notes progressive fatigue, exertional dyspnea on moderate exertion, disrupted sleep (currently using CPAP for OSA), and persistent elevated blood pressure despite pharmacologic management. She endorses joint pain in bilateral knees that she and I attribute, at least in part, to her excess weight. She expresses significant frustration with her inability to achieve durable weight loss and is highly motivated to pursue pharmacologic therapy as a complement to lifestyle interventions.
 
-**Step Therapy History — Documented Prior Treatments:**
+**Step Therapy Documentation — Prior Weight Loss Interventions (in chronological order):**
 
-**1. Structured Lifestyle Intervention / Medical Nutrition Therapy (2022-06 through 2022-12):**
-Ms. Martinez was formally enrolled in a supervised low-calorie diet and behavioral modification program through this practice beginning June 2022. She was referred to and completed 16 sessions with a registered dietitian (RD) over a 6-month period. She adhered to a 1,400 kcal/day Mediterranean-pattern diet and engaged in 150 minutes per week of moderate-intensity aerobic activity as documented in exercise logs reviewed at each visit. Despite full compliance, she achieved only a 4.2 lb (1.8%) weight loss at the end of the program (weight: 223.8 lbs, BMI: 37.0 kg/m²). Her dietitian formally documented "insufficient clinical response" in her discharge summary dated 2022-12-15. Weight loss was not sustained; by 2023-03, she had returned to 226 lbs.
+**1. Structured Dietary Intervention with Registered Dietitian (RD)**
+- **Dates:** March 2022 – September 2022 (6 months)
+- **Program:** Referred to and enrolled in a medically supervised, low-calorie dietary program with Sarah Okafor, RD, at Riverside Nutrition Center. Caloric target of 1,200–1,400 kcal/day; macronutrient-balanced meal plan.
+- **Outcome:** Patient lost approximately 6 lbs. over the course of the program. Weight loss was not sustained; patient regained weight within 3 months of completing the program. Net weight change at 12-month mark: +2 lbs. from baseline. Program completion documented in RD records, copies available on request.
 
-**2. Phentermine-Topiramate ER (Qsymia) — 3.75 mg/23 mg titrating to 7.5 mg/46 mg (2023-02 through 2023-08):**
-Given failure of lifestyle intervention alone, Ms. Martinez was started on phentermine-topiramate extended-release 3.75 mg/23 mg on 2023-02-10 per FDA-approved obesity pharmacotherapy guidelines. The dose was titrated to 7.5 mg/46 mg on 2023-03-10 after tolerability was confirmed. She remained on the maintenance dose for a total of 6 months. She reported partial appetite suppression initially, but the medication was discontinued on 2023-08-15 due to: (1) intolerable cognitive side effects ("brain fog," word-finding difficulties), and (2) inadequate weight loss response — net weight loss of only 5.1 lbs (2.3%) from baseline over the 6-month treatment period, falling well below the clinically meaningful threshold of ≥5% body weight. Discontinuation was documented in the visit note of 2023-08-15.
+**2. Structured Exercise Program**
+- **Dates:** April 2022 – December 2022 (8 months, overlapping with dietary intervention)
+- **Program:** Enrolled in a supervised exercise program at ClearPath Wellness Center, 3 sessions per week, supervised by a certified exercise physiologist. Program included aerobic conditioning and resistance training tailored to her cardiovascular and orthopedic limitations.
+- **Outcome:** Modest improvement in exercise tolerance. Minimal weight reduction achieved (approximately 4 lbs. at program nadir). Weight loss not maintained beyond program duration due to bilateral knee pain limiting high-impact activity. Patient transitioned to low-impact aquatic exercise independently but with inconsistent adherence due to scheduling constraints.
 
-**3. Naltrexone-Bupropion ER (Contrave) — 8 mg/90 mg titrating to 32 mg/360 mg (2023-10 through 2024-04):**
-Following phentermine-topiramate failure, Ms. Martinez was initiated on naltrexone-bupropion ER 8 mg/90 mg once daily on 2023-10-05, with standard 4-week titration to the full maintenance dose of 32 mg/360 mg (two tablets twice daily) by 2023-11-05. She tolerated the titration with mild nausea. She was maintained at full dose for 6 months. Repeat weight check on 2024-04-07 revealed a net weight change of -3.8 lbs (1.7%) from pre-treatment baseline — again below the 5% efficacy threshold. She denied meaningful change in appetite or food cravings. The medication was discontinued on 2024-04-10 due to lack of efficacy, as documented in the visit note of that date. She continued to report worsening sleep apnea symptoms and blood pressure remained elevated on two antihypertensive agents during this period.
+**3. Orlistat (Xenical) 120 mg TID with meals**
+- **Dates:** February 2023 – August 2023 (6 months)
+- **Prescribing Provider:** Dr. Brian Fenwick, MD
+- **Rationale for initiation:** Initiated as first-line pharmacologic step therapy per Aetna formulary requirements and standard of care guidelines following failure of supervised dietary and exercise interventions.
+- **Outcome:** Patient experienced significant gastrointestinal adverse effects including oily stools, fecal urgency, and fecal incontinence episodes, which were severely disruptive to her daily functioning and occupational responsibilities. Despite dietary fat restriction, side effects remained intolerable. Weight loss over the 6-month period was 5 lbs., which was clinically inadequate. Medication was discontinued in August 2023 due to intolerability. Discontinuation documented in prior encounter notes (08/14/2023).
 
-**4. Metformin (off-label adjunctive use) — 500 mg BID titrating to 1000 mg BID (2024-05 through 2024-10):**
-Given the patient's metabolic profile and ongoing difficulty with weight management, metformin 500 mg BID was initiated on 2024-05-01 and titrated to 1000 mg BID by 2024-06-01. She tolerated this well with only mild GI upset in the first two weeks. After 5 months of therapy (through 2024-10-15), weight had decreased from 224 lbs to 220.5 lbs — a loss of 3.5 lbs (1.6%), which was not clinically meaningful. Metformin was discontinued on 2024-10-20 in the context of transitioning to a GLP-1/GIP agonist strategy, given exhaustion of available step therapy options with subtherapeutic response to all agents above.
+**4. Phentermine/Topiramate ER (Qsymia) 3.75 mg/23 mg titrated to 7.5 mg/46 mg daily**
+- **Dates:** November 2023 – April 2024 (6 months)
+- **Prescribing Provider:** Dr. Brian Fenwick, MD
+- **Rationale for initiation:** Initiated as second-line pharmacologic step therapy following orlistat failure/intolerance.
+- **Outcome:** Patient tolerated initial titration but developed significant adverse effects at the maintenance dose including cognitive slowing ("brain fog"), word-finding difficulty, paresthesias in bilateral hands and feet, and mood lability. These side effects were functionally impairing, affecting her performance in her administrative management position. In addition, weight loss over the 6-month trial was approximately 8 lbs. (approximately 4.5% of body weight), which falls below the clinically meaningful threshold of ≥5% body weight reduction with adequate pharmacotherapy. Medication discontinued April 2024 due to intolerable neurocognitive side effects and inadequate response. Documented in encounter note (04/09/2024).
 
-**Current Symptom Burden:**
-Ms. Martinez continues to report significant symptoms attributable to her obesity and related comorbidities: (1) excessive daytime somnolence and non-restorative sleep despite CPAP use, with an AHI
+**5. Naltrexone/Bupropion ER (Contrave) 8 mg/90 mg titrated to 16 mg/180 mg BID**
+- **Dates:** July 2024 – December 2024 (6 months)
+- **Prescribing Provider:** Dr. Brian Fenwick, MD
+- **Rationale for initiation:** Initiated as third-line pharmacologic step therapy following failure and intolerance of orlistat and phentermine/topiramate ER.
+- **Outcome:** Patient experienced persistent nausea, headache, and elevated blood pressure on Contrave (average BP readings on medication: 148/94 mmHg, compared to baseline on antihypertensive therapy of approximately 138/88 mmHg). Given her underlying hypertension (ICD-10: I10), the additional blood pressure burden was clinically unacceptable and the medication was discontinued in December 2024. Weight loss over 6-month trial: approximately 6 lbs.

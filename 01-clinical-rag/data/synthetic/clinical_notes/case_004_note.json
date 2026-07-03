@@ -5,6 +5,7 @@
   "payer": "BlueCross BlueShield",
   "drug": "liraglutide (Saxenda)",
   "denial_reason": "off_label",
+  "appeal_tier": "weak_appeal",
   "filename": "case_004_note.txt",
   "note_type": "specialist_consult",
   "denial_file": "case_004_denial.txt",

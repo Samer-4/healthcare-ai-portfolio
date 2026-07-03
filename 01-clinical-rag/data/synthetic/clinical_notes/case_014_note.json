@@ -1,0 +1,24 @@
+{
+  "case_id": "case_014",
+  "patient_name": "Carl D. Whitfield",
+  "patient_mrn": "MRN-100247",
+  "payer": "UnitedHealthcare",
+  "drug": "semaglutide (Ozempic)",
+  "denial_reason": "step_therapy_not_completed",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_014_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_014_denial.txt",
+  "patient_age": 58,
+  "patient_bmi": 34,
+  "diagnoses": [
+    "E11.65",
+    "I10",
+    "E78.5"
+  ],
+  "comorbidities": [
+    "type 2 diabetes with hyperglycemia",
+    "hypertension",
+    "hyperlipidemia"
+  ]
+}

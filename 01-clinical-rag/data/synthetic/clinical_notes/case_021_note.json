@@ -1,0 +1,24 @@
+{
+  "case_id": "case_021",
+  "patient_name": "Kevin R. Sullivan",
+  "patient_mrn": "MRN-100254",
+  "payer": "Aetna",
+  "drug": "semaglutide (Ozempic)",
+  "denial_reason": "off_label",
+  "appeal_tier": "no_viable_appeal",
+  "filename": "case_021_note.txt",
+  "note_type": "progress_note",
+  "denial_file": "case_021_denial.txt",
+  "patient_age": 42,
+  "patient_bmi": 30,
+  "diagnoses": [
+    "K76.0",
+    "R73.03",
+    "E66.09"
+  ],
+  "comorbidities": [
+    "non-alcoholic fatty liver disease",
+    "prediabetes",
+    "obesity"
+  ]
+}

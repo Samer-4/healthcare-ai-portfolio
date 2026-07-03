@@ -1,0 +1,93 @@
+# PRIMARY CARE PROGRESS NOTE
+
+---
+
+**PATIENT:** Antonio V. Russo
+**MRN:** MRN-100258
+**DATE OF SERVICE:** 2024-11-14
+**PROVIDER:** Dr. Ingrid Halvorsen, MD — Internal Medicine
+**NPI:** 1602849371
+**CLINIC:** Internal Medicine Associates
+
+---
+
+## CHIEF COMPLAINT
+
+Follow-up for weight management and hypertension; appeal of prior authorization denial for liraglutide (Saxenda) — denial reason: quantity limit exceeded.
+
+---
+
+## SUBJECTIVE
+
+Mr. Russo is a 39-year-old male presenting today for ongoing management of morbid obesity and hypertension. He reports continued difficulty achieving sustained weight loss despite efforts to modify his diet and increase physical activity. The patient states he has been "trying to eat better and walk more," though he acknowledges inconsistency. He reports no specific structured dietary program at this time.
+
+Regarding prior pharmacologic treatment, the patient was previously trialed on phentermine for weight management. He does not recall the exact dose or how long he took it, and records from that prescribing provider are not currently available in this chart. He reports it did not provide adequate or lasting weight reduction.
+
+The patient reports persistent fatigue, exertional dyspnea with moderate activity, and joint discomfort in his knees, which he attributes to his weight. He denies chest pain, palpitations, or syncope. His blood pressure has been difficult to control; he is currently on antihypertensive therapy. He expresses concern that his weight is directly contributing to his elevated blood pressure and overall cardiovascular risk.
+
+He denies current use of tobacco, illicit substances, or excessive alcohol. No known drug allergies.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 138/88 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.5°F
+- Weight: 264 lbs (119.7 kg)
+- Height: 5'5" (165 cm)
+- **BMI: 40 kg/m²** (Class III Obesity)
+- SpO₂: 97% on room air
+
+**Physical Examination:**
+- **General:** Well-developed, well-nourished male in no acute distress; body habitus consistent with morbid obesity
+- **Cardiovascular:** Regular rate and rhythm; no murmurs appreciated
+- **Pulmonary:** Clear to auscultation bilaterally
+- **Abdomen:** Obese, soft, non-tender; no organomegaly appreciated on exam
+- **Extremities:** No significant edema; bilateral knee tenderness on palpation noted
+- **Musculoskeletal:** Gait mildly antalgic
+
+*Note: No formal lipid panel, HbA1c, or fasting glucose results are documented in today's visit record.*
+
+---
+
+## ASSESSMENT
+
+1. **E66.01 — Morbid (severe) obesity due to excess calories**
+Mr. Russo presents with Class III obesity with a BMI of 40 kg/m². He has a comorbidity burden that includes hypertension. Weight loss remains a clinical priority to reduce cardiovascular risk. Prior pharmacologic intervention has been attempted; however, documentation is incomplete.
+
+2. **I10 — Essential (primary) hypertension**
+Blood pressure remains suboptimally controlled at 138/88 mmHg despite current antihypertensive regimen. Obesity is a known contributing factor. Degree of end-organ involvement has not been formally reassessed at this visit.
+
+3. **Z68.41 — Body mass index 40.0–44.9, adult**
+BMI confirmed at 40 kg/m² per today's measurements.
+
+---
+
+## PLAN
+
+1. **Liraglutide (Saxenda) 3.0 mg subcutaneous injection daily — requested.**
+Clinical rationale: Patient has Class III obesity (BMI 40 kg/m²) with comorbid hypertension. He has a history of a prior weight loss medication trial (phentermine), though specific dosing and duration records are not available at this time. Lifestyle modification has been recommended and the patient reports attempting dietary and activity changes; however, no formal structured program has been documented with objective tracking or defined duration. Liraglutide is being requested to provide adjunctive pharmacologic support for chronic weight management. Standard titration schedule to be followed per prescribing guidelines (0.6 mg weekly escalation to target 3.0 mg/day).
+
+2. **Hypertension management:** Continue current antihypertensive therapy. Blood pressure to be reassessed at follow-up in 4–6 weeks.
+
+3. **Laboratory work ordered:** Fasting metabolic panel, HbA1c, fasting lipid panel — results pending.
+
+4. **Nutritional counseling referral:** Patient advised to establish care with a registered dietitian. Referral placed today; appointment not yet confirmed.
+
+5. **Return to clinic:** 4–6 weeks or sooner if concerns arise.
+
+---
+
+## SIGNATURE
+
+**Dr. Ingrid Halvorsen, MD**
+Internal Medicine
+NPI: 1602849371
+Date Signed: 2024-11-14
+
+*Electronically signed and attested by Dr. Ingrid Halvorsen, MD*
+
+---

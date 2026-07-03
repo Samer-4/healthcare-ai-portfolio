@@ -1,0 +1,24 @@
+{
+  "case_id": "case_029",
+  "patient_name": "Harold G. Weinstein",
+  "patient_mrn": "MRN-100262",
+  "payer": "Humana",
+  "drug": "semaglutide (Wegovy)",
+  "denial_reason": "off_label",
+  "appeal_tier": "no_viable_appeal",
+  "filename": "case_029_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_029_denial.txt",
+  "patient_age": 71,
+  "patient_bmi": 29,
+  "diagnoses": [
+    "I25.10",
+    "E66.3",
+    "E78.5"
+  ],
+  "comorbidities": [
+    "coronary artery disease",
+    "overweight",
+    "hyperlipidemia"
+  ]
+}

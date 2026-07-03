@@ -1,0 +1,24 @@
+{
+  "case_id": "case_019",
+  "patient_name": "Barbara N. Fitzgerald",
+  "patient_mrn": "MRN-100252",
+  "payer": "Cigna",
+  "drug": "tirzepatide (Zepbound)",
+  "denial_reason": "not_medically_necessary",
+  "appeal_tier": "strong_appeal",
+  "filename": "case_019_note.txt",
+  "note_type": "specialist_consult",
+  "denial_file": "case_019_denial.txt",
+  "patient_age": 55,
+  "patient_bmi": 34,
+  "diagnoses": [
+    "E66.09",
+    "I25.10",
+    "E78.5"
+  ],
+  "comorbidities": [
+    "obesity",
+    "coronary artery disease",
+    "hyperlipidemia"
+  ]
+}

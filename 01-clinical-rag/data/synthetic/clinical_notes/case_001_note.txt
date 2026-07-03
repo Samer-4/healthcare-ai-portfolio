@@ -1,61 +1,48 @@
-# CLINICAL PROGRESS NOTE — PRIOR AUTHORIZATION SUPPORT DOCUMENTATION
+# PRIMARY CARE PROGRESS NOTE
 
 ---
 
 **PATIENT:** Jennifer L. Caldwell
 **MRN:** MRN-100234
-**DATE OF VISIT:** 2025-01-15
+**DATE OF SERVICE:** 2025-07-14
 **PROVIDER:** Dr. Susan Ramirez, MD — Internal Medicine
 **NPI:** 1740291856
-**FACILITY:** Ramirez Internal Medicine Associates
-**VISIT TYPE:** Office Visit — Established Patient / Prior Authorization Documentation
+**CLINIC:** Internal Medicine Associates
+**VISIT TYPE:** Office Visit — Established Patient / Prior Authorization Appeal Documentation
 
 ---
 
 ## CHIEF COMPLAINT
 
-"My insurance denied my medication. I've already tried everything else they wanted me to try and nothing has worked well enough."
+Follow-up for obesity management and type 2 diabetes mellitus; documentation of step therapy completion in support of appeal for semaglutide (Wegovy) prior authorization denied by Aetna.
 
 ---
 
 ## SUBJECTIVE
 
-Ms. Jennifer L. Caldwell is a 45-year-old female with a well-established history of Class II obesity (BMI 38 kg/m²), type 2 diabetes mellitus (E11.9), and hypertension who presents today for follow-up and to support appeal of Aetna's denial of semaglutide (Wegovy) on the basis of step therapy not completed. I am writing this note to formally document that step therapy requirements have, in fact, been satisfied and that multiple prior-line agents have been trialed, optimized, and found to be either inadequate in efficacy or not tolerated.
+Ms. Jennifer L. Caldwell is a 45-year-old female with a well-established history of Class II obesity (BMI 38 kg/m²), type 2 diabetes mellitus (E11.9), and hypertension who presents today to establish comprehensive documentation supporting her appeal following Aetna's denial of semaglutide (Wegovy) 2.4 mg subcutaneous weekly on the basis of step therapy not completed. I have been managing Ms. Caldwell's obesity and related metabolic comorbidities for the past three years and wish to detail at length the extensive prior treatment history that has been undertaken before arriving at this pharmacologic request.
 
-**History of Present Illness:**
+**History of Obesity and Prior Conservative Interventions:**
 
-Ms. Caldwell was first diagnosed with type 2 diabetes mellitus in March 2018 and with obesity in the same clinical encounter. Since that time, she has been under my direct care and has engaged in a structured, progressive treatment plan targeting both glycemic control and meaningful weight reduction. She reports persistent difficulty achieving and maintaining a clinically meaningful weight loss of ≥5% body weight despite sustained and documented efforts with pharmacologic therapy, structured dietary intervention, and supervised physical activity programming.
+Ms. Caldwell was first counseled on structured weight management in **January 2022**, at which time her weight was 228 lbs (BMI 36.8 kg/m²). She was referred at that time to a registered dietitian (RD), Ms. Patricia Howe, RD, at our affiliated nutrition clinic, for medically supervised dietary intervention. She completed **six months of structured dietary counseling (January 2022 – June 2022)**, attending sessions twice monthly. Her dietary program consisted of a caloric deficit target of 500–750 kcal/day below estimated total daily energy expenditure, with macronutrient targets consistent with ADA guidance for patients with type 2 diabetes (45–50% carbohydrate, emphasis on low glycemic index foods, <10% saturated fat). Despite full adherence per RD notes, Ms. Caldwell achieved only a 4 lb weight reduction over this period (ending weight 224 lbs), which was insufficient to achieve meaningful metabolic benefit.
 
-She currently weighs 224 lbs (BMI 38 kg/m²) and reports that her weight has been essentially stable or trending upward over the past 18 months despite active treatment. She denies binge eating disorder. She reports low-grade fatigue, exertional dyspnea with moderate activity, and lower extremity edema bilaterally, all of which she and I attribute in part to her obesity and suboptimally controlled cardiometabolic risk burden.
+She was concurrently enrolled in a **structured exercise program** beginning **February 2022**, consisting of supervised aerobic conditioning three times per week through our partnered physical therapy and wellness center (Lakeside Wellness Center, authorization #LW-2022-0214). This program continued through **August 2022 (six months)**. Despite compliance, she reported inability to sustain high-intensity activity secondary to bilateral knee osteoarthritis and exertional fatigue, and achieved no further sustained weight reduction beyond the initial dietary phase.
 
-**Step Therapy — Prior Medications Tried and Failed (Chronological):**
+**Step Therapy — Pharmacologic Interventions:**
 
-1. **Metformin (Glucophage) 500 mg twice daily → titrated to 1000 mg twice daily**
-   - Initiated: April 2018
-   - Duration: Ongoing (currently still prescribed for glycemic control)
-   - Outcome: Adequate glycemic contribution (HbA1c modestly improved from 8.1% to 7.4%) but no clinically meaningful weight loss. Patient lost approximately 3 lbs over 12 months, which did not meet the threshold of ≥5% body weight reduction. Continued as background diabetes therapy.
+Given failure of supervised lifestyle intervention alone, pharmacologic weight management therapy was initiated in the fall of 2022. The following agents were trialed in sequential order:
 
-2. **Lifestyle Intervention — Structured Program (Weight Watchers / WW)**
-   - Initiated: June 2018
-   - Duration: 12 months (through June 2019)
-   - Outcome: Patient attended weekly sessions consistently for the first 6 months, transitioning to biweekly sessions thereafter. Net weight change at program end: −4 lbs (approximately 1.8% body weight). Deemed inadequate response. Patient remained committed but reported significant difficulty with sustained adherence due to work schedule and hunger dysregulation.
+**1. Metformin (extended-release) — for weight-associated glycemic benefit**
+- **Dose:** 500 mg orally daily, titrated to 2000 mg orally daily over 4 weeks
+- **Duration:** **September 2022 – March 2023 (6 months)**
+- **Outcome / Reason for Inadequate Response:** Metformin was initiated primarily for glycemic control (A1C 7.8% at initiation) and has modest weight-neutral to mild weight-loss benefit. After six months, A1C improved modestly to 7.2%; however, weight remained essentially unchanged at 225 lbs (BMI 36.9 kg/m²). Metformin was continued as background diabetes therapy but was not adequate as a weight management agent. Patient tolerated medication without GI side effects at final dose.
 
-3. **Phentermine/Topiramate ER (Qsymia) 3.75 mg/23 mg → titrated to 7.5 mg/46 mg**
-   - Initiated: August 2019
-   - Duration: 6 months (discontinued February 2020)
-   - Reason for Discontinuation: Patient developed symptomatic paresthesias in bilateral hands and feet and significant cognitive slowing ("brain fog") that impaired her work performance as a paralegal. She also reported dry mouth and insomnia. These adverse effects were intolerable and did not resolve with dose reduction. Medication discontinued after shared decision-making discussion. Net weight change: −6 lbs over 6 months (approximately 2.7% body weight), which was considered inadequate given the adverse effect burden.
+**2. Phentermine/Topiramate (Qsymia) — FDA-approved weight management agent**
+- **Dose:** Initiated at phentermine 3.75 mg / topiramate 23 mg orally daily × 2 weeks, titrated to phentermine 7.5 mg / topiramate 46 mg orally daily
+- **Duration:** **April 2023 – September 2023 (6 months)**
+- **Outcome / Reason for Discontinuation:** Patient reported progressive cognitive side effects including word-finding difficulty and impaired concentration beginning approximately 6–8 weeks into therapy at the 7.5/46 mg dose. These symptoms were functionally impairing, affecting her performance at her administrative management position. Topiramate-related cognitive adverse effects are a well-documented class effect. Dose reduction back to 3.75/23 mg resulted in minimal weight loss benefit (total weight change: −3 lbs over 6 months; ending weight 222 lbs). Therapy was discontinued in **September 2023** due to inadequate efficacy at the tolerated dose and unacceptable cognitive adverse effects at therapeutic dosing. A1C at that time: 7.4%.
 
-4. **Naltrexone/Bupropion ER (Contrave) 8 mg/90 mg → titrated to 16 mg/180 mg twice daily (target dose)**
-   - Initiated: May 2020
-   - Duration: 9 months (discontinued February 2021)
-   - Reason for Discontinuation: Patient developed nausea and persistent headaches during titration that partially resolved but did not fully abate. More significantly, she experienced a sustained elevation in blood pressure (readings consistently 148–156/92–98 mmHg) on Contrave, which was counterproductive given her concurrent hypertension diagnosis. After 9 months at therapeutic dose, weight loss totaled approximately 5 lbs (2.2% body weight), which was clinically insufficient. Medication discontinued due to combination of inadequate efficacy and worsening hypertensive effect.
-
-5. **Liraglutide (Saxenda) 0.6 mg SQ daily → titrated to 3.0 mg SQ daily (maximum dose)**
-   - Initiated: June 2021
-   - Duration: 12 months (discontinued June 2022)
-   - Outcome: Titrated per standard protocol over 5 weeks to maximum dose of 3.0 mg daily. Patient tolerated the medication without significant adverse effects. At 12-month follow-up, total weight loss was approximately 9 lbs (4.0% body weight). While liraglutide provided partial response and modest improvement in glycemic parameters (HbA1c 7.4% → 7.1%), weight loss remained below the clinically meaningful threshold of ≥5% body weight and was inadequate for a patient with a BMI of 38 kg/m² and active cardiometabolic comorbidities. Given the inadequate response at maximum dose after 12 months of therapy, a transition to a more efficacious agent was clinically indicated.
-
-6. **Lifestyle Re-engagement — Medical Nutrition Therapy with Registered Dietitian**
-   - Initiated: January 2023
-   - Duration: 12 months (through December 2023)
-   - Outcome: Ms. Caldwell participated in 16 individual sessions with a registered dietitian over the course
+**3. Bupropion/Naltrexone (Contrave) — FDA-approved weight management agent**
+- **Dose:** Initiated per standard titration: Week 1: one tablet (naltrexone 8 mg / bupropion 90 mg) in AM; Week 2: one tablet BID; Week 3: two tablets AM / one tablet PM; Week 4 and beyond: two tablets BID (maintenance dose: naltrexone 32 mg / bupropion 360 mg daily)
+- **Duration:** **November 2023 – April 2024 (6 months)**
+- **Outcome / Reason for Discontinuation:** Ms. Caldwell achieved full titration by week 4. However, she developed persistent nausea (grade 2) and insomnia that did not resolve after the initial 4-week acclimation period. More significantly, she reported elevation in blood pressure readings at home (systolic readings 150–162 mmHg), which is a recognized adverse effect of bupropion component and of particular concern given her underlying hypertension, which had been previously well-controlled on amlodipine 5 mg daily. Repeat in-office blood pressure confirmed readings of 158/94 mmHg and 155/92 mmHg on two separate measurements

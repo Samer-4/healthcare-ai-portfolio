@@ -1,0 +1,60 @@
+# PRIMARY CARE PROGRESS NOTE — PRIOR AUTHORIZATION APPEAL DOCUMENTATION
+
+---
+
+**PATIENT:** Margaret E. O'Rourke
+**MRN:** MRN-100259
+**DATE OF SERVICE:** 2025-07-14
+**PROVIDER:** Dr. Charles Lindqvist, MD — Internal Medicine
+**NPI:** 1934706258
+**VISIT TYPE:** Office Visit / PA Appeal Documentation
+**FACILITY:** Internal Medicine Associates
+
+---
+
+## CHIEF COMPLAINT
+
+Follow-up for type 2 diabetes mellitus, hypertension, and mixed hyperlipidemia; documentation in support of appeal of Aetna prior authorization denial for semaglutide oral (Rybelsus) on grounds of "not medically necessary."
+
+---
+
+## SUBJECTIVE
+
+Ms. Margaret O'Rourke is a 66-year-old female with a well-established history of type 2 diabetes mellitus (E11.9), mixed hyperlipidemia (E78.2), and hypertension (I10) presenting today for continued management of her cardiometabolic disease burden and to review the denial of her GLP-1 receptor agonist therapy. This note is being prepared with explicit intent to support the formal appeal of Aetna's denial of prior authorization for oral semaglutide (Rybelsus).
+
+**History of Present Illness:**
+
+Ms. O'Rourke has been under my care since January 2022. Her type 2 diabetes has been progressive and increasingly difficult to manage to goal with conventional oral agents. Her most recent HbA1c, drawn on 2025-06-18, was **8.4%**, which remains significantly above the ADA-recommended target of <7.0% for most non-pregnant adults and above the individualized target of <7.5% we had established given her age and comorbidity burden. This represents a worsening from her HbA1c of 7.9% obtained in December 2024, reflecting ongoing glycemic deterioration despite optimized conventional therapy.
+
+She reports persistent fatigue, polydipsia, and mild polyuria consistent with suboptimal glycemic control. She denies hypoglycemic episodes. She has noted modest weight gain of approximately 6 lbs over the past 12 months, which she attributes to reduced activity level related to bilateral knee osteoarthritis. She expresses significant concern about her cardiovascular risk and has expressed strong motivation to pursue pharmacologic strategies that carry cardiometabolic benefit.
+
+**Obesity and Weight History:**
+
+Ms. O'Rourke's current weight of 194 lbs with a BMI of **33 kg/m²** places her in the Class I Obesity category. Her weight has been tracked longitudinally in this practice:
+
+- January 2022: 181 lbs (BMI 30.1)
+- June 2023: 187 lbs (BMI 31.1)
+- December 2024: 191 lbs (BMI 31.8)
+- July 2025: 194 lbs (BMI 33.0)
+
+This progressive weight gain in the setting of type 2 diabetes, hypertension, and mixed hyperlipidemia significantly amplifies her cardiovascular and metabolic risk.
+
+**Prior Conservative and Non-Pharmacologic Measures (Failed):**
+
+Ms. O'Rourke has engaged in extensive and documented non-pharmacologic intervention for her weight and metabolic disease prior to this request:
+
+1. **Dietitian Referral and Medical Nutrition Therapy:** Referred to registered dietitian Sarah Klemm, RD, in **March 2022**. Patient completed 8 sessions of individualized medical nutrition therapy through June 2022, focusing on carbohydrate counting, caloric restriction (1400 kcal/day target), and Mediterranean dietary pattern. Follow-up HbA1c in August 2022 was 8.1%, with negligible weight change (−1.2 lbs). Patient continued loosely adherent to dietary guidance but without sustained metabolic improvement.
+
+2. **Structured Exercise Program:** Enrolled in a supervised exercise program at a local cardiac rehabilitation–affiliated wellness center beginning **September 2022**. Attended 3x/week sessions (primarily low-impact aerobic and resistance training) for 16 weeks through January 2023. Documented weight loss of 3.4 lbs over this period; no significant change in HbA1c (8.0% in February 2023). Program was subsequently limited by progression of bilateral knee osteoarthritis, with orthopedic documentation (Dr. Paula Esteves, Orthopedics, dated March 2023) noting moderate medial compartment OA bilaterally, recommending activity modification.
+
+3. **Behavioral Weight Management Counseling:** Ms. O'Rourke participated in a primary care–integrated behavioral health weight management program through this practice from **April 2023 through October 2023** (6 months), including monthly goal-setting visits and caloric diary review. Net weight change at program conclusion: −2.1 lbs. HbA1c in October 2023 remained 8.2%.
+
+Despite approximately 18+ months of active, supervised, multimodal lifestyle intervention, she has not achieved meaningful or sustained weight reduction, nor has her glycemic control improved to goal.
+
+**Prior Pharmacologic Therapy for Type 2 Diabetes (Failed or Suboptimal):**
+
+1. **Metformin 1000 mg twice daily** — Initiated January 2022. Continued to present. Tolerability has been acceptable. HbA1c improved from 9.1% at diagnosis to nadir of 7.8% in June 2022 but has trended upward since. Maximally dosed. Insufficient as monotherapy.
+
+2. **Sitagliptin (Januvia) 100 mg daily** — Added **September 2022** as second-line agent given patient's renal function (eGFR 68 mL/min/1.73m² at the time, now 64). Continued for 14 months through **November 2023**. HbA1c at discontinuation was 8.2% — no meaningful additional glycemic reduction beyond metformin. Discontinued due to lack of efficacy; patient also noted mild upper respiratory symptoms temporally associated with initiation, though causality unclear.
+
+3. **Empagliflozin (Jardiance) 10 mg daily** — Initiated **January 2024** as replacement for sitagl

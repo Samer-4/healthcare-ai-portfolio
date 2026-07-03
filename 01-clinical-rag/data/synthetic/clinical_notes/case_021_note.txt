@@ -1,0 +1,95 @@
+# PROGRESS NOTE — GASTROENTEROLOGY / PRIMARY CARE FOLLOW-UP
+
+---
+
+**PATIENT:** Kevin R. Sullivan
+**MRN:** MRN-100254
+**DOB:** 03/14/1983 | Age: 42 | Sex: Male
+**DATE OF VISIT:** 2025-07-14
+**PROVIDER:** Dr. Leonard Achebe, MD — Gastroenterology
+**NPI:** 1420685379
+**LOCATION:** Outpatient Clinic
+**VISIT TYPE:** Established Patient — Follow-Up
+
+---
+
+## CHIEF COMPLAINT
+
+"I've been reading about Ozempic and think it could help with my liver and weight. My friend takes it and lost a lot of weight."
+
+---
+
+## SUBJECTIVE
+
+Mr. Sullivan is a 42-year-old male with a known history of non-alcoholic fatty liver disease (NAFLD), prediabetes, and obesity who presents today requesting initiation of semaglutide (Ozempic) for weight management and, per his stated understanding, improvement of hepatic steatosis. He reports he came across information online and through a personal acquaintance suggesting that GLP-1 receptor agonists may benefit liver health. He is motivated to lose weight and is concerned about progression of his liver disease.
+
+He denies current symptoms of dyspepsia, abdominal pain, nausea, vomiting, or jaundice. He reports no significant change in appetite or energy level. He denies polyuria, polydipsia, or symptoms consistent with hyperglycemia. He reports a sedentary lifestyle and acknowledges a diet high in processed foods and refined carbohydrates. He states he has not made any formal, supervised attempts at dietary modification and has not been enrolled in a structured weight loss program. He has not previously seen a registered dietitian or nutritionist, and he has not engaged with a behavioral weight management program.
+
+**Medications:** No current prescription medications. Takes a daily multivitamin. Occasional ibuprofen for musculoskeletal discomfort.
+
+**Allergies:** NKDA
+
+**Prior Weight Loss Pharmacotherapy:** None documented. Patient denies prior use of orlistat, phentermine/topiramate (Qsymia), naltrexone/bupropion (Contrave), or any other FDA-approved weight loss agent. No documented trial of metformin for prediabetes or weight management purposes. Patient has not been prescribed or trialed any covered formulary alternative to date.
+
+**Surgical History:** None
+
+**Family History:** Father with type 2 diabetes mellitus; mother with hyperlipidemia.
+
+**Social History:** Non-smoker. Occasional alcohol use (1–2 drinks per week). Works as a project manager. Denies illicit drug use.
+
+**Review of Systems:** Negative for chest pain, shortness of breath, lower extremity edema, polydipsia, polyuria, blurred vision, or constitutional symptoms. Positive for fatigue, attributed by patient to poor sleep hygiene.
+
+---
+
+## OBJECTIVE
+
+**Vitals:**
+- Blood Pressure: 124/78 mmHg
+- Heart Rate: 74 bpm, regular
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- Weight: 214 lbs (97.1 kg)
+- Height: 5'11" (180 cm)
+- **BMI: 30.0 kg/m²**
+- SpO₂: 99% on room air
+
+**General:** Well-appearing, well-nourished male in no acute distress. Alert and oriented ×3.
+
+**HEENT:** Normocephalic, atraumatic. Sclerae anicteric. Mucous membranes moist.
+
+**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops.
+
+**Respiratory:** Clear to auscultation bilaterally. No wheezing or crackles.
+
+**Abdomen:** Soft, non-tender, non-distended. No hepatosplenomegaly appreciated on palpation. No fluid wave. Bowel sounds present in all four quadrants. No right upper quadrant tenderness elicited.
+
+**Extremities:** No peripheral edema. Pulses 2+ bilaterally.
+
+**Skin:** No jaundice, palmar erythema, or spider angiomata noted.
+
+**Neurological:** Grossly intact. No asterixis.
+
+**Recent Laboratory Data (obtained 2025-06-28):**
+- Fasting glucose: 108 mg/dL
+- HbA1c: 5.8% *(consistent with prediabetes range; does not meet threshold for type 2 diabetes mellitus diagnosis)*
+- AST: 38 U/L | ALT: 44 U/L *(mildly elevated, consistent with hepatic steatosis)*
+- Total bilirubin: 0.8 mg/dL
+- Albumin: 4.2 g/dL
+- Platelet count: 218 × 10³/µL
+- Lipid panel: LDL 118 mg/dL, HDL 44 mg/dL, TG 148 mg/dL
+- eGFR: >90 mL/min/1.73m²
+
+**Imaging:** Hepatic ultrasound (2025-05-10): Echogenic liver consistent with moderate hepatic steatosis. No focal lesion, biliary ductal dilation, or ascites identified.
+
+---
+
+## ASSESSMENT
+
+1. **K76.0 — Fatty (change of) liver, not elsewhere classified (Non-Alcoholic Fatty Liver Disease, NAFLD)**
+Moderate hepatic steatosis confirmed on ultrasound. Mildly elevated transaminases. No clinical evidence of fibrosis or cirrhosis at this time. Liver synthetic function preserved.
+
+2. **R73.03 — Prediabetes**
+HbA1c 5.8%, fasting glucose 108 mg/dL. Does not meet diagnostic criteria for type 2 diabetes mellitus. No hypoglycemic symptoms. No diabetes-related complications identified. Patient has not been started on metformin or any pharmacologic intervention for glycemic management to date.
+
+3. **E66.09 — Other obesity**
+BMI 30.0 kg/m

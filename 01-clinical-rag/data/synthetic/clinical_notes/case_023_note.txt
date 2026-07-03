@@ -1,0 +1,45 @@
+# SPECIALIST CONSULTATION NOTE
+
+---
+
+**PATIENT:** Frank J. Delgado | **MRN:** MRN-100256
+**DATE OF BIRTH:** [DOB on file] | **AGE:** 59 | **SEX:** Male
+**REFERRING PROVIDER:** Primary Care Physician (on file)
+**CONSULTING PHYSICIAN:** Dr. Vivian Cho, MD — Sleep Medicine, NPI 1387250614
+**CONSULT DATE:** June 17, 2025
+**LOCATION:** Outpatient Sleep Medicine & Metabolic Health Clinic
+
+---
+
+## REASON FOR CONSULTATION
+
+Mr. Frank J. Delgado is a 59-year-old male with class II obesity (BMI 35 kg/m²), obesity-hypoventilation–associated obstructive sleep apnea (OSA), and paroxysmal atrial fibrillation presenting for specialist evaluation in support of prior authorization for tirzepatide (Zepbound) for the treatment of chronic obesity and its directly related cardiopulmonary comorbidities. This note is submitted as a comprehensive appeal of Humana's prior authorization denial citing "insufficient documentation." The purpose of this consultation is to provide an exhaustive summary of Mr. Delgado's clinical history, diagnostic findings, prior treatment attempts, and the medical necessity supporting initiation of tirzepatide.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Delgado is a 59-year-old male with a longstanding history of obesity spanning at least 12 years, with progressive weight gain documented across multiple clinical encounters. His current weight is 243 lbs at a height of 5'9", yielding a BMI of 35 kg/m², consistent with Class II obesity (ICD-10: E66.09). He reports persistent difficulty with weight management despite sincere and sustained efforts. Beginning in January 2022, Mr. Delgado was enrolled in a structured, physician-supervised weight management program through his primary care office, which included a formal low-calorie dietary plan (target 1,400 kcal/day), weekly activity goals (≥150 minutes moderate-intensity aerobic exercise per week), and monthly follow-up visits. Over the 6-month course of this program (January 2022–June 2022), he achieved a maximum weight loss of approximately 8 lbs, which was subsequently regained within 4 months of program completion. He was formally referred to a registered dietitian (RD) in August 2022, attending eight individual sessions through November 2022, with dietary logs and behavioral strategies documented. Despite adherence to the RD-directed plan, his weight returned to baseline by March 2023 and has remained at or above 240 lbs since that time.
+
+Mr. Delgado's obesity has directly contributed to the development and severity of two significant comorbid conditions: obstructive sleep apnea and atrial fibrillation. He was diagnosed with moderate-to-severe OSA (ICD-10: G47.33) via in-laboratory polysomnography in September 2021, with an apnea-hypopnea index (AHI) of 28 events/hour, oxygen nadir of 83%, and 14.2% sleep time with SpO₂ below 90%. He was initiated on CPAP therapy (ResMed AirSense 10, prescribed pressure 10–14 cmH₂O) in October 2021 and has demonstrated reasonable adherence (compliance data available: average 5.8 hours/night on >70% of nights). Despite CPAP use, his most recent follow-up titration study (March 2024) demonstrated residual AHI of 9.2 events/hour on current settings, and he continues to report excessive daytime sleepiness (Epworth Sleepiness Scale score of 12/24 as of May 2025). Evidence from the sleep medicine literature strongly supports that sustained weight reduction significantly reduces OSA severity, and in patients with a BMI ≥35, pharmacological weight loss intervention is a guideline-concordant adjunct to positive airway pressure therapy.
+
+His atrial fibrillation (ICD-10: I48.91) was first diagnosed in March 2023 following an emergency department visit for palpitations and dyspnea. Cardiac workup at that time included a 12-lead ECG confirming AF, transthoracic echocardiogram (TTE) revealing mild left atrial enlargement (LA diameter 4.3 cm) and preserved ejection fraction (EF 60%), and thyroid function tests within normal limits. He was initiated on rate control with metoprolol succinate and anticoagulation with apixaban. His CHA₂DS₂-VASc score is 2 (age ≥65 pending, hypertension absent, but prior AF episode and male sex). His cardiologist has explicitly noted in a letter dated April 2025 that obesity is a primary modifiable risk factor for AF recurrence and that weight reduction of 10–15% body weight is associated with reduced AF burden and decreased likelihood of AF recurrence, consistent with published data from the LEGACY trial and current HRS/ACC/AHA guidelines. A referral for AF ablation has been deferred pending meaningful weight reduction, as procedural risk and recurrence rates are substantially elevated in patients with BMI ≥35.
+
+---
+
+## PAST MEDICAL HISTORY
+
+1. Class II Obesity (E66.09) — onset >12 years, progressive
+2. Obstructive Sleep Apnea, moderate-to-severe (G47.33) — diagnosed September 2021, on CPAP
+3. Atrial Fibrillation, paroxysmal (I48.91) — diagnosed March 2023, on rate control and anticoagulation
+4. Hyperlipidemia — managed with rosuvastatin
+5. Prediabetes (HbA1c 5.8% as of February 2025) — managed with lifestyle modification
+6. Gastroesophageal reflux disease (GERD) — managed with pantoprazole
+7. No prior bariatric surgery; patient evaluated and declined surgical referral in 2023 after multidisciplinary bariatric consultation citing personal preference and perioperative AF-related risk
+
+---
+
+## CURRENT MEDICATIONS
+
+1. **Metoprolol succinate** 50 mg orally once daily (rate control, AF)
+2. **Apixaban (Eliquis)** 5 mg orally twice

@@ -4,77 +4,79 @@
 **Aetna Life Insurance Company**
 151 Farmington Avenue
 Hartford, CT 06156
-Member Services: 1-800-872-3862
-Provider Services: 1-800-859-4694
-Fax: 1-860-754-1577
+Phone: 1-800-872-3862 | Fax: 1-860-754-2701
+www.aetna.com
 
 ---
 
-**DATE:** June 16, 2025
-
-**REFERENCE NUMBER:** AUTH-2025-06-PA-884412
-
-**RE: Notice of Adverse Benefit Determination — Prior Authorization Denial**
+**NOTICE OF ADVERSE BENEFIT DETERMINATION**
+**— PRIOR AUTHORIZATION DENIAL —**
 
 ---
 
-**MEMBER INFORMATION**
-**Patient Name:** Jennifer L. Caldwell
+**Date:** June 16, 2025
+**Reference / Authorization Number:** AUTH-2025-06-100234-GLP1
+**Clinical Review Tracking Number:** UM-CR-2025-061601
+
+---
+
+**Member Information**
+**Member Name:** Jennifer L. Caldwell
 **Member ID / MRN:** MRN-100234
-**Date of Birth:** [DOB on file]
-**Plan Name:** Aetna Choice POS II
+**Date of Birth:** On file
+**Plan Name:** Aetna Commercial Medical Plan
 
-**PRESCRIBING PROVIDER INFORMATION**
-**Physician:** Dr. Susan Ramirez, MD — Internal Medicine
+**Requesting Provider Information**
+**Prescribing Physician:** Susan Ramirez, MD — Internal Medicine
 **NPI:** 1740291856
-**Practice Address:** [Address on file]
+**Practice Address:** On file
 
 ---
 
-## DRUG REQUESTED
+## RE: NOTICE OF ADVERSE BENEFIT DETERMINATION — PRIOR AUTHORIZATION DENIAL
 
-**Medication:** Semaglutide 2.4 mg/dose subcutaneous injection (Wegovy®)
-**Requested Quantity:** 4 pens/28-day supply
-**Diagnosis Codes:** E11.9 (Type 2 Diabetes Mellitus without complications); I10 (Essential [Primary] Hypertension); E66.9 (Obesity, unspecified)
-**Request Type:** Initial Prior Authorization
+Dear Jennifer L. Caldwell and Dr. Susan Ramirez, MD:
 
----
+Aetna Life Insurance Company has completed its utilization management review of the prior authorization request submitted on behalf of **Jennifer L. Caldwell (MRN-100234)** for the following medication:
 
-## DETERMINATION
-
-**☒ DENIED**
-
-Aetna has reviewed the prior authorization request submitted on behalf of **Jennifer L. Caldwell (MRN-100234)** for **semaglutide 2.4 mg (Wegovy®)**. After careful review of the submitted clinical documentation and application of Aetna's applicable clinical criteria, this request is **not approved** at this time.
-
-**Reason for Denial:** Step Therapy Requirements Not Satisfied
+| Field | Detail |
+|---|---|
+| **Drug Requested** | Semaglutide 2.4 mg/dose subcutaneous injection (Wegovy®) |
+| **Requested Dosage** | 0.25 mg subcutaneous weekly, titrated per prescribing information |
+| **Diagnosis Code(s)** | E11.65 (Type 2 diabetes mellitus with hyperglycemia); E66.09 (Other obesity); I10 (Essential hypertension) |
+| **Requested Duration** | 12 months |
 
 ---
 
-## POLICY BASIS
+## DETERMINATION: **NOT APPROVED — STEP THERAPY REQUIREMENT NOT SATISFIED**
 
-This determination was made in accordance with:
+After clinical review of the submitted documentation, Aetna has determined that the request for **semaglutide (Wegovy®)** is **not medically necessary as defined under the member's benefit plan** at this time. This determination is based on the member's failure to complete required step therapy as outlined in Aetna's applicable clinical coverage criteria.
 
-- **Aetna Clinical Policy Bulletin No. 0580** — *Obesity: Prescription Weight Loss Drugs and Programs* (effective date: January 1, 2025; most recent review: March 15, 2025)
-- **Aetna Step Therapy Protocol ST-0041** — *GLP-1 Receptor Agonists and GIP/GLP-1 Co-Agonists for Weight Management*
-- Member's applicable Certificate of Coverage and Evidence of Coverage documents
-- FDA-approved prescribing information for semaglutide 2.4 mg (Wegovy®)
+**This is not a determination that the requested service is inappropriate for your condition in general. Rather, the benefit plan requires that certain prerequisite therapies be tried and documented prior to coverage of this agent.**
 
 ---
 
-## CLINICAL RATIONALE
+## POLICY BASIS AND CLINICAL RATIONALE
 
-Aetna acknowledges the following clinical information submitted in support of this request:
+**Applicable Clinical Policy Bulletin:** Aetna Clinical Policy Bulletin No. **0580** — *Obesity and Weight Management Pharmacotherapy (GLP-1 Receptor Agonists and Related Agents)*, effective January 1, 2025 (hereinafter "CPB 0580").
+
+**Applicable Plan Provision:** Member Certificate of Coverage, Section 7, Utilization Management and Prescription Drug Benefit Requirements; Step Therapy Protocol, effective plan year January 1, 2025.
+
+### Summary of Clinical Information Reviewed
+
+Aetna's clinical reviewer, a licensed physician board-certified in Internal Medicine, reviewed the following documentation submitted in support of this request:
+
+- Prior authorization request form submitted by Dr. Susan Ramirez, MD (NPI: 1740291856), dated June 12, 2025
+- Clinical notes as submitted by the requesting provider
+
+The following clinical profile was identified for **Jennifer L. Caldwell (MRN-100234)**:
 
 - **Age:** 45 years
+- **Sex:** Female
 - **BMI:** 38 kg/m²
-- **Documented comorbidities:** Type 2 diabetes mellitus (E11.9), essential hypertension (I10)
-- **Requesting indication:** Chronic weight management as an adjunct to reduced-calorie diet and increased physical activity
+- **Relevant Diagnoses:** Type 2 diabetes mellitus; obesity (Class II); essential hypertension
+- **Current Medications:** As submitted by provider
 
-While the member's BMI and documented comorbidities may satisfy certain baseline eligibility criteria under Clinical Policy Bulletin 0580, **authorization for semaglutide 2.4 mg (Wegovy®) as a branded, higher-cost GLP-1 receptor agonist for weight management cannot be approved at this time because the required step therapy protocol has not been completed.**
+### Reason for Denial
 
-Specifically, Aetna's Step Therapy Protocol ST-0041 requires that a member demonstrate **an adequate trial and documented failure, contraindication, or clinically significant intolerance** of **at least two (2) of the following first-line pharmacologic agents** prior to authorization of semaglutide 2.4 mg (Wegovy®):
-
-1. **Orlistat** (Xenical®/Alli®) — at an appropriate therapeutic dose for a minimum of **90 consecutive days**
-2. **Phentermine/topiramate extended-release** (Qsymia®) — at an appropriate therapeutic dose for a minimum of **90 consecutive days**
-3. **Naltrexone/bupropion extended-release** (Contrave®) — at an appropriate therapeutic dose for a minimum of **90 consecutive days**
-4
+Pursuant to **CPB 0580, Section IV.A.2 (Step Therapy Requirements for Anti-Obesity Pharmacotherapy in Members with Comorbid Type 2 Diabetes)**, coverage of semaglutide 2.4 mg (Wegovy®) requires documented evidence that the member has completed an adequate trial of **at least one (1) preferred step therapy agent** prior to advancing
